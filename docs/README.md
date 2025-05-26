@@ -8,7 +8,7 @@ This project uses CrewAI to create a team (or _crew_) of agents to:
 * Use the results to create **business-ready presentations** using AI. Note that nothing has been changed by me in the presentations, so there are some oddities in the AI images (although I think they are very impressive for being made in seconds).
 
 The project uses CrewAI for a number of reasons, but mainly because it is open source
-and serves as a flexible, application-agnostic agent-building framework.
+and serves as a flexible, application-agnostic agent-building platform.
 
 A visual representation of the project is below:
 
