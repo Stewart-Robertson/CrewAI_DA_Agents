@@ -29,12 +29,19 @@ Two datasets were used to develop the project, and both were created using mocka
 1. transaction_data_with_errors.csv - 1,000 rows x 10 columns, with missing data
 2. Superannuation.csv - 1,000 rows x 20 columns, with missing data
 
+## Cost
+I estimate the cost to be around 0.3-0.4 USD to produce a presentation based on my own use, which was with a mixture of gpt-4o-mini and gpt-4.1-mini.
+
 ## Limitations
+### API Limits
 Using csv files with LLM API calls uses a lot of tokens. This project will exceed token limits for gpt-4o/4.1-mini when anything more than approx 700 lines x 20 columns
 are read by an agent and sent to the API. As such, limiting how much of the file is read by each agent is necessary.
 
 This also means that a comprehensive analysis of all the data isn't possible.
 _The agents' output should serve as a baseline for further analysis and human-led insight generation._
+
+### Validation
+Working with LLMs can be unpredictable due to both their lack of determinism and capacity for hallucination. If this project were to be developed further, a focus would be on building in validation and evaluation functionality to ensure output is fully trustworthy.
 
 ## Setup
 
