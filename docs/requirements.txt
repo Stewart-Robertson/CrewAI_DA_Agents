@@ -1,0 +1,10 @@
+# Requirements file
+matplotlib==3.10.3
+numpy==2.2.6
+seaborn==0.13.2
+pandas==2.2.3
+
+
+# CrewAI versions to install (not required in requirements.txt
+crewai==0.121.0
+Crewai-tools==0.45.0

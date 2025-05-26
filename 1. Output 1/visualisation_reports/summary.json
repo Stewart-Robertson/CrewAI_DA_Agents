@@ -1,0 +1,20 @@
+{
+    "files": [
+        "visualisation_reports/gender_distribution.png",
+        "visualisation_reports/employment_status_distribution.png",
+        "visualisation_reports/salary_distribution.png",
+        "visualisation_reports/super_balance_boxplot.png",
+        "visualisation_reports/super_balance_distribution.png",
+        "visualisation_reports/contribution_rates_comparison.png",
+        "visualisation_reports/investment_options_distribution.png"
+    ],
+    "summary": {
+        "gender_distribution": "Bar plot showing count of members by gender.",
+        "employment_status_distribution": "Bar plot showing count of members by employment status.",
+        "salary_distribution": "Histogram with KDE showing distribution of member salaries.",
+        "super_balance_boxplot": "Boxplot indicating distribution and outliers in super balances.",
+        "super_balance_distribution": "Histogram with KDE of super balance distribution.",
+        "contribution_rates_comparison": "Scatter plot showing relationship between employer and employee contribution rates.",
+        "investment_options_distribution": "Bar plot showing count of members by investment option."
+    }
+}

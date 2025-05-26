@@ -1,0 +1,1001 @@
+member_id,first_name,last_name,date_of_birth,gender,employment_status,salary,employer_contribution_rate,employee_contribution_rate,super_balance,investment_option,insurance_coverage,beneficiary_name,beneficiary_relationship,contact_number,email,address,city,state,postal_code
+1,Shana,Routledge,4/15/2015,,,212584.96,0.1585,0.0635,8664979.36,Moderate,true,Shana Routledge,sibling,548-740-6787,sroutledge0@accuweather.com,49556 Green Ridge Circle,Gävle,X,806 36
+2,Chad,Bach,6/18/1999,Female,employed,123021.36,0.1268,0.0995,9086205.2,Balanced,false,Chad Bach,spouse,149-558-2572,cbach1@miibeian.gov.cn,5947 Moland Drive,Zambujeira,11,2530-327
+3,Amory,Eouzan,6/22/2005,Male,employed,91092.23,0.0651,0.0972,9948626.06,High Growth,true,Amory Eouzan,child,667-896-5560,aeouzan2@altervista.org,,Asaka,,963-0107
+4,Emeline,Pierrepoint,1/3/1933,Female,unemployed,192934.92,0.1285,0.0396,3619055.55,Capital Guaranteed,false,Emeline Pierrepoint,parent,825-880-3283,epierrepoint3@rakuten.co.jp,8 Eastwood Center,Zlatoust,,456209
+5,Laurianne,Blazewicz,3/18/1935,Female,employed,,0.1299,0.0598,4571745.81,Capital Guaranteed,false,Laurianne Blazewicz,sibling,292-683-5792,lblazewicz4@toplist.cz,5745 Bashford Road,Tsurusaki,,870-0106
+6,Malissia,Moggan,10/24/1940,,unemployed,,0.1887,0.0778,3287503.35,International Growth,true,Malissia Moggan,child,334-617-9634,mmoggan5@amazon.co.uk,67275 Maple Wood Road,Anin,,
+7,Ingra,Gabbitis,4/12/2005,Male,employed,,0.1396,0.0659,8265433.85,Socially Responsible Balanced,true,Ingra Gabbitis,sibling,519-445-2866,igabbitis6@parallels.com,04 Warner Way,Gevgelija,,1480
+8,Jackqueline,Burehill,3/18/1904,Female,unemployed,59900.64,0.0707,0.0546,3927991.4,International Growth,false,Jackqueline Burehill,sibling,,jburehill7@etsy.com,4 Larry Point,Livingstone,,
+9,Katherine,Pettyfer,1/30/1936,Female,unemployed,483637.95,0.1478,0.0753,9204529.49,International Growth,false,Katherine Pettyfer,parent,560-904-4270,kpettyfer8@fastcompany.com,44692 Kings Avenue,Oymak,,
+10,Kahlil,Serraillier,10/27/1940,Male,unemployed,11639.85,0.0349,0.0577,3082440.41,Balanced,false,Kahlil Serraillier,child,116-882-0061,kserraillier9@answers.com,7027 Clemons Place,Sevilla,AN,41015
+11,Genni,Kikke,5/25/1930,Female,unemployed,,0.086,0.0115,8796970.68,International Growth,false,Genni Kikke,sibling,931-446-1378,gkikkea@google.ru,9691 Browning Way,Bukal,,
+12,Gwenneth,O'Dougherty,12/13/1998,Female,unemployed,148494.29,0.15,0.0197,127874.46,Balanced,false,Gwenneth O'Dougherty,child,891-533-9088,godoughertyb@vkontakte.ru,23473 Comanche Center,Mosteiros,12,7340-214
+13,Merwyn,Pithcock,2/5/1949,Male,self-employed,282803.75,0.1696,0.0645,6551002.25,Capital Guaranteed,false,Merwyn Pithcock,child,933-181-6148,mpithcockc@people.com.cn,5 Toban Junction,Tha Muang,,71110
+14,Carrol,Pointing,6/3/2007,Male,self-employed,287843.85,0.0993,0.0479,929538.6,Balanced,true,Carrol Pointing,child,356-674-3719,cpointingd@answers.com,5 Bobwhite Street,Ancol,,
+15,Alanson,Hamal,2/15/1913,Male,self-employed,306577.44,0.1568,0.0783,7113751.02,Moderate,false,Alanson Hamal,child,435-598-2381,ahamale@netlog.com,24 Bowman Trail,Launceston,TAS,7916
+16,Missy,Mulvaney,4/4/1993,Female,self-employed,,0.1584,0.0713,3723826.54,Cash,false,Missy Mulvaney,parent,130-297-1793,mmulvaneyf@msu.edu,0507 Fairfield Trail,Volgorechensk,,156901
+17,Rhianna,McMillian,10/5/1964,Female,,,0.1125,0.096,3541071.6,International Growth,false,Rhianna McMillian,parent,548-820-6867,rmcmilliang@vistaprint.com,4318 Thompson Point,Skawica,,
+18,Randy,Gulston,4/3/2004,Male,unemployed,45685.88,0.0633,0.0057,8877666.48,Capital Guaranteed,false,Randy Gulston,spouse,802-970-3146,rgulstonh@taobao.com,47 Blaine Parkway,Périgueux,97,24053 CEDEX
+19,Rayshell,Gatchel,11/24/1976,Female,self-employed,350326.91,0.1712,0.0042,6747978.66,Growth,false,Rayshell Gatchel,parent,,rgatcheli@economist.com,57288 Mifflin Court,Nagai,,986-0303
+20,Alessandro,Bickerton,1/4/1951,Male,self-employed,474338.92,0.0093,0.0814,3859578.98,Conservative,false,Alessandro Bickerton,child,352-947-8032,abickertonj@instagram.com,,Naprawa,,34-721
+21,Winny,Skirving,8/3/1932,Male,self-employed,,0.1357,0.0448,9075774.4,Balanced,false,Winny Skirving,parent,410-262-4619,wskirvingk@myspace.com,2499 Northport Place,Tāybād,,
+22,Dewain,Isworth,8/15/2012,Polygender,,199003.69,0.0512,0.0772,1516318.61,Growth,true,Dewain Isworth,child,707-425-9948,disworthl@themeforest.net,807 International Plaza,Měnín,,664 57
+23,Tarrance,Haisell,4/30/1915,Male,unemployed,,0.1351,0.0234,4530983.93,Moderate,true,Tarrance Haisell,child,439-342-3722,thaisellm@google.es,137 Sunfield Plaza,Riangbao,,
+24,Locke,Bothram,4/25/1964,Male,employed,484322.35,0.195,0.0818,5080835.01,Growth,true,Locke Bothram,parent,182-640-0099,lbothramn@sun.com,1295 Stephen Alley,Yanahuaya,,
+25,Birdie,Ceci,10/19/1978,Female,self-employed,397776.83,0.0122,0.0012,6828241.06,Moderate,true,Birdie Ceci,spouse,937-178-3142,bcecio@nydailynews.com,55 Johnson Park,Símantra,,
+26,Lucita,Allbut,6/17/1952,Bigender,,,0.051,0.0421,8427877.99,Capital Guaranteed,false,Lucita Allbut,spouse,860-806-0985,lallbutp@trellian.com,31 Sheridan Road,La Dorada,,175038
+27,Erny,Almeida,5/17/1953,,employed,56435.21,0.0557,0.0558,6843423.11,Moderate,false,Erny Almeida,parent,860-265-3675,ealmeidaq@livejournal.com,2 Raven Avenue,Xiaojia,,
+28,Iorgos,Done,7/23/1901,Male,unemployed,259968.43,0.1252,0.0597,4043393.65,Moderate,false,Iorgos Done,parent,,idoner@diigo.com,52 Weeping Birch Drive,Zadní Mostek,,544 75
+29,Alysa,Aspland,3/29/1939,Female,unemployed,291207.95,0.1008,0.0928,4855361.63,Socially Responsible Balanced,false,Alysa Aspland,parent,416-856-2234,aasplands@yandex.ru,78612 Pine View Avenue,Neuilly-sur-Seine,A8,92521 CEDEX
+30,Forester,Deeprose,5/4/1967,,self-employed,454220.68,0.0313,0.0962,8145634.86,High Growth,false,Forester Deeprose,sibling,696-853-3344,fdeeproset@unesco.org,832 Oriole Crossing,Thị Trấn Bắc Yên,,
+31,Wally,Gander,12/16/2014,,unemployed,471792.86,0.0722,0.0026,6039052.75,Socially Responsible Balanced,false,Wally Gander,child,352-989-8407,wganderu@nhs.uk,14 Del Mar Plaza,Toulouse,B3,31085 CEDEX 2
+32,Delphinia,Sweetzer,8/31/1984,Female,employed,,0.1541,0.005,700515.2,Cash,false,Delphinia Sweetzer,spouse,,dsweetzerv@ted.com,63 Bultman Parkway,Minsk,,
+33,Forester,Taveriner,11/10/1927,Male,self-employed,374469.9,0.0052,0.0948,3276326.77,Socially Responsible Balanced,false,Forester Taveriner,spouse,892-465-1545,ftaverinerw@nifty.com,19252 Mayfield Plaza,Tajur,,
+34,Hobard,Southall,1/14/1989,,self-employed,398124.93,0.0216,0.0268,5398524.51,Socially Responsible Balanced,false,Hobard Southall,sibling,800-117-6853,hsouthallx@shutterfly.com,2 Troy Drive,Beroroha,,
+35,Yorke,Velte,6/19/1944,Male,self-employed,70852.8,0.0013,0.0234,7425903.92,High Growth,true,Yorke Velte,sibling,824-456-3152,yveltey@google.es,43323 Bayside Alley,Gonghe,,
+36,Stearn,Dudenie,1/2/1958,Male,employed,410493.92,0.0774,0.0609,9882556.0,International Growth,false,Stearn Dudenie,spouse,270-376-7723,sdudeniez@yelp.com,4893 Milwaukee Trail,Tavira,08,8800-303
+37,Broderic,Wintersgill,12/2/2007,Male,employed,447565.65,0.1642,0.0034,5327320.67,High Growth,true,Broderic Wintersgill,spouse,,bwintersgill10@squidoo.com,79 Springs Trail,Den Chai,,54140
+38,Opaline,O' Shea,2/25/2019,Female,unemployed,211288.37,0.0201,0.0101,5115771.08,Socially Responsible Balanced,false,Opaline O' Shea,child,768-849-3192,oo11@businessweek.com,13577 Eliot Circle,Cikeper,,
+39,Stanislas,Pottage,7/31/2016,Male,employed,36959.37,0.1812,0.0846,6886020.3,International Growth,false,Stanislas Pottage,child,200-709-8974,spottage12@springer.com,292 Old Shore Avenue,Fastiv,,
+40,Annamaria,Hewins,10/21/1937,Female,employed,,0.0391,0.063,4483602.8,High Growth,true,Annamaria Hewins,parent,,ahewins13@sfgate.com,87070 Pond Trail,Qal‘eh Ganj,,
+41,Evered,Houlden,5/20/2011,Bigender,employed,388146.44,0.0671,0.0612,9172468.25,Cash,true,Evered Houlden,spouse,,ehoulden14@sfgate.com,,Richmond,,7090
+42,Mortimer,Mervyn,8/31/1966,,unemployed,250217.86,0.1974,0.0121,2527471.09,Cash,false,Mortimer Mervyn,child,298-418-2473,mmervyn15@jimdo.com,8248 Lake View Pass,Huangzhou,,
+43,Agace,Matovic,7/28/1912,Female,self-employed,8571.41,0.0591,0.0959,8789994.23,High Growth,true,Agace Matovic,spouse,366-783-5363,amatovic16@hc360.com,,Daohe,,
+44,Shelby,Mount,2/23/1931,Male,employed,262369.33,0.1813,0.0745,383794.09,Conservative,false,Shelby Mount,child,215-400-7364,smount17@bing.com,037 High Crossing Lane,Meixian,,
+45,Velma,Clayworth,9/29/1966,Female,self-employed,,0.1292,0.0143,2608218.04,Growth,true,Velma Clayworth,sibling,607-371-7791,vclayworth18@xrea.com,63700 Hansons Pass,Myronivka,,
+46,Germain,Shillington,8/21/1930,Female,unemployed,280049.6,0.1463,0.0433,9927973.22,Balanced,false,Germain Shillington,parent,294-461-9448,gshillington19@goo.gl,009 Lake View Pass,Jenang Selatan,,
+47,Lenette,De Stoop,2/18/1980,Female,unemployed,178420.67,0.148,0.0579,6748710.98,Conservative,true,Lenette De Stoop,sibling,378-156-1215,lde1a@washingtonpost.com,67577 Northport Court,El Copey,,201018
+48,Alastair,Scinelli,5/12/1978,Male,self-employed,,0.1724,0.0664,8860415.43,Capital Guaranteed,false,Alastair Scinelli,sibling,,ascinelli1b@sun.com,,Patnongon,,
+49,Lennard,Capstaff,9/22/2000,Male,,380082.13,0.0967,0.0525,7068245.61,Capital Guaranteed,false,Lennard Capstaff,child,154-747-6583,lcapstaff1c@weibo.com,1500 Gateway Drive,Olofström,K,293 93
+50,Claudianus,Tuckley,3/7/1948,Male,self-employed,,0.093,0.0918,4546508.64,Balanced,true,Claudianus Tuckley,child,694-368-9361,ctuckley1d@deliciousdays.com,928 Oxford Parkway,H̱olon,,
+51,Lodovico,Grishagin,2/25/1963,Male,unemployed,188684.98,0.1916,0.0564,7831360.19,Socially Responsible Balanced,false,Lodovico Grishagin,child,931-699-3212,lgrishagin1e@mysql.com,68 Mayer Drive,Xixiang,,
+52,Idelle,Mogenot,1/22/1939,Female,self-employed,105164.13,0.0014,0.036,2955863.82,Capital Guaranteed,true,Idelle Mogenot,child,639-804-9744,imogenot1f@spiegel.de,93 Namekagon Center,Przybiernów,,72-110
+53,Harriet,Easman,4/1/1919,Female,unemployed,194940.3,0.1643,0.0224,249933.59,High Growth,true,Harriet Easman,parent,577-860-2340,heasman1g@cafepress.com,47 Kings Drive,Luže,,
+54,Worth,Galley,5/6/1939,Male,unemployed,,0.1217,0.0077,9534537.08,High Growth,true,Worth Galley,spouse,633-782-2821,wgalley1h@npr.org,789 Bultman Place,Shiḩan as Suflá,,
+55,Felike,Devons,8/22/1944,Male,unemployed,378210.2,0.0107,0.0275,3856738.64,Conservative,false,Felike Devons,sibling,831-669-3323,fdevons1i@freewebs.com,77670 Tomscot Hill,Agbannawag,,5103
+56,Yehudi,Toye,10/17/2022,Male,unemployed,397867.36,0.0973,0.0095,6310148.7,Moderate,true,Yehudi Toye,spouse,926-771-0208,ytoye1j@blogs.com,091 Jenifer Circle,San Juan,,6227
+57,Thatcher,Dunstone,8/25/2008,Male,unemployed,,0.1193,0.0849,1616727.76,Capital Guaranteed,true,Thatcher Dunstone,spouse,762-952-3403,tdunstone1k@theatlantic.com,927 American Ash Crossing,Staraya Ladoga,,187412
+58,Merilee,Schooley,8/9/1950,Female,employed,467764.58,0.0673,0.0925,7307644.4,Growth,true,Merilee Schooley,sibling,597-232-4224,mschooley1l@studiopress.com,1 Rowland Road,Dongzha,,
+59,Ailsun,Henlon,1/22/1909,Female,self-employed,,0.1803,0.0529,8774097.53,Conservative,true,Ailsun Henlon,parent,479-769-3570,ahenlon1m@e-recht24.de,1 Marcy Junction,Hadakewa,,
+60,Cyrillus,Cuniam,12/3/1941,Male,unemployed,252950.41,0.0807,0.0138,2852698.11,Balanced,true,Cyrillus Cuniam,child,926-534-0230,ccuniam1n@lycos.com,,Muara,,
+61,Lanie,Spinas,11/1/1988,,,25669.71,0.1025,0.0152,6757680.16,Socially Responsible Balanced,false,Lanie Spinas,child,,lspinas1o@imageshack.us,859 American Ash Park,Santa Cruz,,5105
+62,Fidel,Bruhke,10/24/2001,Male,self-employed,207256.27,0.1303,0.0892,1746952.77,Cash,false,Fidel Bruhke,spouse,352-375-6225,fbruhke1p@webs.com,,Legen,,
+63,Redd,Spurryer,3/16/1981,Male,self-employed,492009.26,0.0017,0.0395,8474645.19,Conservative,true,Redd Spurryer,sibling,,rspurryer1q@hud.gov,09 Katie Way,Al Qaţīf,,
+64,Shalom,O'Flaverty,1/13/2006,Male,employed,97379.56,0.0876,0.0092,9650026.72,Moderate,false,Shalom O'Flaverty,child,404-636-7067,soflaverty1r@ucsd.edu,0 Charing Cross Terrace,Atlanta,GA,30343
+65,Forest,Ropkins,11/10/1956,Polygender,unemployed,270129.71,0.0046,0.0588,6846952.42,Growth,true,Forest Ropkins,child,965-831-3156,fropkins1s@va.gov,51 Warbler Way,Būlaevo,,
+66,Dorelle,Garrattley,12/30/2021,Female,employed,35813.56,0.1145,0.0728,8227483.5,Conservative,false,Dorelle Garrattley,sibling,270-338-9241,dgarrattley1t@imgur.com,309 Twin Pines Park,Drochia,,MD-5233
+67,Nessa,Spridgeon,3/26/1964,Bigender,employed,330190.22,0.0838,0.0645,3566653.36,Growth,true,Nessa Spridgeon,sibling,175-266-9530,nspridgeon1u@jiathis.com,24839 Old Shore Court,Liboro,,5004
+68,Dominica,Dechelette,9/20/1984,Female,self-employed,98184.72,0.0958,0.0564,6276092.31,Balanced,false,Dominica Dechelette,sibling,,ddechelette1v@slashdot.org,226 Mallory Plaza,Pailin,,
+69,Cindee,Garretson,4/17/2020,,employed,,0.1128,0.0733,3769310.92,Capital Guaranteed,false,Cindee Garretson,spouse,793-292-1618,cgarretson1w@webs.com,,Storvik,X,812 30
+70,Fifi,Ficken,7/23/1916,Female,unemployed,439055.05,0.1191,0.0423,7212625.81,Moderate,true,Fifi Ficken,spouse,588-825-3093,fficken1x@engadget.com,9661 Nelson Alley,Songying,,
+71,Desmond,Jenner,6/2/1928,Male,self-employed,429320.7,0.0146,0.0098,8394168.66,International Growth,false,Desmond Jenner,parent,,djenner1y@lycos.com,9876 Pine View Street,Coruripe,,57230-000
+72,Sam,Kinglake,2/6/2000,Female,employed,,0.1577,0.0108,6823437.71,Cash,true,Sam Kinglake,child,765-158-3230,skinglake1z@redcross.org,,Porciúncula,,28390-000
+73,Giulia,Garlinge,11/27/1997,Female,unemployed,46624.58,0.1803,0.0634,8863721.01,High Growth,false,Giulia Garlinge,spouse,499-584-8201,ggarlinge20@engadget.com,1 Shopko Parkway,Tomioka,,
+74,Drusy,Tinto,3/4/2016,Female,unemployed,100937.87,0.1919,0.0172,6389170.85,Cash,false,Drusy Tinto,spouse,955-887-1041,dtinto21@patch.com,46 Vernon Drive,San Nicolas,,4207
+75,Waneta,Gaskill,8/26/1912,Female,self-employed,,0.0798,0.0056,643296.81,Balanced,false,Waneta Gaskill,spouse,395-586-5830,wgaskill22@sciencedaily.com,70297 Pearson Plaza,Seidu,,
+76,Shelton,Athy,2/17/1947,Male,employed,389572.99,0.0758,0.0782,6958881.05,International Growth,false,Shelton Athy,spouse,621-620-0750,sathy23@wisc.edu,69 Nobel Drive,Wakapuken,,
+77,Morley,Goodwill,2/13/1936,Bigender,unemployed,,0.109,0.059,5380615.12,International Growth,false,Morley Goodwill,parent,112-279-3322,mgoodwill24@umn.edu,509 David Road,Berezanka,,
+78,Cherianne,Liepmann,4/13/1949,Female,self-employed,,0.1072,0.0452,8697936.06,Capital Guaranteed,false,Cherianne Liepmann,sibling,790-342-6077,cliepmann25@amazon.co.uk,94 Fulton Park,Outeiro,17,5470-332
+79,Peirce,Brodway,8/14/1993,Genderfluid,unemployed,469923.3,0.0551,0.0733,1576591.81,Cash,true,Peirce Brodway,parent,323-644-7395,pbrodway26@kickstarter.com,98371 Brown Street,Talon,,
+80,Saunders,Birchenough,11/29/1953,Male,employed,,0.1331,0.0165,9823779.95,High Growth,false,Saunders Birchenough,spouse,531-210-5688,sbirchenough27@seattletimes.com,264 Westport Junction,Monguno,,
+81,Paco,Gorrick,7/27/1904,Male,unemployed,,0.1938,0.0793,1661182.31,Cash,true,Paco Gorrick,spouse,558-700-2545,pgorrick28@bravesites.com,82781 Ridgeway Avenue,Neftekamsk,,452696
+82,Nobie,Dallewater,3/5/1982,Non-binary,unemployed,406988.84,0.0918,0.0182,5942236.28,Socially Responsible Balanced,false,Nobie Dallewater,sibling,723-792-5118,ndallewater29@smh.com.au,,Alvito,02,
+83,Andriana,Woodeson,5/30/2006,Female,,430824.11,0.1132,0.0603,468543.6,Capital Guaranteed,false,Andriana Woodeson,child,898-750-2520,awoodeson2a@themeforest.net,68378 Crescent Oaks Hill,Toyós,,
+84,Aeriela,Giacaponi,2/25/2000,Female,self-employed,449694.31,0.1823,0.0714,9618853.31,Socially Responsible Balanced,false,Aeriela Giacaponi,sibling,286-847-4063,agiacaponi2b@goodreads.com,7 Melrose Drive,Pulau Pinang,PNG,10612
+85,Marlo,Fenwick,7/17/1913,Female,self-employed,313978.74,0.1384,0.0694,7471560.17,International Growth,true,Marlo Fenwick,sibling,232-935-4890,mfenwick2c@plala.or.jp,915 Lakewood Trail,Leuwibuleud,,
+86,Kerrie,Heddon,3/18/1976,Female,employed,244040.26,0.068,0.0743,5105390.99,Cash,false,Kerrie Heddon,sibling,334-718-8575,kheddon2d@marketwatch.com,19 Upham Place,Volodars’k-Volyns’kyy,,
+87,Freddy,Vallerine,5/11/1972,Female,unemployed,,0.0259,0.0804,5840337.17,Balanced,false,Freddy Vallerine,parent,855-883-9459,fvallerine2e@timesonline.co.uk,,Xingang,,
+88,Dwight,Mityushkin,3/18/1975,Male,self-employed,263505.76,0.1435,0.0142,36561.33,Balanced,true,Dwight Mityushkin,parent,367-314-0359,dmityushkin2f@delicious.com,7991 Vera Pass,Lenger,,
+89,Alberik,Vossgen,9/20/1907,Male,unemployed,11586.08,0.1194,0.0219,1697021.37,Capital Guaranteed,false,Alberik Vossgen,sibling,942-272-3048,avossgen2g@1und1.de,,Béziers,A9,34536 CEDEX
+90,Jeremiah,Priden,5/31/1911,Male,self-employed,75102.17,0.1739,0.0464,9587966.45,Conservative,false,Jeremiah Priden,spouse,811-641-9937,jpriden2h@fema.gov,7877 Stoughton Way,Gotse Delchev,,2971
+91,Demetri,Greenan,7/28/1915,,self-employed,155280.03,0.0176,0.0284,5977472.04,High Growth,true,Demetri Greenan,parent,843-701-5613,dgreenan2i@aol.com,50164 Packers Plaza,Pavlovka,,
+92,Nikos,Lanchbery,10/30/1945,,employed,266496.45,0.0798,0.0783,2769207.36,Conservative,false,Nikos Lanchbery,parent,175-736-3303,nlanchbery2j@nature.com,25 Northland Place,Huangduobu,,
+93,Helga,Everil,11/4/1934,Female,self-employed,36885.71,0.0721,0.0509,2066067.8,Growth,false,Helga Everil,sibling,499-828-4980,heveril2k@techcrunch.com,,Arbuzynka,,
+94,Kaylee,Kidwell,1/15/1941,Female,unemployed,409439.46,0.0341,0.0513,4969970.22,Conservative,false,Kaylee Kidwell,parent,175-419-0817,kkidwell2l@ow.ly,3 Clarendon Plaza,Fayzabad,,
+95,Ramona,Gooderridge,9/6/2021,Female,employed,,0.165,0.0719,5763212.02,Socially Responsible Balanced,false,Ramona Gooderridge,child,,rgooderridge2m@newyorker.com,,Hebu,,
+96,Jasmin,MacGaughie,1/18/1951,Female,employed,318355.01,0.0217,0.0527,3278584.14,Balanced,false,Jasmin MacGaughie,sibling,614-394-2004,jmacgaughie2n@squidoo.com,67835 Lunder Circle,Oinófyta,,
+97,Brenn,Fitter,10/30/1984,,employed,295938.4,0.1976,0.0145,4903412.51,Growth,true,Brenn Fitter,child,883-820-9870,bfitter2o@youku.com,8125 Di Loreto Court,Quintela,03,4890-110
+98,Abeu,Abramzon,2/22/1960,Male,self-employed,366587.89,0.0602,0.0034,1765671.76,International Growth,false,Abeu Abramzon,parent,370-851-6496,aabramzon2p@cnet.com,60 Sugar Junction,Extrema,,37640-000
+99,Lucilia,Kohter,1/7/1902,Female,employed,207975.43,0.1621,0.0122,2495473.84,Socially Responsible Balanced,false,Lucilia Kohter,sibling,541-446-0341,lkohter2q@usnews.com,96 Oneill Point,Rijeka,,
+100,Bert,Pithie,4/15/1966,Female,self-employed,129764.86,0.0199,0.0243,4359777.41,Cash,false,Bert Pithie,spouse,800-728-3655,bpithie2r@paginegialle.it,652 Tennessee Pass,Xylaganí,,
+101,Davine,Falconar,10/24/2004,Female,self-employed,243101.49,0.0192,0.0506,9548440.35,International Growth,true,Davine Falconar,spouse,354-117-6698,dfalconar2s@gizmodo.com,78 2nd Way,Taverny,A8,95251 CEDEX
+102,Catarina,Rignold,9/13/1900,Female,self-employed,,0.183,0.0145,2850781.25,Growth,false,Catarina Rignold,sibling,916-138-4209,crignold2t@jalbum.net,17 Tennessee Plaza,Kampungladang,,
+103,Jone,Shevlane,8/12/1940,,unemployed,121270.03,0.1177,0.0725,7049436.54,Conservative,true,Jone Shevlane,parent,417-686-6509,jshevlane2u@opera.com,14774 Stuart Plaza,Brodek u Přerova,,751 03
+104,Tamma,Simnell,7/8/1992,Genderfluid,unemployed,26274.89,0.0299,0.0593,4261891.78,International Growth,true,Tamma Simnell,parent,214-867-3795,tsimnell2v@ft.com,78 Fuller Circle,Jelbuk,,
+105,Brocky,Barritt,10/27/1946,Male,unemployed,281043.51,0.1247,0.016,3872576.28,Cash,false,Brocky Barritt,parent,807-453-0439,bbarritt2w@webnode.com,513 Dixon Road,Gunan,,
+106,Luisa,Reynold,12/28/1955,Female,unemployed,162694.17,0.0746,0.0775,9939548.86,Balanced,false,Luisa Reynold,child,906-405-0097,lreynold2x@foxnews.com,3 Springview Road,Neyagawa,,573-1191
+107,Rinaldo,Redier,8/8/1959,Male,self-employed,92999.82,0.0775,0.0108,814821.14,Capital Guaranteed,true,Rinaldo Redier,sibling,223-702-0157,rredier2y@hp.com,,Hecun,,
+108,Ardine,Shilstone,2/19/2017,Female,unemployed,146571.92,0.14,0.0242,4247434.48,High Growth,false,Ardine Shilstone,sibling,426-425-5816,ashilstone2z@howstuffworks.com,805 Lunder Park,Villiers,,
+109,Jeannine,Lutzmann,3/12/1959,,,,0.1039,0.0144,4209676.47,Conservative,true,Jeannine Lutzmann,spouse,783-622-2787,jlutzmann30@domainmarket.com,67 Mcguire Center,Depok,,
+110,Vaughn,Clell,3/12/1942,Male,employed,214453.94,0.1098,0.09,914754.75,Socially Responsible Balanced,false,Vaughn Clell,child,,vclell31@narod.ru,2 Birchwood Park,São Sepé,,97340-000
+111,Car,Harlow,2/5/1973,Male,unemployed,400189.11,0.0587,0.0991,7152262.74,Capital Guaranteed,false,Car Harlow,spouse,570-567-2305,charlow32@bloglovin.com,3 Eggendart Circle,Maymana,,
+112,Kristy,Llorente,11/19/1990,Female,unemployed,464469.94,0.1128,0.0989,172942.27,Moderate,true,Kristy Llorente,child,861-772-6277,kllorente33@acquirethisname.com,39 Arizona Point,Hechuan,,
+113,Joelly,Wardhough,11/27/1956,Female,,496187.19,0.0882,0.0275,9674938.25,High Growth,false,Joelly Wardhough,parent,172-514-0587,jwardhough34@google.it,23 Monument Junction,Fuvahmulah,,
+114,Tore,Pothbury,10/25/1915,Male,self-employed,,0.1727,0.0753,2604234.46,Balanced,false,Tore Pothbury,child,828-111-8718,tpothbury35@techcrunch.com,03 Schmedeman Junction,Cândido Mota,,19880-000
+115,Moyna,Tibb,9/20/1917,,unemployed,256272.15,0.0792,0.0305,5656377.79,Balanced,false,Moyna Tibb,spouse,367-974-7233,mtibb36@timesonline.co.uk,48192 Commercial Alley,Wuppertal,NW,42285
+116,Celesta,Messingham,1/26/1945,Female,unemployed,,0.0923,0.0488,8636916.57,Balanced,false,Celesta Messingham,child,995-138-8644,cmessingham37@diigo.com,6 Arapahoe Alley,Kaliuling,,
+117,Gates,Kimber,8/15/1972,,self-employed,216382.93,0.0759,0.0841,5310724.8,Moderate,true,Gates Kimber,parent,,gkimber38@apache.org,,Chengtang,,
+118,Queenie,Oade,1/31/1966,Female,self-employed,458365.71,0.0028,0.0465,7583078.03,Socially Responsible Balanced,false,Queenie Oade,child,792-839-6859,qoade39@wp.com,47 Sherman Pass,Wuppertal,NW,42285
+119,Kellyann,MacSkeagan,4/27/1972,,unemployed,91597.77,0.1478,0.0764,1199718.04,Capital Guaranteed,true,Kellyann MacSkeagan,spouse,449-980-7697,kmacskeagan3a@google.cn,9426 Lighthouse Bay Place,Arrepiado,14,2140-605
+120,Deloria,Ship,7/29/1928,Female,unemployed,266527.44,0.0889,0.0457,1772145.97,Capital Guaranteed,true,Deloria Ship,parent,890-180-4781,dship3b@google.de,290 Kensington Trail,Vavatenina,,
+121,Packston,Crebott,7/31/2003,Male,unemployed,292143.05,0.0322,0.0235,6399581.46,Cash,false,Packston Crebott,spouse,363-321-8267,pcrebott3c@drupal.org,6 Londonderry Circle,Jiangkou,,
+122,Inesita,Treuge,10/11/1972,Female,employed,143599.77,0.1411,0.0268,1517352.98,Socially Responsible Balanced,false,Inesita Treuge,parent,434-259-4384,itreuge3d@bluehost.com,26 Service Point,Yefremov,,301871
+123,Tucker,Dominichetti,5/18/2016,Male,employed,462926.04,0.035,0.0342,7161288.73,Socially Responsible Balanced,false,Tucker Dominichetti,spouse,,tdominichetti3e@dmoz.org,29426 Garrison Street,Naru,,
+124,Yovonnda,Hannen,11/6/2009,Female,self-employed,403267.9,0.1673,0.0897,3193853.1,High Growth,true,Yovonnda Hannen,child,879-862-6102,yhannen3f@4shared.com,68 Blaine Center,Barubandung,,
+125,Gipsy,Wensley,6/12/2007,Genderqueer,self-employed,341578.66,0.0516,0.0548,2242732.46,Balanced,false,Gipsy Wensley,sibling,470-386-8061,gwensley3g@fema.gov,55 Daystar Way,Jishigang,,
+126,Arlena,Boutwell,3/12/1979,Female,employed,119510.69,0.0195,0.0877,4779186.84,Moderate,true,Arlena Boutwell,spouse,761-365-7006,aboutwell3h@discovery.com,,Karipidita,,
+127,Kayle,Bastone,12/30/1917,,unemployed,422760.63,0.1685,0.0994,9998948.76,Growth,true,Kayle Bastone,child,347-279-0609,kbastone3i@bandcamp.com,,Lagoa,42,9560-097
+128,Kareem,Pernell,3/7/1947,Male,unemployed,,0.061,0.0076,2312815.77,Growth,false,Kareem Pernell,spouse,530-393-3485,kpernell3j@comcast.net,266 Elmside Crossing,Kampánis,,
+129,Erina,Iddy,1/6/2001,Female,unemployed,155425.57,0.0033,0.0283,2655347.18,Moderate,false,Erina Iddy,child,432-129-8544,eiddy3k@surveymonkey.com,83 Grasskamp Alley,Zebrzydowice,,
+130,Sabina,O'Gorman,4/7/1990,Female,,1589.25,0.1814,0.0991,3197415.35,Cash,false,Sabina O'Gorman,parent,543-493-9560,sogorman3l@twitter.com,,Nanhai,,
+131,Saul,Tebbitt,10/28/1976,Male,unemployed,183304.49,0.0913,0.003,3605024.74,Socially Responsible Balanced,true,Saul Tebbitt,child,618-358-6961,stebbitt3m@jigsy.com,946 Burning Wood Parkway,Amsterdam-Oost,07,1094
+132,Andres,Clutram,5/6/2020,Male,employed,298330.73,0.0841,0.0151,8386205.54,Capital Guaranteed,false,Andres Clutram,sibling,345-238-9074,aclutram3n@redcross.org,,Saint-Nazaire,B5,44604 CEDEX
+133,Humberto,Troup,2/20/1982,Male,unemployed,,0.1265,0.0255,931753.59,Growth,true,Humberto Troup,sibling,,htroup3o@forbes.com,,Kasina Wielka,,34-741
+134,Kippie,Isted,8/20/1944,Female,self-employed,,0.1062,0.0246,5073438.64,Capital Guaranteed,true,Kippie Isted,sibling,599-878-3535,kisted3p@usda.gov,9 Elgar Crossing,Vimmerby,H,598 24
+135,Loren,Riddiford,10/12/1959,Male,employed,252446.21,0.0559,0.0421,8864682.57,Balanced,true,Loren Riddiford,sibling,,lriddiford3q@altervista.org,45 Meadow Ridge Pass,Bulgan,,
+136,Cazzie,Rawne,4/14/2002,Male,,277386.95,0.0623,0.0258,6421426.23,Socially Responsible Balanced,true,Cazzie Rawne,child,425-422-8318,crawne3r@php.net,09320 Ridge Oak Place,Ekenäs,,35530
+137,Harri,Weekley,5/7/1910,Female,employed,308603.82,0.0987,0.0269,5101094.73,Conservative,false,Harri Weekley,spouse,335-947-3031,hweekley3s@feedburner.com,,Ejigbo,,
+138,Dorelia,Cockcroft,9/16/1962,Female,self-employed,310244.52,0.0689,0.0153,5212550.11,Conservative,false,Dorelia Cockcroft,sibling,949-331-6787,dcockcroft3t@hud.gov,2427 Daystar Pass,Ergates,,
+139,Marris,Gidman,1/15/1936,Female,unemployed,146069.23,0.1245,0.0269,9248427.44,Capital Guaranteed,true,Marris Gidman,spouse,879-102-3305,mgidman3u@reuters.com,4 Muir Street,Bogra,,4520
+140,Aleece,O'Caherny,8/8/1936,Female,employed,,0.0817,0.0401,773347.1,Conservative,false,Aleece O'Caherny,parent,482-182-3444,aocaherny3v@hubpages.com,0 Moland Trail,28 de Noviembre,,9407
+141,Haskel,Davidi,6/12/1965,Male,unemployed,131421.47,0.0284,0.0763,3257480.58,High Growth,true,Haskel Davidi,sibling,,hdavidi3w@apple.com,,Demak,,
+142,Cacilie,Urwen,6/28/1972,Female,self-employed,,0.1526,0.0605,3227567.68,Moderate,true,Cacilie Urwen,sibling,152-297-2401,curwen3x@timesonline.co.uk,043 Quincy Hill,Bugarama,,
+143,Ilka,Sadler,1/19/2004,Female,self-employed,451326.67,0.197,0.0236,3617478.15,Moderate,false,Ilka Sadler,sibling,,isadler3y@mayoclinic.com,64 Raven Way,Likhobory,,683960
+144,Katine,Willans,8/16/1921,Female,unemployed,394657.92,0.0688,0.0464,4119072.98,High Growth,false,Katine Willans,child,766-196-6810,kwillans3z@example.com,362 Westridge Way,Joal-Fadiout,,
+145,Lucius,Behling,10/29/1908,Male,employed,,0.114,0.0698,8342972.63,Socially Responsible Balanced,false,Lucius Behling,parent,127-244-7724,lbehling40@last.fm,23874 Manufacturers Road,Xindu,,
+146,Alissa,Anetts,10/27/1946,,self-employed,,0.1277,0.0207,2272062.01,Balanced,false,Alissa Anetts,sibling,,aanetts41@admin.ch,41413 Sloan Court,Lapachito,,3514
+147,Jeralee,Brydone,8/31/1947,Female,unemployed,484138.67,0.1426,0.0243,4439299.57,Moderate,true,Jeralee Brydone,child,857-101-6408,jbrydone42@stanford.edu,,Mapinrea,,
+148,Trudie,Krochmann,11/5/1909,Female,unemployed,321980.8,0.161,0.0051,421670.9,Cash,true,Trudie Krochmann,parent,661-430-2846,tkrochmann43@europa.eu,,Gunungsubang,,
+149,Teodoro,Whyman,8/13/2020,Male,unemployed,215330.64,0.1573,0.0095,4455050.68,Balanced,true,Teodoro Whyman,spouse,114-867-6126,twhyman44@linkedin.com,5941 Farwell Avenue,Hujra,,56170
+150,Jamil,Pfeffel,9/24/1986,Male,self-employed,18147.19,0.0535,0.0447,247395.2,Moderate,true,Jamil Pfeffel,sibling,166-235-6633,jpfeffel45@ifeng.com,65545 Bartelt Avenue,Lebao,,
+151,Kellsie,Lago,7/12/1953,Female,unemployed,260851.06,0.1032,0.0915,1371886.62,Socially Responsible Balanced,true,Kellsie Lago,spouse,836-590-3392,klago46@mapquest.com,75332 Green Ridge Drive,Belmullet,,H65
+152,Astrid,Taverner,1/8/2008,Female,unemployed,,0.1793,0.0959,5661303.48,High Growth,true,Astrid Taverner,parent,931-935-0663,ataverner47@dyndns.org,471 Thompson Crossing,Tomice,,34-105
+153,See,Oxtaby,10/24/1923,Male,employed,,0.0344,0.0193,5217624.56,Moderate,false,See Oxtaby,parent,720-551-9314,soxtaby48@indiegogo.com,02771 Maple Place,Kafr Kannā,,
+154,Arnold,Franceschi,2/2/1984,Male,employed,476356.48,0.0465,0.0088,9964395.71,Socially Responsible Balanced,true,Arnold Franceschi,sibling,947-563-4212,afranceschi49@ucoz.com,813 Forster Circle,Tantamayo,,
+155,Camille,Francom,4/7/1911,Female,unemployed,43274.23,0.1065,0.0064,1170208.67,High Growth,true,Camille Francom,spouse,,cfrancom4a@prweb.com,7 Roth Street,Inđija,,
+156,Iver,Capron,2/2/1902,Male,unemployed,429608.25,0.0131,0.0641,5527590.16,Conservative,true,Iver Capron,spouse,831-283-5387,icapron4b@ed.gov,85651 Sauthoff Junction,Magsaysay,,9221
+157,Shena,Woodrough,6/14/1940,Female,employed,51647.53,0.1548,0.0225,8821560.88,High Growth,true,Shena Woodrough,parent,397-972-3632,swoodrough4c@wikispaces.com,925 Fieldstone Pass,Cayur,,
+158,Eldredge,Vedyaev,4/28/1932,Male,,73195.73,0.1116,0.0777,683688.2,Cash,true,Eldredge Vedyaev,sibling,467-178-3481,evedyaev4d@sciencedaily.com,,Loughrea,,H62
+159,Liana,Barabich,1/24/1909,Female,employed,391847.73,0.0184,0.0849,7480384.78,Cash,false,Liana Barabich,child,468-706-2567,lbarabich4e@domainmarket.com,59 Welch Hill,Huayllabamba,,
+160,Nefen,Jirek,11/20/2012,Male,unemployed,461514.9,0.0992,0.0445,4010457.23,International Growth,true,Nefen Jirek,sibling,487-684-4988,njirek4f@networksolutions.com,27 Warrior Junction,Zhenghu,,
+161,Kimberly,Arch,12/12/1953,Female,self-employed,70368.52,0.0443,0.0591,933273.35,Balanced,true,Kimberly Arch,sibling,383-456-6950,karch4g@mail.ru,905 Pennsylvania Trail,Roissy Charles-de-Gaulle,A8,95761 CEDEX 1
+162,Jordan,Wanklyn,4/22/1956,Male,unemployed,,0.0141,0.0551,7147934.48,Cash,false,Jordan Wanklyn,sibling,330-716-0548,jwanklyn4h@imgur.com,8022 Nancy Avenue,Qian’an,,
+163,Odessa,Curd,4/18/1927,Female,unemployed,301969.88,0.1519,0.0608,3414487.89,International Growth,true,Odessa Curd,parent,133-229-3737,ocurd4i@aol.com,,Hexing,,
+164,Sabine,Laughnan,6/16/1975,Female,self-employed,300820.52,0.1453,0.044,5139348.76,High Growth,false,Sabine Laughnan,sibling,386-764-5528,slaughnan4j@xrea.com,409 Armistice Center,Bilo,,
+165,Rosmunda,Brinsden,10/22/1975,,employed,400479.04,0.1862,0.0994,2520151.86,Conservative,false,Rosmunda Brinsden,child,342-547-4332,rbrinsden4k@buzzfeed.com,,Sidoaji,,
+166,Delcina,Hospital,6/28/1960,,unemployed,102337.55,0.1799,0.0807,7004009.58,Moderate,false,Delcina Hospital,parent,923-912-2292,dhospital4l@usatoday.com,,Maiduguri,,
+167,Tyrus,Fireman,8/29/1940,Male,self-employed,304214.41,0.1741,0.0752,4810184.81,Cash,true,Tyrus Fireman,parent,536-460-4744,tfireman4m@simplemachines.org,,Balingasag,,9005
+168,Andras,Novik,11/22/2006,Male,unemployed,368804.38,0.0209,0.0277,8299625.61,Conservative,true,Andras Novik,child,832-717-4318,anovik4n@ibm.com,7 5th Parkway,Kampunganyar,,
+169,Moore,Everix,12/11/1903,Male,employed,444655.09,0.0523,0.004,5581172.96,Cash,true,Moore Everix,child,621-313-3559,meverix4o@parallels.com,57189 Forest Dale Terrace,Odesskoye,,646860
+170,Maddi,Scarbarrow,1/12/1983,,employed,40097.11,0.1342,0.0768,4794840.0,Conservative,true,Maddi Scarbarrow,parent,550-903-2163,mscarbarrow4p@sourceforge.net,945 Schmedeman Avenue,Cravinhos,,14140-000
+171,Elden,Desport,9/15/1930,Male,employed,,0.108,0.0167,3773735.42,Cash,false,Elden Desport,spouse,209-725-5466,edesport4q@squarespace.com,4 Sachs Terrace,Genteng,,
+172,Dayle,Dillingston,1/4/1916,Female,self-employed,122507.88,0.1642,0.0637,8160677.27,Balanced,true,Dayle Dillingston,child,626-429-4545,ddillingston4r@live.com,6354 North Park,Katuli,,4212
+173,Cletus,Warboy,1/21/1994,Male,unemployed,99718.16,0.1528,0.0482,706095.61,Cash,false,Cletus Warboy,sibling,517-123-1973,cwarboy4s@example.com,0 Prentice Parkway,Lý Sơn,,
+174,Bram,Cattach,8/7/1932,Male,unemployed,125448.07,0.133,0.039,7271366.28,Cash,true,Bram Cattach,child,815-429-0846,bcattach4t@weibo.com,75238 Schmedeman Court,Payabon,,9209
+175,Terrill,Thynne,6/27/1960,Male,unemployed,166538.85,0.0798,0.0731,284401.66,Moderate,true,Terrill Thynne,sibling,744-610-0850,tthynne4u@woothemes.com,718 Lindbergh Alley,Al ‘Awjā,,
+176,Abel,Kunisch,12/25/2009,Male,self-employed,343072.33,0.022,0.0461,3037429.79,Balanced,true,Abel Kunisch,sibling,933-926-7464,akunisch4v@latimes.com,4 Glendale Plaza,Taibao,,
+177,Gertrude,Rudram,5/21/1978,Female,,352835.33,0.1881,0.0311,3459953.78,Socially Responsible Balanced,true,Gertrude Rudram,sibling,448-130-6655,grudram4w@delicious.com,910 Heath Parkway,Mbanza-Ngungu,,
+178,Corinne,Chapple,1/1/1970,Female,,320781.34,0.0976,0.0367,9491994.72,Socially Responsible Balanced,true,Corinne Chapple,spouse,369-157-4769,cchapple4x@who.int,715 Bartelt Place,Ressano Garcia,,
+179,Virginie,Lambart,6/25/1900,Female,self-employed,189270.23,0.0029,0.089,2287869.51,High Growth,false,Virginie Lambart,spouse,280-608-8454,vlambart4y@tmall.com,1 Eastlawn Alley,Jiaoqi,,
+180,Michaelina,Stidever,6/12/1908,Female,self-employed,,0.1061,0.0941,2713157.39,High Growth,false,Michaelina Stidever,spouse,,mstidever4z@woothemes.com,471 Blackbird Circle,Beixiang,,
+181,Delila,William,6/4/1949,Female,employed,219935.19,0.0673,0.0718,6781773.66,Capital Guaranteed,false,Delila William,spouse,276-891-7889,dwilliam50@weather.com,6 Beilfuss Street,Pacaraos,,
+182,Johannah,Gronav,7/13/2000,Female,self-employed,,0.1567,0.0968,1150108.01,Cash,true,Johannah Gronav,child,508-135-7337,jgronav51@dmoz.org,8 Northwestern Circle,Dordrecht,11,3324
+183,Allin,Lanktree,4/1/1933,Male,self-employed,62511.51,0.1338,0.0645,9895574.71,Growth,true,Allin Lanktree,child,717-965-6743,alanktree52@cargocollective.com,4389 Huxley Alley,Puńsk,,16-515
+184,Janet,O' Donohoe,1/6/1993,Female,self-employed,322498.38,0.0642,0.0953,5398242.32,Capital Guaranteed,false,Janet O' Donohoe,sibling,207-694-8749,jo53@wunderground.com,76 Northfield Way,Ugljevik,,
+185,Juieta,Quinsee,6/30/1963,Female,employed,,0.1058,0.0345,8608610.91,Capital Guaranteed,false,Juieta Quinsee,sibling,138-130-9233,jquinsee54@istockphoto.com,4 High Crossing Trail,Uba,,
+186,Clair,De la Yglesia,4/8/1942,,employed,413229.32,0.0222,0.0533,6592970.88,Moderate,false,Clair De la Yglesia,sibling,757-981-1589,cde55@marriott.com,121 Westend Way,Chom Bueng,,
+187,Glenn,Lygo,2/27/1966,Female,employed,294092.82,0.1863,0.0175,4764162.9,Cash,true,Glenn Lygo,child,873-664-5834,glygo56@ovh.net,73715 Cascade Pass,Bagnères-de-Bigorre,B3,65204 CEDEX
+188,Aloise,Zeale,10/27/1961,Female,unemployed,475376.86,0.0949,0.0658,283110.95,Moderate,false,Aloise Zeale,parent,777-444-3323,azeale57@ifeng.com,879 Rockefeller Junction,Mitsukaidō,,306-0614
+189,Temp,Hallick,1/3/1968,Male,,327844.07,0.124,0.0012,3706378.15,International Growth,false,Temp Hallick,parent,424-664-6784,thallick58@smugmug.com,34 Jay Park,Šentjur,,
+190,Brietta,Rubertis,12/2/1949,Female,employed,138462.26,0.1553,0.0735,7226176.74,Growth,true,Brietta Rubertis,spouse,611-348-2620,brubertis59@bizjournals.com,91 Blaine Avenue,Semenivka,,
+191,Nathalia,Lindner,9/17/1979,Female,unemployed,399220.54,0.0524,0.0791,2182125.6,High Growth,true,Nathalia Lindner,parent,992-429-9281,nlindner5a@google.it,92313 Butternut Terrace,Obroshyne,,
+192,Bertina,Beevers,3/27/1921,Female,unemployed,136425.64,0.0942,0.0204,360173.92,Socially Responsible Balanced,true,Bertina Beevers,parent,,bbeevers5b@acquirethisname.com,4 Monterey Hill,Seda,,89051
+193,Donovan,Mitroshinov,3/1/1924,,,284939.15,0.0236,0.0761,527990.14,Growth,false,Donovan Mitroshinov,child,348-847-6159,dmitroshinov5c@walmart.com,,Vitim,,385444
+194,Armstrong,Boulsher,2/1/1940,Male,self-employed,423988.36,0.0062,0.0974,7363238.52,International Growth,true,Armstrong Boulsher,spouse,977-421-5653,aboulsher5d@lycos.com,9389 Merrick Drive,Kojagete,,
+195,Fernanda,Coggin,7/16/1989,Female,unemployed,198783.79,0.1945,0.047,8327604.11,Conservative,false,Fernanda Coggin,parent,273-536-3017,fcoggin5e@macromedia.com,7495 Manley Road,Kimakamak,,
+196,Ariadne,Skillman,7/19/2004,Female,self-employed,,0.1163,0.066,6162748.82,High Growth,true,Ariadne Skillman,spouse,535-609-9016,askillman5f@admin.ch,72 Oakridge Pass,Las Lomas,,
+197,Crista,Trimnell,2/12/1998,,unemployed,313566.66,0.1604,0.0845,6608624.46,Balanced,true,Crista Trimnell,sibling,721-313-2593,ctrimnell5g@51.la,5 Kings Trail,Hai’an,,
+198,Rhody,Bossom,3/14/1966,Genderfluid,unemployed,,0.0587,0.0824,904480.53,High Growth,true,Rhody Bossom,parent,231-134-0235,rbossom5h@yale.edu,5 Banding Crossing,Karviná,,735 72
+199,Shaylah,Hendron,4/27/1922,Female,self-employed,323741.96,0.0761,0.0686,7177589.41,Conservative,false,Shaylah Hendron,sibling,472-735-8867,shendron5i@mashable.com,,Phibun Mangsahan,,34110
+200,Hernando,Wickens,9/12/1943,Male,self-employed,,0.0327,0.0043,9172313.79,Capital Guaranteed,true,Hernando Wickens,sibling,996-441-3325,hwickens5j@biblegateway.com,50883 Hazelcrest Parkway,Bordeaux,97,33050 CEDEX
+201,Corbie,Howie,4/26/2008,Male,employed,,0.1097,0.0147,8329056.51,Moderate,true,Corbie Howie,sibling,367-436-2460,chowie5k@barnesandnoble.com,,Évreux,A7,27022 CEDEX
+202,Haleigh,Gagan,5/8/1948,Female,self-employed,,0.1041,0.076,1492407.91,Conservative,true,Haleigh Gagan,parent,103-930-9871,hgagan5l@redcross.org,503 Londonderry Crossing,Huanghe,,
+203,Griff,Balffye,12/6/2007,Male,unemployed,199826.59,0.1588,0.0226,8602397.14,Conservative,false,Griff Balffye,spouse,399-904-6598,gbalffye5m@over-blog.com,3194 Warbler Drive,Néa Mákri,,
+204,Timmi,Ableson,2/16/1980,Female,employed,146285.87,0.031,0.0979,1773735.41,International Growth,false,Timmi Ableson,spouse,846-259-3217,tableson5n@gravatar.com,48 Farwell Court,Forninho,15,
+205,Loleta,Bruff,12/7/1964,Female,unemployed,333017.32,0.0512,0.0332,3799321.37,Socially Responsible Balanced,false,Loleta Bruff,child,279-869-2941,lbruff5o@cocolog-nifty.com,65 Novick Park,Songbai,,
+206,Kevyn,De la Eglise,5/26/1937,Female,,334888.43,0.1761,0.0761,9883878.99,Balanced,true,Kevyn De la Eglise,spouse,816-573-8135,kde5p@163.com,4 Moose Trail,Ryūgasaki,,
+207,Sammy,Smyth,3/3/2002,Polygender,unemployed,131207.21,0.0127,0.0947,9877222.45,Capital Guaranteed,true,Sammy Smyth,sibling,700-850-3513,ssmyth5q@over-blog.com,,Cimuncang,,
+208,Reeta,Ladloe,10/13/1945,Female,unemployed,491867.32,0.0865,0.0373,3335629.92,Conservative,true,Reeta Ladloe,parent,447-571-7312,rladloe5r@webs.com,,Prey Veng,,
+209,Cyndi,Graddon,1/19/1996,Female,unemployed,93957.23,0.0314,0.0626,3272081.83,Cash,true,Cyndi Graddon,parent,298-764-2384,cgraddon5s@adobe.com,6 Milwaukee Drive,Suwaru,,
+210,Marcello,Onslow,9/16/1919,Male,employed,302978.33,0.0488,0.0094,6257189.23,International Growth,true,Marcello Onslow,spouse,,monslow5t@shutterfly.com,02498 Bluestem Lane,Dayuan,,
+211,Harold,Patmore,6/8/1936,Genderfluid,unemployed,,0.1791,0.0318,8453400.32,Conservative,false,Harold Patmore,parent,158-385-3988,hpatmore5u@com.com,69271 Rieder Terrace,Dumbéa,,98839
+212,Leontine,Alwell,8/17/2003,Female,self-employed,165975.88,0.0122,0.0383,4221983.77,Capital Guaranteed,true,Leontine Alwell,parent,718-666-9759,lalwell5v@unesco.org,46116 Michigan Plaza,Negotino,,1440
+213,Karry,Daggett,2/15/1979,Female,unemployed,291722.09,0.1839,0.0411,4765236.21,Growth,true,Karry Daggett,sibling,506-162-4466,kdaggett5w@photobucket.com,0 Rigney Road,Tari,,
+214,Alene,Gozzard,7/25/1939,Female,employed,177737.89,0.0283,0.0603,7320838.58,Growth,true,Alene Gozzard,sibling,527-793-3240,agozzard5x@bbb.org,82 Norway Maple Trail,Rio Negrinho,,89295-000
+215,Jone,Ambroz,7/4/2013,Male,unemployed,306039.79,0.0335,0.0669,5797911.97,Growth,true,Jone Ambroz,child,359-538-4225,jambroz5y@cnbc.com,2 Service Court,Tianzhen,,
+216,Cybill,Borg,5/3/2000,,self-employed,462599.56,0.1983,0.0021,7909276.65,Socially Responsible Balanced,true,Cybill Borg,parent,835-697-3137,cborg5z@last.fm,06 Commercial Terrace,Błędów,,05-620
+217,Prudy,Commin,3/18/1916,Female,unemployed,185201.42,0.0425,0.0568,1170412.21,Capital Guaranteed,true,Prudy Commin,child,622-629-0952,pcommin60@example.com,34522 Waywood Place,Södertälje,AB,151 81
+218,Karlie,Orsay,11/23/1957,Female,,79730.58,0.1603,0.0398,8742184.71,Conservative,true,Karlie Orsay,sibling,317-688-2234,korsay61@1und1.de,14305 Vidon Way,Indianapolis,IN,46254
+219,Leo,MacAnespie,11/4/2012,Male,self-employed,448531.25,0.1906,0.09,3166896.3,Balanced,false,Leo MacAnespie,spouse,834-308-4790,lmacanespie62@wiley.com,0599 Sachtjen Alley,Chita,,
+220,Alexei,Giacubbo,6/15/2002,Male,unemployed,,0.0804,0.0429,4033870.33,Growth,false,Alexei Giacubbo,child,797-599-8225,agiacubbo63@state.gov,4348 Bowman Court,Maunuri,,
+221,Dunc,Moizer,3/20/2013,Male,unemployed,180597.22,0.1312,0.0428,9284627.18,Conservative,true,Dunc Moizer,child,103-698-8013,dmoizer64@printfriendly.com,410 Hayes Plaza,Vostochnyy,,612711
+222,Cristionna,Heathcott,8/8/1962,Female,self-employed,230913.84,0.0216,0.0467,7720585.76,High Growth,false,Cristionna Heathcott,parent,390-743-7979,cheathcott65@altervista.org,05051 Rutledge Junction,Karolinka,,756 05
+223,Stace,Avramov,11/6/1990,Female,self-employed,,0.0083,0.0291,2264197.08,Capital Guaranteed,false,Stace Avramov,parent,456-939-3104,savramov66@cafepress.com,616 Stone Corner Crossing,Takedamachi,,670-0013
+224,Jeremiah,Rushton,9/11/2007,Male,,68611.64,0.1752,0.0542,807630.91,Moderate,true,Jeremiah Rushton,child,158-722-0463,jrushton67@freewebs.com,92 Saint Paul Trail,Ayapel,,233539
+225,Shandy,Paramor,11/6/1943,Female,self-employed,118071.62,0.1547,0.0369,8141826.1,Socially Responsible Balanced,false,Shandy Paramor,spouse,223-972-7543,sparamor68@digg.com,6446 Sunnyside Parkway,Qaram Qōl,,
+226,Erik,Rizzotto,11/6/2004,Male,employed,67277.0,0.1556,0.0755,2289838.81,Cash,true,Erik Rizzotto,parent,102-545-2774,erizzotto69@dedecms.com,57902 John Wall Park,Wuxing,,
+227,Court,Willacot,3/15/1966,Male,employed,293390.98,0.1843,0.0125,3560466.38,Conservative,false,Court Willacot,spouse,,cwillacot6a@amazon.com,983 Anzinger Street,Pilang,,
+228,Normie,Friskey,2/20/1999,Genderqueer,employed,,0.2,0.0852,303685.32,Growth,false,Normie Friskey,child,,nfriskey6b@google.nl,9 Columbus Hill,Muḩammad Āghah Wuluswālī,,
+229,Hayward,Bendtsen,7/26/1971,Male,unemployed,335313.37,0.1873,0.0252,8306789.23,Conservative,false,Hayward Bendtsen,parent,650-501-9284,hbendtsen6c@quantcast.com,2 Melvin Junction,Sunnyvale,CA,94089
+230,Kippar,Penke,10/2/1913,Male,employed,24268.25,0.1387,0.0604,1321337.52,Cash,true,Kippar Penke,sibling,616-921-4947,kpenke6d@amazonaws.com,21 Aberg Avenue,Hluboká nad Vltavou,,373 41
+231,Gabriel,Statefield,10/20/1998,Female,self-employed,,0.1655,0.0994,8685926.84,Growth,true,Gabriel Statefield,sibling,861-898-9851,gstatefield6e@indiatimes.com,75 Clarendon Circle,Zhaitou,,
+232,Audi,Middle,11/9/2000,Female,self-employed,491158.04,0.0557,0.0788,4381942.38,Cash,false,Audi Middle,spouse,156-140-8298,amiddle6f@webmd.com,,Kabac,,6052
+233,Miguel,Catterill,6/26/1939,Male,employed,498131.53,0.0198,0.0197,6790767.4,International Growth,false,Miguel Catterill,sibling,789-632-3214,mcatterill6g@ycombinator.com,9626 Fordem Crossing,Iḩsim,,
+234,Marius,Stinchcombe,7/31/1941,,unemployed,248810.69,0.0169,0.0714,464993.19,Conservative,false,Marius Stinchcombe,sibling,680-984-9467,mstinchcombe6h@sina.com.cn,1 Summerview Crossing,Fangxian,,
+235,Melodie,Conisbee,8/5/2005,Female,self-employed,72194.17,0.0866,0.0331,3275897.52,High Growth,true,Melodie Conisbee,child,,mconisbee6i@census.gov,62 Monument Junction,Bambous Virieux,,
+236,Sybila,Twentyman,3/6/1904,Female,self-employed,323484.5,0.1147,0.095,8984121.98,Balanced,false,Sybila Twentyman,sibling,912-356-7057,stwentyman6j@lycos.com,97465 Logan Way,Rio Meão,01,4520-471
+237,Herrick,Stubbins,8/29/1950,Male,unemployed,47312.3,0.0272,0.0307,5046903.61,International Growth,true,Herrick Stubbins,child,395-191-9152,hstubbins6k@indiatimes.com,4596 Randy Crossing,Karangbenda,,
+238,Blancha,Sherrock,4/22/1908,,unemployed,59469.56,0.0159,0.0882,6581333.09,Moderate,false,Blancha Sherrock,spouse,541-375-2429,bsherrock6l@yelp.com,7094 Mcbride Point,Heichengzi,,
+239,Romona,Rucklesse,6/14/1935,Female,self-employed,,0.0969,0.088,6032238.01,Growth,true,Romona Rucklesse,spouse,786-164-9595,rrucklesse6m@goo.ne.jp,379 Sachs Drive,San Miguel,,8301
+240,Kipper,Danher,5/24/1971,Male,employed,,0.1832,0.0797,8310878.15,Moderate,false,Kipper Danher,spouse,,kdanher6n@uiuc.edu,969 Sommers Lane,Hörby,M,242 94
+241,Jillana,Andrick,5/7/2001,Female,unemployed,29489.85,0.0366,0.0504,3898015.68,High Growth,true,Jillana Andrick,spouse,346-200-3303,jandrick6o@studiopress.com,7 Crowley Avenue,Detik Satu,,
+242,Guenevere,Josebury,7/11/1987,Female,self-employed,,0.0466,0.0697,3265251.07,Capital Guaranteed,true,Guenevere Josebury,spouse,496-964-6747,gjosebury6p@lulu.com,2493 Maple Park,Ciudad Bolivia,,
+243,Rhody,Dranfield,9/30/1916,Female,employed,104536.63,0.1388,0.0554,2283311.86,High Growth,false,Rhody Dranfield,sibling,259-142-9180,rdranfield6q@stumbleupon.com,,Kowalewo Pomorskie,,87-410
+244,Kristoforo,Mogridge,9/2/1903,Male,,17044.96,0.0018,0.0629,2636375.95,Conservative,true,Kristoforo Mogridge,parent,131-166-1120,kmogridge6r@marketwatch.com,,Kampungbaru,,
+245,Cornell,Grimsditch,1/6/1947,Male,self-employed,272355.42,0.0829,0.0434,76962.66,Conservative,false,Cornell Grimsditch,spouse,336-597-6515,cgrimsditch6s@imageshack.us,7 Esker Hill,Viljandi,,
+246,Bren,Livsey,6/29/2024,Female,employed,,0.0436,0.0174,2084551.91,Conservative,false,Bren Livsey,sibling,,blivsey6t@tumblr.com,10 Northwestern Junction,Proletarsk,,347554
+247,Ki,Eyeington,10/5/1921,Female,self-employed,,0.0906,0.0823,3235058.35,Cash,false,Ki Eyeington,sibling,861-463-4783,keyeington6u@fema.gov,709 Northwestern Point,Samadua,,
+248,Barron,Lambrick,3/8/1986,Male,employed,2086.41,0.0176,0.0203,8039185.49,Cash,true,Barron Lambrick,parent,855-611-4451,blambrick6v@webeden.co.uk,748 Nobel Lane,Kilifi,,
+249,Roi,Jozwiak,7/23/1911,Male,self-employed,,0.1623,0.0558,3142238.68,Moderate,true,Roi Jozwiak,sibling,557-211-3447,rjozwiak6w@instagram.com,3454 Esker Trail,Shuishi,,
+250,Worth,Kettleson,5/21/2004,Male,employed,,0.0826,0.0667,5538434.72,Growth,false,Worth Kettleson,spouse,440-206-7424,wkettleson6x@weather.com,1 Elmside Circle,Buenos Aires,SON,83344
+251,Ansel,Ivashkov,11/19/1965,Male,self-employed,6965.43,0.1037,0.0453,5802620.7,Conservative,false,Ansel Ivashkov,child,911-252-8964,aivashkov6y@devhub.com,804 Express Point,Cibinong,,
+252,Winnah,Clee,1/1/1941,Female,self-employed,,0.1976,0.0544,1933238.54,High Growth,false,Winnah Clee,sibling,279-683-9754,wclee6z@hugedomains.com,,Karítsa,,
+253,Jeannie,Carnegie,7/17/1951,Female,self-employed,120638.47,0.1161,0.0803,776524.18,Moderate,false,Jeannie Carnegie,spouse,422-534-9338,jcarnegie70@un.org,7 Jay Way,Pital,,21006
+254,Carlee,Noseworthy,10/3/1916,Polygender,self-employed,,0.1124,0.0802,4172505.32,Conservative,false,Carlee Noseworthy,parent,180-394-5868,cnoseworthy71@usda.gov,2660 Stone Corner Crossing,Kadugannawa,,20300
+255,Hieronymus,Mereweather,8/5/1956,Male,self-employed,28447.55,0.1505,0.0244,469793.62,Growth,true,Hieronymus Mereweather,sibling,327-142-9473,hmereweather72@yahoo.co.jp,7 Cambridge Pass,Sangzhen,,
+256,Glenn,Farloe,9/18/2004,,employed,243805.13,0.1505,0.0259,6937703.07,Socially Responsible Balanced,false,Glenn Farloe,parent,221-539-3909,gfarloe73@census.gov,7 Mosinee Crossing,Hejiayan,,
+257,Shurlocke,Garard,7/31/1944,Male,self-employed,164604.03,0.0633,0.0369,6082541.98,Socially Responsible Balanced,true,Shurlocke Garard,sibling,831-871-7849,sgarard74@utexas.edu,401 Londonderry Crossing,Arlöv,M,232 24
+258,Camel,Hegley,1/7/1927,,unemployed,7966.16,0.1177,0.0178,1662349.43,Conservative,false,Camel Hegley,sibling,291-312-3690,chegley75@homestead.com,90492 Armistice Pass,Villa Serrano,,
+259,Yulma,Lande,12/6/1967,Male,unemployed,34796.85,0.1789,0.0893,794665.87,International Growth,false,Yulma Lande,spouse,522-672-1641,ylande76@reverbnation.com,18732 Thackeray Plaza,Chahār Burj,,
+260,Ceil,Atheis,5/28/2011,Female,,174072.3,0.1539,0.0719,4116975.84,Balanced,false,Ceil Atheis,spouse,220-664-0845,catheis77@ed.gov,1190 Sycamore Drive,Saint-Herblain,B5,
+261,Cherilyn,Skells,1/18/1958,Female,unemployed,108703.27,0.1625,0.0195,602458.11,Cash,false,Cherilyn Skells,spouse,754-833-1813,cskells78@stanford.edu,976 Roth Crossing,Muyudian,,
+262,Sandy,Dower,10/12/1932,Male,self-employed,116911.19,0.1578,0.084,2051791.73,Moderate,false,Sandy Dower,spouse,329-862-9556,sdower79@issuu.com,017 Brentwood Court,Bebandem,,
+263,Esme,Kyme,1/29/1980,Female,unemployed,164687.13,0.0008,0.0899,1352631.31,International Growth,true,Esme Kyme,child,345-233-6810,ekyme7a@cyberchimps.com,2 Muir Place,Beutong Ateuh,,
+264,Donavon,Vernay,6/27/1990,Genderfluid,employed,,0.1774,0.0156,4860804.92,High Growth,false,Donavon Vernay,sibling,775-829-3378,dvernay7b@cornell.edu,61940 Bay Point,Reno,NV,
+265,Frederique,Capper,7/28/1920,Female,employed,214007.46,0.079,0.0043,7525390.83,Socially Responsible Balanced,true,Frederique Capper,parent,989-213-4843,fcapper7c@wikispaces.com,11941 5th Lane,Koina,,
+266,Mallissa,Kubec,1/1/2021,Female,unemployed,,0.0579,0.028,7602454.09,Capital Guaranteed,true,Mallissa Kubec,child,,mkubec7d@bravesites.com,16992 Vera Trail,Venda do Valador,11,2665-299
+267,Nolan,Fancourt,5/2/2001,Male,self-employed,84880.86,0.1111,0.0049,912431.39,Cash,true,Nolan Fancourt,spouse,862-217-9461,nfancourt7e@weather.com,9 Holmberg Pass,Bahāwalnagar,,57031
+268,Eldin,Lilburne,1/18/2016,,self-employed,97208.22,0.1219,0.0277,1113677.33,Cash,true,Eldin Lilburne,spouse,294-877-5090,elilburne7f@wikipedia.org,0621 Logan Avenue,Covas da Raposa,15,2970-124
+269,Marrilee,Brosch,11/25/1901,Female,self-employed,317613.58,0.1658,0.0383,3019262.86,High Growth,false,Marrilee Brosch,spouse,569-233-1916,mbrosch7g@cdbaby.com,,Naranjos,,
+270,Kacey,Lymer,1/2/1901,Polygender,unemployed,,0.0181,0.0746,3843889.01,Moderate,false,Kacey Lymer,child,533-477-6069,klymer7h@ucoz.com,12 Forster Place,Guaíba,,
+271,Meredith,Blaszczyk,9/18/1925,Polygender,self-employed,76427.94,0.1399,0.0004,8773298.27,High Growth,true,Meredith Blaszczyk,sibling,954-787-8070,mblaszczyk7i@goo.ne.jp,4 Mcbride Park,Ağdaş,,
+272,Forbes,Rickford,8/26/1941,Male,employed,428166.72,0.039,0.0619,8870485.09,International Growth,true,Forbes Rickford,sibling,799-385-7773,frickford7j@multiply.com,6 Bellgrove Drive,Kalamáta,,
+273,Anni,Beadon,12/10/1993,Female,employed,47746.66,0.1957,0.0908,3243814.14,Growth,false,Anni Beadon,sibling,846-241-2517,abeadon7k@businessweek.com,26835 Longview Drive,Khinjān,,
+274,Abner,Chern,3/4/1931,Male,employed,3710.24,0.1485,0.034,3139274.84,Capital Guaranteed,false,Abner Chern,spouse,536-537-6969,achern7l@rambler.ru,,Tomakomai,,882-1622
+275,Odetta,Collop,2/12/1955,,employed,273286.8,0.1551,0.0071,8708603.4,Moderate,false,Odetta Collop,parent,395-737-5082,ocollop7m@indiegogo.com,073 6th Circle,Bordeaux,97,33070 CEDEX
+276,Nap,Samworth,9/16/1991,Male,self-employed,159459.23,0.181,0.0498,498258.72,Growth,true,Nap Samworth,child,302-222-2846,nsamworth7n@reuters.com,1790 Park Meadow Alley,Saint Hubert,,
+277,Cristabel,Sarch,12/21/1919,Female,self-employed,455415.77,0.0668,0.046,6260530.05,Growth,false,Cristabel Sarch,child,889-452-0158,csarch7o@google.ca,22899 Montana Point,Hola Prystan’,,
+278,Jan,Brownsill,3/14/2022,Female,employed,409283.08,0.1775,0.0437,4983439.4,Conservative,false,Jan Brownsill,child,973-184-4243,jbrownsill7p@ifeng.com,,Marshintsy,,
+279,Steffie,Roughsedge,8/21/1992,Female,self-employed,175726.33,0.0859,0.0635,9467982.41,Cash,true,Steffie Roughsedge,child,885-435-4359,sroughsedge7q@wufoo.com,162 Southridge Crossing,Kungur,,663140
+280,Bonny,Wilsone,7/4/1960,Female,employed,327986.11,0.198,0.0696,1521685.55,International Growth,false,Bonny Wilsone,spouse,518-329-6471,bwilsone7r@feedburner.com,,Tabant,,
+281,Dix,Carlet,4/12/2018,Female,employed,63431.72,0.1947,0.0455,1141145.03,International Growth,false,Dix Carlet,child,,dcarlet7s@msu.edu,61858 Macpherson Street,Ibusuki,,
+282,Arnuad,Morican,5/25/2008,Male,employed,,0.1851,0.0249,3377566.43,International Growth,true,Arnuad Morican,spouse,,amorican7t@elpais.com,290 Fairview Trail,Pushkino,,142139
+283,Marco,Davys,11/13/1907,Male,self-employed,109122.09,0.0135,0.0858,8101357.19,Capital Guaranteed,false,Marco Davys,sibling,652-968-5109,mdavys7u@archive.org,94 Brentwood Place,Shichuan,,
+284,Urbain,Grigson,6/3/1953,Male,unemployed,,0.1964,0.0591,702817.68,Conservative,false,Urbain Grigson,parent,778-979-8598,ugrigson7v@addtoany.com,,Krandil,,
+285,Imojean,Drepp,4/28/1930,Female,employed,84588.12,0.0192,0.0408,5846721.34,Conservative,true,Imojean Drepp,parent,976-285-6125,idrepp7w@posterous.com,175 Debra Junction,Graz,06,8047
+286,Elianora,Evanson,4/22/1905,Female,self-employed,185007.02,0.1691,0.0634,4543969.84,Moderate,false,Elianora Evanson,spouse,820-105-1884,eevanson7x@skype.com,096 Bonner Terrace,Ungaran,,
+287,Joly,Petto,6/25/1932,Female,unemployed,329345.27,0.0241,0.0783,9293827.31,Moderate,true,Joly Petto,spouse,,jpetto7y@reuters.com,3 8th Junction,Leping,,
+288,Ingmar,Follows,1/27/1911,,unemployed,76918.11,0.0955,0.004,6942086.35,Balanced,true,Ingmar Follows,child,515-663-7488,ifollows7z@abc.net.au,4 Meadow Ridge Point,Des Moines,IA,
+289,Heath,Privett,2/5/1901,Female,self-employed,44681.2,0.0934,0.0708,9892422.13,Balanced,true,Heath Privett,spouse,119-234-0743,hprivett80@fc2.com,,San Juan de Mata,,6131
+290,Lloyd,Boulter,5/5/1925,Male,employed,282113.37,0.1248,0.0927,636899.12,Conservative,true,Lloyd Boulter,parent,357-684-6669,lboulter81@miitbeian.gov.cn,,Cihampelas,,
+291,Charmine,Addeycott,12/22/1936,Female,self-employed,410948.45,0.0832,0.0913,9884522.36,Conservative,false,Charmine Addeycott,parent,851-732-5773,caddeycott82@google.com,6 Luster Lane,Sandefjord,07,3220
+292,Elisha,Greathead,9/18/1915,Male,unemployed,208588.77,0.145,0.0386,5790798.78,Capital Guaranteed,false,Elisha Greathead,child,406-483-2838,egreathead83@ocn.ne.jp,,Francisco I Madero,COA,30853
+293,Harwilll,Trippack,4/2/2002,Male,unemployed,57601.28,0.1084,0.0493,1295230.25,Cash,true,Harwilll Trippack,spouse,623-483-6843,htrippack84@hud.gov,37 Sloan Point,Maganha,13,
+294,Benetta,Housin,9/24/1934,,employed,,0.0558,0.0772,5557131.27,Balanced,true,Benetta Housin,sibling,209-429-5635,bhousin85@imgur.com,,Bezhta,,368418
+295,Emmit,Nossent,3/24/2018,Male,,,0.0559,0.0266,8234290.55,Growth,false,Emmit Nossent,sibling,747-559-7860,enossent86@github.com,73467 Northridge Park,Dongle,,
+296,Suzette,Dewhurst,5/12/1916,Female,self-employed,477461.96,0.1334,0.0733,2908587.97,Balanced,true,Suzette Dewhurst,child,429-256-7180,sdewhurst87@nationalgeographic.com,976 Raven Place,Guojiaba,,
+297,Elenore,Bollans,3/19/2024,Female,self-employed,413532.7,0.022,0.0057,2258563.64,Growth,false,Elenore Bollans,parent,825-838-1130,ebollans88@illinois.edu,3252 Hermina Circle,Angoulême,B7,16004 CEDEX
+298,Hogan,Poat,8/24/1999,,employed,414599.18,0.1073,0.0806,5770608.74,International Growth,false,Hogan Poat,spouse,412-184-8685,hpoat89@wufoo.com,6 Farragut Parkway,Pondokunyur,,
+299,Emyle,Pitts,12/5/1908,Female,self-employed,296320.1,0.0046,0.0837,5442869.01,High Growth,true,Emyle Pitts,parent,200-900-1287,epitts8a@unc.edu,,Otaru,,869-1203
+300,Randee,Pountain,9/26/1976,Female,unemployed,83015.44,0.0117,0.0281,2587690.04,International Growth,true,Randee Pountain,sibling,,rpountain8b@mysql.com,,Mölndal,O,431 10
+301,Balduin,Simco,2/15/1919,,self-employed,55038.37,0.1571,0.0113,9960864.23,Conservative,true,Balduin Simco,sibling,940-263-2723,bsimco8c@prnewswire.com,2 Shasta Alley,Strašice,,338 45
+302,Lorrie,Dyter,4/13/1905,Male,,,0.0415,0.0296,3763995.61,Growth,false,Lorrie Dyter,parent,547-885-9363,ldyter8d@photobucket.com,46 Sage Trail,Fanhu,,
+303,Dietrich,Dunnett,5/14/1976,Male,unemployed,15856.23,0.054,0.0486,501013.24,Balanced,true,Dietrich Dunnett,spouse,784-681-6801,ddunnett8e@hubpages.com,620 Waxwing Junction,Dlemer,,
+304,Terrill,De Stoop,6/26/1964,Male,self-employed,,0.0113,0.0013,5586881.48,Socially Responsible Balanced,true,Terrill De Stoop,parent,495-193-7492,tde8f@cbslocal.com,6 Spenser Park,Ipoh,PRK,30592
+305,Angie,Bowdon,1/13/1993,Genderfluid,unemployed,281523.63,0.0306,0.06,4114059.78,Cash,true,Angie Bowdon,child,818-171-2450,abowdon8g@timesonline.co.uk,48674 Mcbride Crossing,Saltsjö-Boo,AB,132 30
+306,Pet,Capozzi,4/11/1986,Non-binary,self-employed,267997.21,0.1838,0.059,879987.87,Balanced,true,Pet Capozzi,parent,689-750-0799,pcapozzi8h@seattletimes.com,,Oshawa,ON,L1K
+307,Bella,Culpin,10/14/1943,Female,self-employed,,0.0499,0.0233,579941.0,Capital Guaranteed,false,Bella Culpin,parent,232-923-0148,bculpin8i@ning.com,,Bailieborough,,C15
+308,Donny,Dancy,1/28/1969,,,47342.66,0.0002,0.0769,4963572.78,Capital Guaranteed,true,Donny Dancy,spouse,,ddancy8j@unesco.org,,Portalegre,12,7300-006
+309,Karisa,Clemente,11/4/1910,Genderqueer,employed,156646.6,0.0996,0.0616,2688976.67,Cash,false,Karisa Clemente,child,717-278-8612,kclemente8k@google.cn,23455 Continental Alley,Eslāmābād,,
+310,Melesa,Basile,3/16/1910,Female,self-employed,236668.51,0.0336,0.0459,9445127.92,Conservative,true,Melesa Basile,sibling,643-345-2555,mbasile8l@taobao.com,1 Brickson Park Center,Zaandam,07,1504
+311,Jacquelynn,Ellam,9/5/2002,,unemployed,474014.29,0.0131,0.0364,912518.13,International Growth,false,Jacquelynn Ellam,child,359-675-1314,jellam8m@discuz.net,,Sinazongwe,,
+312,Doloritas,Olivella,5/11/2014,Female,self-employed,53969.7,0.1687,0.067,7093706.01,Cash,false,Doloritas Olivella,parent,703-644-7910,dolivella8n@histats.com,377 Westend Lane,Sangongqiao,,
+313,Sydney,Trengove,2/22/2009,Male,employed,231087.01,0.0672,0.095,923823.15,Growth,true,Sydney Trengove,sibling,315-915-3334,strengove8o@nydailynews.com,5707 Sommers Alley,Buena Esperanza,,3454
+314,Winslow,Pymer,3/1/1984,Male,employed,18163.77,0.1267,0.0074,1151468.5,Cash,false,Winslow Pymer,spouse,887-944-5690,wpymer8p@naver.com,51 Bowman Way,Krajan Timur Suger Kidul,,
+315,Eadith,Sach,10/7/1972,,self-employed,167051.51,0.1979,0.0624,953966.7,Moderate,true,Eadith Sach,child,740-581-6669,esach8q@bizjournals.com,9287 Crownhardt Point,Cambrai,B4,59407 CEDEX
+316,Bethena,Every,6/12/1919,Female,,226521.19,0.046,0.0955,6632464.68,Moderate,false,Bethena Every,spouse,449-472-6830,bevery8r@statcounter.com,795 Lakewood Gardens Park,Mekarjaya Satu,,
+317,Orson,Ginnally,4/16/1924,Male,self-employed,11926.11,0.1024,0.0972,5050311.5,Conservative,true,Orson Ginnally,spouse,740-546-2065,oginnally8s@a8.net,,Estância,,49200-000
+318,Tracey,MacMaster,3/27/1957,Female,employed,355481.44,0.1816,0.0881,9642039.02,Conservative,false,Tracey MacMaster,sibling,681-717-9190,tmacmaster8t@about.com,9030 Blaine Way,Bichura,,671360
+319,Alyda,Woodson,7/26/1984,Female,employed,34067.54,0.1121,0.0954,5820650.85,Socially Responsible Balanced,false,Alyda Woodson,parent,873-749-7589,awoodson8u@army.mil,64555 Hintze Avenue,Chigan,,
+320,Kim,Cobbing,6/17/2007,Male,unemployed,95606.05,0.1391,0.0041,6816780.8,Balanced,false,Kim Cobbing,child,831-210-8298,kcobbing8v@newyorker.com,15019 Sunfield Junction,Merdeka,,
+321,Kikelia,Elcoat,9/22/1916,Female,employed,334863.22,0.0375,0.0274,8509409.64,Moderate,true,Kikelia Elcoat,sibling,164-676-8680,kelcoat8w@hostgator.com,5587 Service Plaza,Cabuyaro,,501018
+322,Olivette,Timms,4/3/2009,Female,employed,41221.28,0.0353,0.0129,1203019.01,International Growth,true,Olivette Timms,parent,796-709-2884,otimms8x@google.com.au,24519 Moulton Court,Sibulan,,
+323,Gertie,Abbate,1/19/1951,Female,self-employed,324395.36,0.123,0.047,10773.34,Socially Responsible Balanced,false,Gertie Abbate,child,355-231-6114,gabbate8y@blogtalkradio.com,6776 Kedzie Trail,Khuan Don,,48150
+324,Royall,Vanyutin,5/10/1989,Male,employed,244665.5,0.0805,0.0995,8297713.46,Capital Guaranteed,true,Royall Vanyutin,spouse,485-186-6175,rvanyutin8z@oakley.com,1 Londonderry Point,Santiago,,8608
+325,Rycca,Yegorov,6/10/1975,Female,self-employed,425521.63,0.1768,0.0196,5467090.48,Balanced,true,Rycca Yegorov,sibling,305-877-5097,ryegorov90@skype.com,68 Randy Trail,Chlói,,
+326,Dell,Verty,10/30/2024,Male,self-employed,93644.68,0.0081,0.0932,8598693.7,Growth,false,Dell Verty,parent,365-108-5214,dverty91@cargocollective.com,2392 Stuart Way,Maukaro,,
+327,Hallsy,Odlin,11/29/1927,Male,self-employed,22144.07,0.1578,0.0146,8754563.01,Cash,true,Hallsy Odlin,sibling,869-588-4544,hodlin92@nifty.com,9570 Debra Road,Chantal,,
+328,Candie,Cornwell,5/10/1994,Female,,11351.14,0.0662,0.0943,987346.17,Cash,true,Candie Cornwell,spouse,116-586-1234,ccornwell93@desdev.cn,365 Gateway Point,Cerme Kidul,,
+329,Craggy,McAlester,12/26/1913,Male,self-employed,131323.42,0.0286,0.0497,5938525.41,Moderate,false,Craggy McAlester,sibling,891-671-1867,cmcalester94@ucoz.com,470 5th Plaza,Ningyang,,
+330,Martica,Clawsley,6/12/2018,Female,unemployed,99339.36,0.0912,0.0957,7230435.05,Balanced,true,Martica Clawsley,spouse,481-997-4116,mclawsley95@bigcartel.com,4 Dixon Terrace,San Antonio,HID,43131
+331,Ofilia,Alvarado,3/12/2012,Female,employed,378100.56,0.1843,0.0659,7353351.58,High Growth,false,Ofilia Alvarado,child,426-219-7985,oalvarado96@shinystat.com,,Gambang,,
+332,Charyl,Danihelka,6/2/2000,Female,unemployed,366768.54,0.1445,0.0276,873655.53,International Growth,false,Charyl Danihelka,child,373-675-1241,cdanihelka97@newyorker.com,38482 Iowa Place,Dinājpur,,5216
+333,Aurelie,Bouts,8/28/1996,Female,employed,260223.56,0.0424,0.0608,9942563.82,Socially Responsible Balanced,true,Aurelie Bouts,sibling,130-429-8452,abouts98@theatlantic.com,29197 Garrison Way,Melaka,MLK,75610
+334,Lorilyn,Muckloe,7/12/1941,Female,,422788.63,0.0742,0.0265,2294675.33,Conservative,false,Lorilyn Muckloe,spouse,390-654-5712,lmuckloe99@creativecommons.org,,A’ershan,,
+335,Anna-maria,Blackmuir,8/24/1910,Non-binary,self-employed,440852.97,0.0283,0.0667,1246907.07,Growth,false,Anna-maria Blackmuir,parent,538-759-1028,ablackmuir9a@simplemachines.org,95678 Hallows Hill,Maracanaú,,61900-000
+336,Stefanie,Sant,12/6/2016,Female,unemployed,,0.0989,0.0936,3643434.07,Cash,true,Stefanie Sant,sibling,480-471-8536,ssant9b@un.org,202 Southridge Way,Rencun,,
+337,Morry,Bandy,2/21/1953,Male,unemployed,107399.7,0.0779,0.0259,8517753.99,Moderate,true,Morry Bandy,child,219-438-2847,mbandy9c@hud.gov,10 Anzinger Center,Qiagai,,
+338,Devy,Adamsson,4/21/1947,,self-employed,187391.42,0.0961,0.0535,3973526.27,Moderate,false,Devy Adamsson,child,,dadamsson9d@reverbnation.com,08 Dakota Drive,Książ Wielkopolski,,63-130
+339,Noland,Cockren,2/17/1907,Male,self-employed,,0.1498,0.0658,8553581.78,Conservative,false,Noland Cockren,parent,863-452-5562,ncockren9e@arizona.edu,90 Ramsey Terrace,Imām Şāḩib,,
+340,Jacki,Rosoni,2/24/1996,,employed,475981.34,0.0432,0.0814,4636593.84,International Growth,false,Jacki Rosoni,child,392-191-0310,jrosoni9f@gov.uk,062 Village Street,Xiacaoqiao,,
+341,Luci,Hungerford,4/16/1927,Female,self-employed,18190.65,0.13,0.0185,8243720.46,Balanced,true,Luci Hungerford,child,137-485-9819,lhungerford9g@mozilla.org,138 Del Sol Center,Chaguaní,,253237
+342,Rheba,Mertel,12/9/1959,Female,employed,399041.8,0.0954,0.0014,8059068.36,Cash,true,Rheba Mertel,sibling,609-878-4826,rmertel9h@oracle.com,19320 Randy Way,Chor,,47001
+343,Reid,Myhill,12/24/1997,Male,unemployed,378890.17,0.1814,0.0097,7662029.51,Conservative,true,Reid Myhill,parent,577-251-9256,rmyhill9i@mapy.cz,8650 Forest Dale Parkway,Hengling,,
+344,Dean,Lowten,3/3/1945,Male,employed,51509.41,0.1231,0.0199,3161007.69,Cash,false,Dean Lowten,sibling,209-671-9059,dlowten9j@apache.org,64335 Hintze Avenue,Stockton,CA,95205
+345,Ewell,Malarkey,7/21/1962,Male,,,0.0269,0.0615,6116673.86,Capital Guaranteed,true,Ewell Malarkey,sibling,731-365-1632,emalarkey9k@reddit.com,6147 Hallows Hill,Kineshma,,102257
+346,Zacherie,Dundon,11/30/1992,Male,self-employed,375172.3,0.0364,0.084,1100194.25,High Growth,true,Zacherie Dundon,sibling,991-448-9929,zdundon9l@quantcast.com,769 Pierstorff Court,Amor,10,2400-772
+347,Gustav,Ousby,7/23/2001,Male,unemployed,62396.93,0.075,0.0392,3521232.81,Growth,true,Gustav Ousby,spouse,173-485-2148,gousby9m@amazon.co.jp,8 Arkansas Point,Laguna Limpia,,3515
+348,Lorens,Hencke,11/16/1903,Male,self-employed,425578.49,0.086,0.0181,7650681.97,Cash,false,Lorens Hencke,spouse,643-390-3741,lhencke9n@yandex.ru,6 Golf View Hill,Gualeguaychú,,2820
+349,Elyssa,Orbine,6/2/1935,Female,unemployed,423898.49,0.1636,0.0151,1986770.17,High Growth,true,Elyssa Orbine,parent,439-617-8243,eorbine9o@telegraph.co.uk,9921 Pierstorff Terrace,Tanout,,
+350,Lyda,Brimner,10/28/1934,Female,unemployed,489193.94,0.1869,0.0731,5950543.8,Balanced,true,Lyda Brimner,parent,784-410-8510,lbrimner9p@nifty.com,94743 2nd Avenue,Serra da Boa Viagem,06,3080-352
+351,Vale,Beardwell,7/17/1999,Male,unemployed,331690.3,0.0919,0.0703,1340364.5,Balanced,false,Vale Beardwell,parent,770-223-0788,vbeardwell9q@php.net,0 Scott Terrace,Lawrenceville,GA,30045
+352,Salvidor,Holme,11/27/2009,,,251273.68,0.1678,0.0251,938041.55,Growth,true,Salvidor Holme,spouse,651-805-5386,sholme9r@storify.com,3 Dennis Pass,Thành Phố Bà Rịa,,
+353,Carol-jean,Scaplehorn,3/1/2005,Female,employed,177258.61,0.1824,0.0365,7130199.57,Moderate,false,Carol-jean Scaplehorn,spouse,532-875-4281,cscaplehorn9s@blinklist.com,6233 Prairie Rose Point,Bantu,,
+354,Harcourt,Stamps,10/17/1913,Male,unemployed,275180.3,0.1855,0.0403,6443959.8,Socially Responsible Balanced,false,Harcourt Stamps,child,789-270-3300,hstamps9t@va.gov,2976 Marcy Terrace,Chom Bueng,,
+355,Caitrin,Birds,1/29/1975,,unemployed,8884.19,0.17,0.0235,9531075.27,High Growth,true,Caitrin Birds,parent,184-194-1352,cbirds9u@timesonline.co.uk,85 Forest Run Point,Lillehammer,05,2613
+356,Donn,Benet,9/1/1933,Male,self-employed,,0.0174,0.0457,4456004.53,Moderate,false,Donn Benet,child,120-411-4077,dbenet9v@4shared.com,698 Hoard Park,Älvängen,O,446 38
+357,Melitta,Dallicott,1/5/1954,Female,employed,200899.77,0.0908,0.0179,7744252.18,Conservative,true,Melitta Dallicott,spouse,718-770-3789,mdallicott9w@altervista.org,6 Sunnyside Hill,Al Khushnīyah,,
+358,Marleah,Eyres,11/13/1928,Female,employed,316867.01,0.0105,0.0681,4603326.2,High Growth,true,Marleah Eyres,spouse,809-309-1927,meyres9x@dagondesign.com,69 Sloan Court,Tigbao,,
+359,Iggy,Abbess,2/27/1966,Male,self-employed,63783.45,0.0964,0.0829,5641872.76,Balanced,true,Iggy Abbess,child,559-316-6962,iabbess9y@thetimes.co.uk,,Fresno,CA,93773
+360,Odessa,Franciottoi,1/21/1911,Genderqueer,employed,212786.5,0.1091,0.0522,5128119.93,Growth,true,Odessa Franciottoi,parent,,ofranciottoi9z@arstechnica.com,6130 Daystar Trail,Beaverlodge,AB,G8A
+361,Forest,Lampet,11/16/1915,Male,self-employed,,0.1364,0.0028,5622064.22,Balanced,false,Forest Lampet,sibling,808-342-7666,flampeta0@homestead.com,53 Hermina Crossing,Benchu,,
+362,Meredithe,McGuire,3/13/1957,Female,,224710.67,0.0276,0.0357,2299679.12,Capital Guaranteed,true,Meredithe McGuire,spouse,179-103-0437,mmcguirea1@nytimes.com,7 Lerdahl Point,Hezhi,,
+363,Deeyn,Gladdifh,7/1/2022,,unemployed,338470.55,0.0356,0.006,601088.26,International Growth,true,Deeyn Gladdifh,parent,322-243-0112,dgladdifha2@photobucket.com,34456 Buell Pass,Jishui,,
+364,Hazel,Valdes,9/5/1930,Female,self-employed,247874.81,0.0548,0.0148,355284.94,Cash,true,Hazel Valdes,parent,786-189-6984,hvaldesa3@imgur.com,57 Hallows Terrace,Huskvarna,F,561 50
+365,Sheelagh,Koppke,12/23/1999,Genderqueer,unemployed,,0.1993,0.0618,9695148.34,High Growth,false,Sheelagh Koppke,spouse,,skoppkea4@1688.com,476 Moose Court,Kisasa,,
+366,Rudiger,Ambrosini,2/17/1974,Male,,76604.82,0.1078,0.0551,5738312.55,International Growth,true,Rudiger Ambrosini,sibling,620-762-1287,rambrosinia5@blogs.com,0 Dakota Circle,La Victoria,,155007
+367,Florian,Craggs,3/29/1909,Male,self-employed,326310.93,0.1785,0.0355,7224961.97,Balanced,true,Florian Craggs,parent,598-992-4150,fcraggsa6@netvibes.com,169 Myrtle Plaza,Perfilovo,,665220
+368,Merill,Abbey,6/2/1938,Male,unemployed,252049.51,0.1137,0.0051,7982513.42,High Growth,false,Merill Abbey,parent,955-824-3296,mabbeya7@msn.com,6910 Morrow Plaza,Longxi,,
+369,Cordy,Worham,12/21/2024,Female,self-employed,495732.18,0.0557,0.0691,4079987.81,Cash,false,Cordy Worham,parent,969-501-3083,cworhama8@goodreads.com,029 Steensland Hill,Shangyanzhuang,,
+370,Rafael,Newton,4/15/1931,Male,self-employed,20771.08,0.1169,0.0717,1351232.17,International Growth,false,Rafael Newton,parent,416-311-6187,rnewtona9@themeforest.net,14 Westport Pass,Chocope,,
+371,Sherline,Lurcock,3/31/2001,Female,unemployed,163472.58,0.045,0.0559,3035457.5,Growth,false,Sherline Lurcock,parent,544-390-3879,slurcockaa@globo.com,13397 Golden Leaf Avenue,Langkap,,
+372,Ainslee,Kembrey,11/28/1971,Agender,employed,203181.42,0.0318,0.0326,6549460.43,International Growth,false,Ainslee Kembrey,parent,908-298-9193,akembreyab@1688.com,0313 Manitowish Terrace,Tlumach,,
+373,Ree,Gainseford,11/25/1942,Female,unemployed,468328.25,0.0967,0.0955,1015460.99,Cash,true,Ree Gainseford,spouse,188-366-1227,rgainsefordac@cnn.com,,Algés,11,1495-005
+374,Ariel,Dunkerley,12/11/1964,Male,employed,362179.65,0.0162,0.0819,1895338.63,Socially Responsible Balanced,true,Ariel Dunkerley,sibling,653-732-0652,adunkerleyad@economist.com,,Santai,,
+375,Boy,Boldero,3/19/1961,Male,,60873.72,0.0106,0.0824,5507129.52,Growth,false,Boy Boldero,parent,952-304-1507,bbolderoae@netlog.com,74107 Warbler Trail,Tuwa,,
+376,Ryun,Pooley,9/23/2014,Male,self-employed,,0.079,0.0529,8808343.42,Balanced,false,Ryun Pooley,spouse,564-813-8748,rpooleyaf@sakura.ne.jp,5322 Helena Street,Tutul,,
+377,Kally,Whimpenny,12/20/2012,Female,self-employed,437345.56,0.1709,0.0175,2226369.42,High Growth,false,Kally Whimpenny,parent,,kwhimpennyag@chronoengine.com,26925 Iowa Court,Hongwansi,,
+378,Onofredo,Trahearn,1/20/1917,Male,self-employed,33377.08,0.1521,0.0033,9987175.07,Conservative,true,Onofredo Trahearn,sibling,179-271-4679,otrahearnah@bluehost.com,4 Nevada Avenue,Uzda,,
+379,Yuma,Duckerin,3/10/1959,Male,self-employed,288469.92,0.0215,0.0243,2748647.1,High Growth,false,Yuma Duckerin,child,679-299-0114,yduckerinai@digg.com,4 Banding Court,Tigbinan,,1426
+380,Jae,Gareisr,9/29/1958,Male,employed,110111.46,0.0693,0.0359,4979643.35,Growth,false,Jae Gareisr,spouse,382-339-9654,jgareisraj@gnu.org,,Kiên Lương,,
+381,Archambault,Inglis,9/4/1928,Male,employed,165231.47,0.0267,0.0215,1377364.3,Growth,false,Archambault Inglis,parent,722-736-4569,ainglisak@examiner.com,36 Melby Alley,Dongshangguan,,
+382,Gus,Duffield,11/8/1900,Female,self-employed,437091.43,0.081,0.0384,8405718.88,Capital Guaranteed,false,Gus Duffield,sibling,867-269-7273,gduffieldal@woothemes.com,6672 Gale Hill,Kajaani,,87900
+383,Peadar,Semeradova,9/17/1922,,unemployed,303473.11,0.0802,0.0419,785075.08,Growth,false,Peadar Semeradova,sibling,674-407-6303,psemeradovaam@theguardian.com,,Gastello,,694210
+384,Lon,Titmus,7/15/1990,Male,self-employed,431834.32,0.1038,0.0937,3580218.85,Conservative,false,Lon Titmus,parent,971-889-4396,ltitmusan@skype.com,7 Kennedy Court,Barrancas,,443049
+385,Haily,Longland,5/24/2016,Male,unemployed,,0.1597,0.0953,9542129.06,Cash,true,Haily Longland,spouse,837-143-8028,hlonglandao@youtube.com,98 Moose Parkway,Végueta,,
+386,Persis,Burgiss,7/7/2018,Female,unemployed,205615.03,0.1097,0.0349,142189.74,Conservative,true,Persis Burgiss,parent,290-189-1879,pburgissap@example.com,6 Farwell Point,Beja,02,7800-009
+387,Bentley,Simoens,8/11/1961,Male,employed,200743.86,0.0454,0.0587,566401.92,Cash,true,Bentley Simoens,parent,225-421-9633,bsimoensaq@time.com,0561 6th Street,Zawichost,,27-630
+388,Lelia,Mallatratt,12/3/1913,Female,unemployed,16644.06,0.0525,0.0668,625259.34,Socially Responsible Balanced,false,Lelia Mallatratt,spouse,442-308-1027,lmallatrattar@intel.com,59 Charing Cross Alley,Cauto Cristo,,
+389,Aron,Premble,1/12/1915,Male,unemployed,391643.31,0.1143,0.0685,2418267.64,High Growth,true,Aron Premble,spouse,236-168-5456,aprembleas@redcross.org,9 Morrow Way,Rechitsy,,
+390,Maje,McGorman,1/24/1916,Genderfluid,,495209.5,0.1496,0.0442,1422737.88,Socially Responsible Balanced,true,Maje McGorman,sibling,761-932-3548,mmcgormanat@google.ru,,Rejasa Kaja,,
+391,Marilin,Bedward,11/21/1950,,self-employed,396092.18,0.0462,0.0642,9785041.07,Growth,false,Marilin Bedward,parent,,mbedwardau@wiley.com,470 Caliangt Trail,Mineralni Bani,,
+392,Robbi,Kesten,9/18/1964,,self-employed,233732.47,0.1429,0.0713,924530.73,Moderate,false,Robbi Kesten,parent,772-703-0067,rkestenav@amazon.de,30044 Grayhawk Court,Dingqiao,,
+393,Taylor,Millberg,12/5/1960,Male,employed,42155.58,0.1084,0.0895,5111220.84,High Growth,true,Taylor Millberg,spouse,531-633-8686,tmillbergaw@spotify.com,0022 Troy Way,Zhongben,,
+394,Trumaine,Exon,9/10/1957,Male,employed,137058.79,0.1942,0.0712,526652.0,Conservative,false,Trumaine Exon,parent,647-396-0095,texonax@scientificamerican.com,70 Golf Course Drive,Moog,,
+395,Rozelle,D'Costa,6/1/1999,Female,unemployed,193461.05,0.1995,0.0934,3785937.49,Balanced,false,Rozelle D'Costa,sibling,861-128-8247,rdcostaay@fema.gov,,Galyugayevskaya,,
+396,Pippy,Blaisdell,11/6/1942,Female,self-employed,183428.79,0.1358,0.0917,6178237.74,International Growth,false,Pippy Blaisdell,spouse,704-288-4533,pblaisdellaz@shareasale.com,7 Melby Trail,Liqi,,
+397,Latashia,Bilbee,4/15/1955,Female,unemployed,,0.0878,0.0979,8009606.35,High Growth,false,Latashia Bilbee,sibling,313-953-9711,lbilbeeb0@sina.com.cn,92 American Drive,Estrela,,
+398,Alfonse,Zylberdik,6/12/1980,Male,,,0.1274,0.0364,2198084.94,Growth,false,Alfonse Zylberdik,sibling,344-287-9794,azylberdikb1@mozilla.com,0644 Claremont Avenue,Parion,,5805
+399,Zackariah,Waren,11/15/1923,Male,unemployed,483698.54,0.1488,0.029,7775910.82,Balanced,false,Zackariah Waren,child,202-776-2157,zwarenb2@taobao.com,15510 Marcy Plaza,Dagu,,
+400,Tad,Hulme,10/1/1969,,self-employed,136127.32,0.0459,0.0841,4184052.72,Moderate,true,Tad Hulme,parent,609-736-2616,thulmeb3@amazon.co.uk,,Guangyuan,,
+401,Miriam,Swiggs,3/7/1924,Female,self-employed,386908.26,0.068,0.0206,2509745.57,High Growth,false,Miriam Swiggs,sibling,446-432-1565,mswiggsb4@usgs.gov,5 Morning Hill,Jabłonka,,
+402,Hadleigh,Chevers,1/19/1929,Male,employed,440227.4,0.1233,0.0983,5579537.25,Socially Responsible Balanced,true,Hadleigh Chevers,child,586-340-3396,hcheversb5@yahoo.com,884 Karstens Crossing,Mem Martins,11,2725-094
+403,Saunderson,Matisse,8/24/1927,Male,self-employed,70078.25,0.0966,0.0462,9119478.08,Cash,false,Saunderson Matisse,parent,868-980-2610,smatisseb6@loc.gov,3 Springs Junction,Sorokino,,659391
+404,Viviene,McIlvenny,12/22/1988,Female,unemployed,,0.0329,0.0151,4165954.58,Growth,true,Viviene McIlvenny,sibling,748-246-4480,vmcilvennyb7@sourceforge.net,0380 Bartelt Pass,Alpūrai,,19201
+405,Margie,Thompstone,8/27/2014,Female,unemployed,,0.0973,0.0844,3796387.05,High Growth,true,Margie Thompstone,spouse,633-226-0402,mthompstoneb8@sohu.com,844 Susan Road,Caicedonia,,762548
+406,Hilly,Bruhnke,4/9/1995,Male,unemployed,253825.0,0.0451,0.0787,2904560.94,Moderate,false,Hilly Bruhnke,child,333-838-4328,hbruhnkeb9@ustream.tv,52215 Petterle Crossing,Psychikó,,
+407,Loreen,Bridgen,10/9/1997,,unemployed,198847.95,0.0578,0.0213,8103757.61,Growth,false,Loreen Bridgen,sibling,734-778-2707,lbridgenba@state.tx.us,203 Fulton Terrace,Seremban,NSN,70572
+408,Meier,Hardesty,1/15/1957,Male,employed,94534.65,0.0373,0.0612,2695944.76,Conservative,false,Meier Hardesty,sibling,430-279-7321,mhardestybb@youku.com,42 Walton Street,Télimélé,,
+409,Vite,Eyres,3/10/2019,Male,unemployed,,0.1587,0.0544,9354340.44,Balanced,false,Vite Eyres,spouse,704-574-3929,veyresbc@nationalgeographic.com,9096 Anderson Plaza,Lubukalung,,
+410,Gloriana,Loreit,6/28/1998,Female,self-employed,182863.86,0.0049,0.0953,4537284.35,Moderate,true,Gloriana Loreit,child,464-417-7965,gloreitbd@gravatar.com,3 Welch Park,Aga,,3505
+411,Laura,Quinnelly,5/12/1950,Female,unemployed,293772.24,0.0656,0.0682,8617082.93,Balanced,false,Laura Quinnelly,child,849-354-3108,lquinnellybe@spotify.com,079 Granby Alley,Täby,AB,183 04
+412,Silvia,Ovens,10/5/1993,Female,unemployed,367480.67,0.1367,0.0817,6543581.11,Growth,true,Silvia Ovens,sibling,235-633-4850,sovensbf@amazonaws.com,6 Hagan Street,Sidikalang,,
+413,Jeanine,Reeve,2/23/1909,Female,unemployed,,0.108,0.038,6702935.64,International Growth,false,Jeanine Reeve,sibling,314-903-5527,jreevebg@illinois.edu,2309 Warrior Pass,Welisara,,11830
+414,Elset,Foulds,8/31/1996,,self-employed,321048.35,0.0128,0.033,8919175.58,Socially Responsible Balanced,false,Elset Foulds,parent,,efouldsbh@stanford.edu,530 Shasta Circle,Lapachito,,3514
+415,Kellby,Braunle,5/22/2013,Male,unemployed,237027.37,0.0425,0.0656,1771245.22,High Growth,false,Kellby Braunle,parent,896-552-3047,kbraunlebi@oakley.com,60 Packers Point,Ribas,13,4610-535
+416,Harris,Conring,7/5/1999,Male,unemployed,67323.18,0.0246,0.0434,1797425.8,Capital Guaranteed,true,Harris Conring,parent,918-561-6333,hconringbj@who.int,596 Lien Terrace,Gislaved,F,332 37
+417,Burg,Benko,4/12/2022,Male,employed,,0.0066,0.0775,194519.15,High Growth,false,Burg Benko,sibling,489-849-1580,bbenkobk@hatena.ne.jp,,Maochen,,
+418,Pinchas,Woolstenholmes,11/4/2004,Male,employed,382562.43,0.1638,0.0444,2983433.57,Conservative,true,Pinchas Woolstenholmes,spouse,335-907-3110,pwoolstenholmesbl@twitpic.com,,Lianghekou,,
+419,Tyrus,Dormand,3/6/2000,Non-binary,self-employed,114885.14,0.1192,0.0804,8771267.6,Socially Responsible Balanced,true,Tyrus Dormand,parent,442-754-8989,tdormandbm@soundcloud.com,85 Sommers Road,Mananum,,6118
+420,Abigail,Tanswill,4/27/2024,Female,unemployed,291375.14,0.0897,0.0978,6681727.98,Conservative,true,Abigail Tanswill,spouse,674-103-9760,atanswillbn@timesonline.co.uk,908 Northridge Circle,Alenquer,11,2580-306
+421,Ki,Fredi,12/14/1904,Female,self-employed,371672.9,0.0298,0.0541,5051701.04,Socially Responsible Balanced,true,Ki Fredi,parent,190-476-2300,kfredibo@ihg.com,7 Fisk Parkway,Ar Ramthā,,
+422,Ellerey,Daskiewicz,5/9/1997,Male,self-employed,328178.34,0.185,0.0626,4807676.3,Moderate,true,Ellerey Daskiewicz,spouse,,edaskiewiczbp@godaddy.com,9 Glendale Park,Spas-Zaulok,,141667
+423,Ignacius,Woollett,3/30/1961,Male,self-employed,328006.36,0.1496,0.0597,2517851.57,Balanced,true,Ignacius Woollett,spouse,719-351-7019,iwoollettbq@scientificamerican.com,68868 Pankratz Road,Amagbagan,,2437
+424,Anne-corinne,Pett,12/8/1903,Female,self-employed,351146.94,0.1181,0.0689,9386598.62,Moderate,true,Anne-corinne Pett,parent,534-628-6904,apettbr@g.co,353 2nd Avenue,Obeliai,,42006
+425,Aubert,Dunwoody,2/1/2016,,employed,6973.71,0.0992,0.0455,9302780.76,Capital Guaranteed,true,Aubert Dunwoody,sibling,624-428-1541,adunwoodybs@cbc.ca,3 Norway Maple Plaza,Suicheng,,
+426,Jaimie,Mildmott,7/28/1931,Male,unemployed,369063.21,0.1919,0.0901,7302121.72,Moderate,true,Jaimie Mildmott,spouse,617-706-6636,jmildmottbt@dagondesign.com,76446 Pearson Street,Paraipaba,,
+427,Rutherford,Stubbeley,11/14/2013,Male,unemployed,116656.93,0.1422,0.07,529719.27,Socially Responsible Balanced,true,Rutherford Stubbeley,child,,rstubbeleybu@google.ru,72 Muir Drive,Cametá,,68400-000
+428,Car,Airds,6/20/1908,Male,employed,441871.8,0.1358,0.0314,9610628.81,Balanced,false,Car Airds,child,,cairdsbv@wikipedia.org,15532 Glacier Hill Junction,Arneiro,11,
+429,Marjie,Pickworth,10/17/2017,Female,unemployed,84552.46,0.0781,0.015,5160812.71,Growth,false,Marjie Pickworth,child,,mpickworthbw@nih.gov,6267 Walton Lane,Pakxong,,
+430,Lenette,Jolland,6/27/1978,Bigender,unemployed,141590.16,0.0841,0.0642,3218377.59,Moderate,true,Lenette Jolland,spouse,553-593-0868,ljollandbx@xing.com,737 Hazelcrest Crossing,Werinama,,
+431,Lauralee,Exley,5/2/2019,Female,,464020.73,0.1185,0.0264,5675046.88,Capital Guaranteed,false,Lauralee Exley,spouse,257-659-9422,lexleyby@businesswire.com,04896 Shelley Parkway,Kamiichi,,872-0511
+432,Trey,Jollie,1/6/1962,,unemployed,492583.59,0.0413,0.0902,3330880.6,Conservative,true,Trey Jollie,sibling,644-739-1690,tjolliebz@ted.com,15605 Esker Crossing,Lyubech,,
+433,Enrika,Kobsch,1/9/2007,Female,unemployed,42214.5,0.1351,0.084,1204270.85,International Growth,true,Enrika Kobsch,parent,303-865-2485,ekobschc0@sphinn.com,288 Park Meadow Circle,Aurora,CO,80044
+434,Friederike,Huge,2/22/1953,Female,employed,320521.71,0.1766,0.0445,284265.82,Balanced,true,Friederike Huge,spouse,514-615-2444,fhugec1@newsvine.com,271 Cambridge Pass,Daqiao,,
+435,Cyrus,Leverette,6/22/2004,,unemployed,407510.04,0.0275,0.0297,6874740.35,International Growth,true,Cyrus Leverette,sibling,656-225-0404,cleverettec2@princeton.edu,3537 Green Ridge Trail,Honglu,,
+436,Cassie,Aimer,10/1/1972,Female,unemployed,328822.53,0.095,0.0151,6211068.73,International Growth,false,Cassie Aimer,sibling,671-521-4493,caimerc3@shutterfly.com,5128 Pleasure Circle,Xichehe,,
+437,Riordan,Pellamont,7/12/1909,,unemployed,178984.14,0.1276,0.0517,2732409.55,Conservative,true,Riordan Pellamont,sibling,772-514-8139,rpellamontc4@blogger.com,,Luebo,,
+438,Tonia,Blacksell,8/30/1941,,unemployed,472249.57,0.0428,0.0124,5130680.15,High Growth,false,Tonia Blacksell,spouse,863-659-3585,tblacksellc5@friendfeed.com,908 Monument Place,Xiamayu,,
+439,Yale,Pietrowski,7/11/1969,Male,unemployed,,0.0368,0.0034,671103.08,International Growth,true,Yale Pietrowski,spouse,293-193-4017,ypietrowskic6@devhub.com,,Angoram,,
+440,Gratia,Acres,8/19/1965,Female,,425567.8,0.007,0.0148,839087.86,Balanced,false,Gratia Acres,spouse,441-847-3535,gacresc7@paginegialle.it,44377 Kipling Avenue,Kołbaskowo,,72-001
+441,Cooper,Stenbridge,8/11/1926,Male,unemployed,10714.87,0.1691,0.0603,1813813.76,Balanced,false,Cooper Stenbridge,child,982-140-6244,cstenbridgec8@cnet.com,59225 Monica Park,Maia,42,9625-325
+442,Rebekah,Ventura,8/8/2006,,self-employed,,0.1326,0.0977,8430433.43,High Growth,false,Rebekah Ventura,child,337-670-4994,rventurac9@ucoz.com,32838 Autumn Leaf Park,Krian,,
+443,Cob,Tomaino,10/8/1957,Male,employed,83680.2,0.0555,0.0522,5349992.95,Moderate,true,Cob Tomaino,spouse,883-676-5584,ctomainoca@bravesites.com,718 Algoma Terrace,Sunne,S,686 24
+444,Craggy,Fumagallo,11/25/1927,Male,self-employed,102626.6,0.142,0.0548,6347811.02,Conservative,true,Craggy Fumagallo,child,608-363-6051,cfumagallocb@nih.gov,,Silihe,,
+445,Onfroi,Permain,3/23/1923,Male,employed,290095.26,0.0286,0.0902,8240673.91,Moderate,false,Onfroi Permain,spouse,,opermaincc@nbcnews.com,31 Quincy Trail,Yumani,,
+446,Bonnibelle,Frankiss,3/6/1921,Female,employed,336045.37,0.084,0.0052,1310135.67,Socially Responsible Balanced,false,Bonnibelle Frankiss,spouse,233-511-4661,bfrankisscd@noaa.gov,1614 Hoard Court,Lautaro,,
+447,Hieronymus,Pley,7/16/1912,Male,unemployed,17701.91,0.1446,0.0835,4989215.18,Conservative,true,Hieronymus Pley,sibling,913-452-5226,hpleyce@cbc.ca,12779 Talisman Way,Rucheng Chengguanzhen,,
+448,Drew,Life,11/4/1985,Male,self-employed,128490.88,0.1165,0.0574,3421730.96,Conservative,false,Drew Life,sibling,655-644-6443,dlifecf@qq.com,3662 Banding Park,Liaonan,,
+449,Abelard,Benion,1/21/2021,Male,employed,172367.21,0.1074,0.0245,8120429.42,Cash,true,Abelard Benion,parent,441-887-5455,abenioncg@mozilla.org,777 Sommers Avenue,Independencia,OAX,70630
+450,Lory,Sowden,4/11/1952,Female,self-employed,108823.1,0.06,0.0397,7594421.93,Moderate,false,Lory Sowden,spouse,165-818-8198,lsowdench@vistaprint.com,39261 Pearson Point,La Gomera,,
+451,Jed,Lyles,11/26/2023,Male,self-employed,75539.4,0.0204,0.0945,9834049.78,Conservative,true,Jed Lyles,sibling,877-922-1344,jlylesci@bloomberg.com,09189 Gale Trail,Piraí,,27175-000
+452,Kaye,Danielian,7/11/2002,Female,employed,405838.78,0.0205,0.0303,5544045.49,Conservative,true,Kaye Danielian,parent,811-506-0562,kdanieliancj@xing.com,301 Westridge Court,Shaoguan,,
+453,Kristopher,Biagioni,6/22/1907,Male,self-employed,19925.6,0.063,0.0168,2659918.74,Balanced,true,Kristopher Biagioni,spouse,438-562-6725,kbiagionick@chron.com,80777 Kropf Lane,Yihe,,
+454,Tanhya,Kendrick,8/4/1915,Agender,unemployed,,0.1004,0.0863,3643413.84,Cash,true,Tanhya Kendrick,parent,268-978-9925,tkendrickcl@360.cn,366 Golden Leaf Junction,Dvorichna,,
+455,Eolanda,Giacobelli,12/30/1939,Female,employed,107111.42,0.1885,0.0527,4446277.56,Balanced,false,Eolanda Giacobelli,child,444-412-0087,egiacobellicm@paypal.com,590 Bashford Center,Geita,,
+456,Jodi,Allmark,2/12/1940,Male,employed,138073.05,0.098,0.0129,4055310.72,Moderate,false,Jodi Allmark,spouse,796-185-2173,jallmarkcn@arstechnica.com,22 Doe Crossing Junction,Shanling,,
+457,Aguste,Benting,11/16/1937,Male,self-employed,127013.2,0.0633,0.0387,2247146.25,Socially Responsible Balanced,true,Aguste Benting,sibling,335-897-7844,abentingco@google.es,53 Summerview Place,Ventsy,,
+458,Pascale,Harsum,4/21/1939,,employed,97306.72,0.1292,0.011,2947359.64,Growth,false,Pascale Harsum,parent,351-322-5488,pharsumcp@merriam-webster.com,39 Schurz Alley,Velké Karlovice,,756 06
+459,Kelwin,Baroc,12/17/1978,Male,,475239.77,0.026,0.0882,1234323.58,Conservative,false,Kelwin Baroc,parent,134-604-8512,kbaroccq@skyrock.com,8788 Mosinee Parkway,Roche-à-Bateau,,
+460,Hunter,Markwell,12/8/1944,,employed,261073.69,0.0415,0.0151,134359.33,Conservative,true,Hunter Markwell,sibling,454-599-6553,hmarkwellcr@imageshack.us,65769 Green Ridge Alley,Betzdorf,,L-6832
+461,Ernesto,Egar,5/3/1996,Male,,249013.94,0.0282,0.0587,9891458.02,Conservative,true,Ernesto Egar,parent,513-449-0986,eegarcs@1und1.de,2 Buhler Junction,La Francia,,2426
+462,Chev,Groll,1/23/1923,Male,self-employed,360911.29,0.1364,0.0538,2401935.48,Cash,false,Chev Groll,spouse,960-529-7584,cgrollct@github.io,206 Morning Hill,Sułów,,56-306
+463,Hatty,Mingotti,2/11/1920,Female,self-employed,92713.4,0.0622,0.0601,1713584.64,Balanced,false,Hatty Mingotti,child,468-651-3610,hmingotticu@ca.gov,0 Iowa Center,Salamrejo,,
+464,Lavina,Struan,5/29/1940,Female,self-employed,386615.11,0.0611,0.0619,557100.99,Capital Guaranteed,false,Lavina Struan,spouse,,lstruancv@goo.gl,,Ilesa,,
+465,Penelope,Eichmann,7/27/1911,Female,self-employed,486599.87,0.0009,0.0765,2787398.32,International Growth,false,Penelope Eichmann,sibling,685-757-3188,peichmanncw@list-manage.com,92 Dayton Pass,Sandovo,,171750
+466,Clementina,Vogelein,12/23/1918,Female,unemployed,240570.34,0.1021,0.0972,7634011.0,Moderate,true,Clementina Vogelein,parent,983-402-8329,cvogeleincx@cam.ac.uk,487 Warner Junction,Kathu,,83120
+467,Kirbee,Caughan,7/25/2024,Female,employed,319152.18,0.1722,0.0109,3763540.46,Socially Responsible Balanced,true,Kirbee Caughan,sibling,356-400-0050,kcaughancy@ifeng.com,2183 Pankratz Center,Salvador,05,6090-608
+468,Katlin,Andino,5/13/1903,,employed,89510.82,0.0385,0.0779,4834823.37,Socially Responsible Balanced,false,Katlin Andino,sibling,621-218-0551,kandinocz@zdnet.com,65121 Heath Street,Hongjiaguan,,
+469,Rozella,McMarquis,10/19/2017,Female,self-employed,217270.05,0.0826,0.0242,3845979.48,Cash,false,Rozella McMarquis,sibling,709-448-8813,rmcmarquisd0@woothemes.com,1347 Cardinal Circle,Killumney,,D06
+470,Granger,Olden,12/17/1927,Male,unemployed,,0.0873,0.0151,6524561.28,Cash,true,Granger Olden,sibling,930-215-2044,goldend1@amazonaws.com,,Ciwaru,,
+471,Henrie,Chatain,9/1/2022,Female,,,0.0257,0.0878,5394942.55,International Growth,true,Henrie Chatain,parent,363-688-7742,hchataind2@exblog.jp,,Hetang,,
+472,Orelia,Elgee,4/6/1924,Female,unemployed,440301.41,0.1123,0.0575,5338802.0,Moderate,false,Orelia Elgee,parent,,oelgeed3@hp.com,17 Mifflin Pass,Shiqiaotou,,
+473,Mair,Duigenan,4/27/1937,Female,self-employed,,0.0885,0.0773,530845.13,Growth,true,Mair Duigenan,child,192-363-7789,mduigenand4@ca.gov,64704 Basil Plaza,Barakī Barak,,
+474,Ira,Murcutt,5/21/1991,Female,self-employed,162972.01,0.1223,0.0978,9131625.77,Socially Responsible Balanced,true,Ira Murcutt,parent,,imurcuttd5@state.gov,46 Melby Avenue,San Isidro,GRO,41004
+475,Remington,Reame,10/8/1989,,employed,146115.82,0.076,0.0893,9089321.17,High Growth,true,Remington Reame,parent,893-542-2892,rreamed6@hao123.com,1945 Petterle Street,Lenchwe Le Tau,,
+476,Banky,Henrys,9/27/1923,Male,self-employed,41705.12,0.1163,0.0712,5676194.97,High Growth,false,Banky Henrys,child,388-353-1238,bhenrysd7@mysql.com,207 Village Green Trail,Vári,,
+477,Renell,St. Paul,7/28/1948,Female,unemployed,137336.8,0.1417,0.0242,1080048.31,International Growth,false,Renell St. Paul,parent,569-108-4092,rstd8@narod.ru,04168 Amoth Place,Lianzhu,,
+478,Ranice,Reightley,5/13/1969,Female,,,0.041,0.046,4482927.82,Cash,false,Ranice Reightley,sibling,501-135-4438,rreightleyd9@nasa.gov,99 Scott Parkway,Kumane,,
+479,Maybelle,Trethowan,5/8/1980,,unemployed,345429.72,0.133,0.0397,6187578.47,International Growth,false,Maybelle Trethowan,child,538-238-8004,mtrethowanda@amazon.de,5 1st Hill,Mertani,,
+480,Amy,Trownson,10/22/1928,Female,,327607.07,0.093,0.0135,2030928.49,Socially Responsible Balanced,false,Amy Trownson,sibling,497-946-2502,atrownsondb@themeforest.net,0 Donald Hill,Cabarroguis,,3400
+481,Reeta,Ehlerding,9/14/2009,Female,self-employed,353583.2,0.156,0.0706,1349994.1,Growth,false,Reeta Ehlerding,parent,579-151-5658,rehlerdingdc@exblog.jp,0 Cascade Place,Leśna Podlaska,,21-542
+482,Myrlene,Josifovitz,4/16/1967,Female,unemployed,,0.1554,0.0131,9565977.17,Growth,false,Myrlene Josifovitz,sibling,215-211-5940,mjosifovitzdd@timesonline.co.uk,56 Trailsway Trail,Philadelphia,PA,19120
+483,Francklyn,Redfearn,2/13/1920,Male,self-employed,476548.56,0.0044,0.0777,9283149.36,Socially Responsible Balanced,true,Francklyn Redfearn,child,151-126-8018,fredfearnde@blogs.com,4663 Maryland Parkway,Lingyuan,,
+484,Wang,Hinkins,11/20/1950,Male,self-employed,12713.05,0.0291,0.0735,8809715.33,Cash,false,Wang Hinkins,child,357-653-3489,whinkinsdf@time.com,,Łobez,,
+485,Marcelo,McFaul,11/20/1982,Male,unemployed,,0.0996,0.0907,3092117.81,Capital Guaranteed,false,Marcelo McFaul,spouse,177-733-9163,mmcfauldg@biglobe.ne.jp,5 Jackson Lane,Az̧ Z̧a‘āyin,,
+486,Trula,Caldwall,3/3/2007,Female,self-employed,52662.83,0.0911,0.0064,8205366.7,High Growth,true,Trula Caldwall,parent,627-899-8637,tcaldwalldh@list-manage.com,7 Schiller Pass,Shiki,,
+487,Raine,Laxson,11/7/1981,Female,,,0.0075,0.0028,8136827.7,High Growth,false,Raine Laxson,spouse,966-354-0707,rlaxsondi@i2i.jp,08873 Troy Street,Venlo,05,5904
+488,Rhodie,Twinn,4/10/2011,Female,self-employed,,0.1361,0.0506,5435905.8,International Growth,false,Rhodie Twinn,parent,472-167-6112,rtwinndj@vk.com,32524 Hollow Ridge Avenue,Apoya,,
+489,Erminie,Pinwell,1/31/1918,,unemployed,432105.92,0.1496,0.0839,7241397.82,Conservative,true,Erminie Pinwell,spouse,625-950-0816,epinwelldk@nps.gov,,Quibal,,5103
+490,Lindsey,Heskey,12/12/2006,Male,self-employed,196839.4,0.1687,0.0259,9723254.81,International Growth,false,Lindsey Heskey,spouse,458-493-0446,lheskeydl@biglobe.ne.jp,291 Saint Paul Avenue,San Mariano,,3332
+491,Sky,Botcherby,12/2/1932,Male,unemployed,415837.76,0.0526,0.0157,8172725.6,High Growth,false,Sky Botcherby,parent,509-814-6100,sbotcherbydm@amazon.de,2630 Stoughton Pass,Gračec,,10370
+492,Dahlia,Odney,7/23/1921,Non-binary,self-employed,223243.56,0.0423,0.0559,5575543.01,Moderate,true,Dahlia Odney,parent,291-710-6976,dodneydn@lulu.com,6007 Barby Way,Araranguá,,88900-000
+493,Bart,Dibbin,10/2/1994,Male,employed,211302.26,0.0118,0.003,597349.3,Cash,true,Bart Dibbin,spouse,700-174-1818,bdibbindo@vk.com,40 Homewood Terrace,Rodionovo-Nesvetaiskoye,,346580
+494,Rockey,Minghi,3/24/2000,Male,self-employed,103919.57,0.1057,0.0709,5295279.88,High Growth,false,Rockey Minghi,sibling,509-231-0710,rminghidp@indiegogo.com,15523 Cordelia Center,Paris 02,A8,
+495,Aurilia,Simmance,7/25/1940,Female,self-employed,29519.33,0.1434,0.0374,6948658.16,Capital Guaranteed,false,Aurilia Simmance,child,,asimmancedq@nsw.gov.au,5504 Tony Hill,Boncong,,
+496,Vern,Bowater,12/30/2014,Male,unemployed,330165.32,0.1478,0.0354,5597704.42,International Growth,false,Vern Bowater,child,,vbowaterdr@zdnet.com,625 Glacier Hill Point,Gaoqiao,,
+497,Bennie,Ratledge,11/17/1986,Male,unemployed,234632.04,0.0818,0.0316,598338.66,High Growth,false,Bennie Ratledge,child,473-563-9841,bratledgeds@un.org,,Niutang,,
+498,Yolanthe,Sydry,7/12/1942,,unemployed,45431.77,0.0455,0.0646,3817070.55,Socially Responsible Balanced,false,Yolanthe Sydry,sibling,,ysydrydt@youtu.be,52172 Barby Park,Shuiyang,,
+499,Bren,Meakes,7/2/2006,Male,self-employed,,0.1402,0.0356,4799476.96,Cash,false,Bren Meakes,sibling,199-397-4040,bmeakesdu@vk.com,29 Ridge Oak Parkway,Xuguang,,
+500,Roseanna,Cromley,9/25/1972,Female,employed,212169.59,0.0268,0.0921,219680.78,Conservative,false,Roseanna Cromley,parent,781-929-7284,rcromleydv@hibu.com,,Kobiernice,,43-356
+501,Nyssa,Breston,10/2/1947,Female,unemployed,183264.71,0.0979,0.0985,3581419.94,High Growth,false,Nyssa Breston,spouse,968-656-0230,nbrestondw@paypal.com,69 Vernon Road,Tangban,,
+502,Gerardo,Bysaker,4/15/2012,Male,self-employed,346149.64,0.0912,0.0122,31257.39,Socially Responsible Balanced,false,Gerardo Bysaker,parent,977-234-2504,gbysakerdx@acquirethisname.com,4152 Manitowish Park,Marseille,B8,13348 CEDEX 20
+503,Randa,Ierland,7/1/2024,Female,employed,164230.28,0.0973,0.037,1556769.62,High Growth,true,Randa Ierland,sibling,999-802-5118,rierlanddy@zdnet.com,37577 Huxley Junction,Aras-asan,,1659
+504,Emlynn,Hemphall,8/20/1902,Female,self-employed,42336.76,0.0663,0.091,3298050.8,High Growth,false,Emlynn Hemphall,parent,768-793-5822,ehemphalldz@dagondesign.com,68564 Service Avenue,Québec,QC,G6W
+505,Willow,Sinney,9/27/1938,Female,self-employed,145559.33,0.0481,0.0543,9735350.02,Socially Responsible Balanced,false,Willow Sinney,parent,446-396-0018,wsinneye0@hc360.com,569 Cardinal Way,Qelëz,,
+506,Prue,Hawksley,2/27/1923,Female,self-employed,318774.91,0.1593,0.0231,6252370.43,Conservative,false,Prue Hawksley,sibling,392-104-9003,phawksleye1@yelp.com,,Hengshan,,
+507,Karina,Dows,10/25/1945,Female,unemployed,74928.55,0.1528,0.098,9987833.33,Balanced,false,Karina Dows,parent,798-998-6621,kdowse2@hp.com,54 Carberry Place,Astromil,13,4585-794
+508,Hilton,Haeslier,9/17/1981,Male,employed,55974.27,0.1743,0.0179,1898323.22,High Growth,false,Hilton Haeslier,child,816-610-0700,hhaesliere3@kickstarter.com,,Kansas City,MO,64125
+509,Rhiamon,Stanfield,11/3/1981,Female,unemployed,12126.28,0.152,0.0978,8302743.92,Capital Guaranteed,false,Rhiamon Stanfield,spouse,809-978-8857,rstanfielde4@ihg.com,974 Elmside Crossing,Aracruz,,29190-000
+510,Tallie,Wimes,5/13/1941,Non-binary,self-employed,459297.53,0.0283,0.0276,7075306.39,Socially Responsible Balanced,true,Tallie Wimes,parent,807-861-2947,twimese5@hc360.com,,Camrose,AB,T4V
+511,Britte,Twelves,1/16/1924,Female,self-employed,278734.0,0.0765,0.0245,8704449.07,Capital Guaranteed,false,Britte Twelves,parent,929-918-7788,btwelvese6@ebay.co.uk,9959 Nancy Point,Shatrovo,,641960
+512,Porty,Jeyes,5/11/1967,Male,unemployed,152000.04,0.0402,0.0309,9412108.61,Balanced,false,Porty Jeyes,sibling,649-788-3332,pjeyese7@stumbleupon.com,,Bulri,,47361
+513,Rodie,Blunderfield,6/15/2012,Female,self-employed,479411.2,0.1021,0.0189,6209360.16,Cash,true,Rodie Blunderfield,parent,240-489-3636,rblunderfielde8@slate.com,4883 American Lane,Rodas,,
+514,Derek,Fearnehough,11/5/1967,Male,employed,,0.0692,0.0739,9992218.14,Balanced,false,Derek Fearnehough,child,948-193-7940,dfearnehoughe9@wikimedia.org,77172 Hovde Junction,Varėna,,65075
+515,Thornton,Burdass,4/1/1917,Male,unemployed,282706.4,0.0066,0.0661,2830102.97,Moderate,false,Thornton Burdass,parent,133-579-0277,tburdassea@reference.com,055 Rusk Park,Qobu,,
+516,Susanetta,Dowty,7/8/2009,,self-employed,138306.66,0.0053,0.0332,9611533.66,Balanced,true,Susanetta Dowty,parent,522-211-3710,sdowtyeb@macromedia.com,40810 Jay Parkway,Nāḩiyat Hīrān,,
+517,Ben,Gherardesci,12/25/1908,Male,unemployed,,0.1663,0.0633,5550758.48,High Growth,true,Ben Gherardesci,child,374-323-9700,bgherardesciec@ox.ac.uk,85 Wayridge Street,Cherskiy,,678831
+518,Romy,Scrannage,3/16/1972,Female,employed,104209.23,0.173,0.0822,6566422.22,Socially Responsible Balanced,false,Romy Scrannage,parent,161-728-8579,rscrannageed@vk.com,,Shanghu,,
+519,Kerry,Gibard,9/16/1995,Female,self-employed,196704.35,0.0095,0.0223,6192399.11,Capital Guaranteed,true,Kerry Gibard,spouse,696-206-8132,kgibardee@cpanel.net,33932 Eggendart Point,Wolomarang,,
+520,Raphael,Dennington,6/2/1938,Male,,459121.41,0.0199,0.0912,4481148.94,Growth,false,Raphael Dennington,child,,rdenningtonef@tamu.edu,3806 Larry Plaza,Ravne,,3504
+521,Leroi,Gullan,10/21/1911,Male,unemployed,276971.91,0.0311,0.0722,7051290.06,Growth,true,Leroi Gullan,sibling,378-687-2961,lgullaneg@marketwatch.com,,Mao,,
+522,Ole,Goadsby,3/12/1935,Male,employed,,0.0654,0.0984,7174001.61,International Growth,true,Ole Goadsby,sibling,521-950-6166,ogoadsbyeh@usnews.com,,Kulpin,,
+523,Yanaton,Beaument,8/15/1920,Male,employed,483147.82,0.125,0.0158,4076071.44,Cash,false,Yanaton Beaument,sibling,890-911-3253,ybeaumentei@eventbrite.com,99 Wayridge Way,Vidoši,,
+524,Denney,Flowith,11/23/1939,Male,employed,395755.02,0.0451,0.0199,9823195.38,Balanced,true,Denney Flowith,child,403-847-3687,dflowithej@yolasite.com,3 Daystar Trail,Hat Yai,,90110
+525,Babb,Meedendorpe,3/4/1961,Female,self-employed,,0.1654,0.081,4689981.38,Moderate,false,Babb Meedendorpe,sibling,609-300-5839,bmeedendorpeek@patch.com,1 Maryland Lane,Murça,09,
+526,Querida,Peegrem,5/19/1985,Female,self-employed,226034.31,0.0821,0.0576,6042698.97,Capital Guaranteed,true,Querida Peegrem,spouse,175-799-8087,qpeegremel@mapquest.com,052 Bartillon Avenue,Yoshikawa,,990-0711
+527,Dew,Rodenburgh,3/7/1966,,employed,267858.43,0.1063,0.0943,3265451.2,Cash,true,Dew Rodenburgh,parent,577-361-6885,drodenburghem@blog.com,9752 Wayridge Street,Kuripan,,
+528,Elvyn,Wavish,7/14/1970,Male,unemployed,21738.6,0.1277,0.0065,2154481.55,Cash,false,Elvyn Wavish,spouse,,ewavishen@dedecms.com,963 Barnett Plaza,Thymianá,,
+529,Gabriello,Yeomans,2/29/2016,Non-binary,employed,96648.29,0.1422,0.0779,3092298.56,Balanced,true,Gabriello Yeomans,sibling,680-534-5094,gyeomanseo@chronoengine.com,2776 Pennsylvania Circle,Jianling,,
+530,Inglis,Musgrave,9/17/2020,Male,self-employed,,0.1002,0.0414,3515050.6,International Growth,false,Inglis Musgrave,spouse,212-772-5542,imusgraveep@walmart.com,700 Warrior Crossing,Wates,,
+531,Renae,Haps,4/10/1948,Female,employed,313320.29,0.1596,0.0279,7088154.62,Balanced,true,Renae Haps,child,932-791-4787,rhapseq@clickbank.net,,Bartsrashen,,
+532,Jayme,Ferroli,10/15/1903,Female,unemployed,453898.02,0.0217,0.0014,2450788.23,Moderate,false,Jayme Ferroli,spouse,784-906-1186,jferrolier@vk.com,2 7th Alley,Kamyshevka Vtoraya,,
+533,Judon,Mylchreest,3/24/1999,Male,,401396.13,0.1656,0.0085,3912569.05,Conservative,true,Judon Mylchreest,sibling,,jmylchreestes@un.org,,Zhongxin,,
+534,Cale,Lambarton,9/12/2018,Male,self-employed,96084.95,0.0756,0.0029,4756439.11,Cash,true,Cale Lambarton,parent,279-612-6799,clambartonet@sbwire.com,88 Derek Place,Sepatan,,
+535,Christine,Jellis,12/23/1979,,employed,484060.92,0.0682,0.0462,2013847.77,Capital Guaranteed,false,Christine Jellis,parent,428-889-4670,cjelliseu@blogger.com,1 Mandrake Drive,Kraton,,
+536,Valerye,Swinburn,11/16/1981,Female,self-employed,253635.46,0.1875,0.0545,4964154.05,Balanced,true,Valerye Swinburn,sibling,743-254-1148,vswinburnev@sogou.com,701 Nobel Circle,Brněnec,,569 04
+537,Norton,Walklot,7/3/1908,Male,self-employed,406387.67,0.072,0.0472,5419971.2,Balanced,false,Norton Walklot,spouse,476-590-3117,nwalklotew@sciencedirect.com,5 Dennis Avenue,Longshan,,
+538,Jarib,Gusticke,11/21/2016,Male,unemployed,,0.0107,0.0198,5604752.04,Balanced,false,Jarib Gusticke,sibling,216-416-0975,jgustickeex@yellowbook.com,5 Farmco Pass,Talitsy,,155644
+539,Pippo,MacConnell,3/15/1913,Bigender,self-employed,398704.4,0.1014,0.0725,495225.23,Growth,false,Pippo MacConnell,sibling,966-154-6178,pmacconnelley@umn.edu,,Ivano-Frankove,,
+540,Nestor,Meecher,3/9/1944,Male,employed,,0.0055,0.0746,5855359.52,Balanced,false,Nestor Meecher,parent,243-498-2992,nmeecherez@tripadvisor.com,12320 Springview Center,Katoro,,
+541,Aeriela,Dellow,10/21/2001,Female,self-employed,354548.92,0.0751,0.0376,5359470.38,Socially Responsible Balanced,false,Aeriela Dellow,spouse,754-740-5121,adellowf0@tiny.cc,2 Elka Way,Brämhult,O,507 33
+542,Guthry,Ashborn,5/30/1925,Genderfluid,self-employed,479132.31,0.1449,0.0166,9958270.61,Growth,false,Guthry Ashborn,parent,678-851-9649,gashbornf1@jiathis.com,99 Redwing Drive,Ryazan’,,390507
+543,Daven,Kaygill,2/24/1990,Male,unemployed,,0.1029,0.0992,3405049.8,Cash,true,Daven Kaygill,spouse,413-302-7059,dkaygillf2@quantcast.com,5254 Shoshone Way,Ipoh,PRK,
+544,Randa,Huff,6/28/2022,Female,employed,80159.43,0.1127,0.0863,8576180.62,Capital Guaranteed,false,Randa Huff,sibling,654-836-4843,rhufff3@ox.ac.uk,1 Blue Bill Park Parkway,San Fernando de Monte Cristi,,
+545,Drew,Daintry,5/7/2006,Male,unemployed,,0.198,0.0077,8637830.81,Balanced,true,Drew Daintry,sibling,288-512-9412,ddaintryf4@dailymotion.com,,Pakemitan,,
+546,Kristi,Smither,1/27/2001,Female,,,0.1608,0.0069,1197632.31,International Growth,true,Kristi Smither,spouse,549-462-7119,ksmitherf5@howstuffworks.com,37698 Mariners Cove Hill,Alimono,,7005
+547,Norrie,Grevile,7/31/2023,,unemployed,,0.1795,0.0576,3297628.94,Growth,true,Norrie Grevile,child,,ngrevilef6@yahoo.co.jp,747 Northport Parkway,Singaparna,,
+548,Meara,Blaxley,6/4/1992,Female,,164592.19,0.0226,0.0078,7977045.19,International Growth,false,Meara Blaxley,spouse,,mblaxleyf7@salon.com,36348 Butterfield Avenue,Daegu,,
+549,Nari,Cordeau,2/21/1988,Female,unemployed,218726.9,0.1827,0.0287,1495700.37,Capital Guaranteed,true,Nari Cordeau,child,113-390-1392,ncordeauf8@marketwatch.com,,Vanves,A8,
+550,Alexei,Grigoriscu,5/27/2014,Male,employed,127017.41,0.1709,0.0045,8084701.59,Growth,false,Alexei Grigoriscu,parent,316-363-8870,agrigoriscuf9@linkedin.com,2 Karstens Court,Mabai,,
+551,Perren,Pasby,11/10/1997,Male,unemployed,,0.1294,0.065,998865.26,Growth,true,Perren Pasby,sibling,623-346-5129,ppasbyfa@topsy.com,1 Briar Crest Point,Siva,,617248
+552,Sax,Castilljo,6/30/1983,Male,unemployed,205347.56,0.0225,0.0789,478166.48,Balanced,true,Sax Castilljo,parent,234-879-3621,scastilljofb@accuweather.com,69 Alpine Plaza,Daping,,
+553,Olly,Lexa,11/30/2010,Male,,171761.74,0.1227,0.0677,5552547.94,Socially Responsible Balanced,true,Olly Lexa,sibling,819-954-7107,olexafc@blinklist.com,55501 Paget Plaza,Zapolyarnyy,,184433
+554,Lanita,Feast,5/20/1955,Female,self-employed,222112.21,0.1557,0.0773,6713676.71,Socially Responsible Balanced,false,Lanita Feast,sibling,632-269-1487,lfeastfd@ucoz.com,485 Mesta Center,Yūki,,323-0805
+555,Sonia,Ferreli,7/29/1991,Female,self-employed,421030.6,0.0849,0.0135,6066569.78,Growth,false,Sonia Ferreli,child,223-129-7841,sferrelife@diigo.com,83 Fairview Terrace,Dul’durga,,687200
+556,Geri,Chatterton,9/19/1904,Male,unemployed,148409.09,0.1315,0.0256,7357172.56,Cash,true,Geri Chatterton,parent,884-337-5299,gchattertonff@pbs.org,362 Little Fleur Court,Independencia,DUR,35156
+557,Aubine,Tuftin,2/16/1985,Female,self-employed,143071.31,0.0579,0.0487,8997930.76,Capital Guaranteed,true,Aubine Tuftin,parent,346-883-7591,atuftinfg@google.ru,79722 Ludington Lane,Richmond,,7090
+558,Jonah,Ducker,7/15/2016,Bigender,self-employed,366385.68,0.082,0.0378,9051487.27,Socially Responsible Balanced,false,Jonah Ducker,child,669-117-0390,jduckerfh@parallels.com,7 Sherman Place,Jamshoro,,
+559,Julieta,MacRedmond,11/11/1929,Female,unemployed,374246.58,0.1558,0.0777,3743605.76,Conservative,false,Julieta MacRedmond,sibling,167-924-8830,jmacredmondfi@a8.net,98 Longview Terrace,San Francisco de Macorís,,10902
+560,Cale,Medwell,4/29/1966,Agender,self-employed,59192.3,0.0226,0.078,6058959.21,International Growth,false,Cale Medwell,spouse,510-896-9372,cmedwellfj@redcross.org,34164 Chinook Pass,Santo Domingo Este,,11806
+561,Geordie,Wearing,3/18/1953,Male,employed,164808.17,0.1059,0.0524,6442126.2,Moderate,false,Geordie Wearing,sibling,756-116-9056,gwearingfk@ehow.com,9577 Fordem Lane,Lutomiersk,,95-083
+562,Cal,Mealham,12/11/1964,Male,unemployed,438038.23,0.0514,0.0904,1645401.36,Conservative,false,Cal Mealham,spouse,897-287-3204,cmealhamfl@hhs.gov,27498 Bluejay Parkway,Paris 17,A8,75808 CEDEX 17
+563,Derward,Aldous,5/6/1982,Male,self-employed,390382.45,0.0856,0.0422,4287924.23,Moderate,true,Derward Aldous,sibling,322-105-8654,daldousfm@bloomberg.com,096 Hansons Crossing,Tha Mai,,22120
+564,Sanson,Missenden,9/5/1912,Genderfluid,unemployed,233860.71,0.192,0.0239,7845418.05,Growth,false,Sanson Missenden,sibling,129-828-8584,smissendenfn@umich.edu,58594 Hermina Alley,Grujugan,,
+565,Bastian,Laidel,9/8/2016,,self-employed,204520.6,0.1052,0.0398,2956319.68,Socially Responsible Balanced,false,Bastian Laidel,sibling,570-676-7843,blaidelfo@ezinearticles.com,5024 Maple Wood Avenue,Krasnogorskiy,,652649
+566,Abbie,Mate,4/6/1969,Female,unemployed,172302.23,0.1179,0.0003,8004429.84,Balanced,true,Abbie Mate,sibling,,amatefp@yahoo.co.jp,77 Fairfield Hill,Tha Uthen,,48120
+567,Fidela,Pethrick,4/15/2001,Polygender,self-employed,420968.52,0.1201,0.0683,5907243.48,Cash,true,Fidela Pethrick,spouse,829-265-6173,fpethrickfq@mlb.com,7 Granby Trail,Charlotte Amalie,,00822
+568,Lavena,Miliffe,8/10/2022,Female,unemployed,482356.87,0.0285,0.0141,2348739.46,Cash,false,Lavena Miliffe,child,554-223-9168,lmiliffefr@tripadvisor.com,30213 Nelson Lane,Cabo,,95335-000
+569,Susette,Lawless,2/11/1937,Female,employed,,0.1779,0.011,4667080.51,Socially Responsible Balanced,true,Susette Lawless,spouse,760-893-4110,slawlessfs@netlog.com,0195 Pepper Wood Park,Dongshi,,
+570,Cosetta,Spilisy,11/29/1901,Female,unemployed,494303.4,0.0221,0.0339,7189305.15,Capital Guaranteed,true,Cosetta Spilisy,sibling,182-256-9659,cspilisyft@columbia.edu,496 Hollow Ridge Place,Boa Esperança,,87390-000
+571,Jerrylee,Budgey,11/18/1907,Polygender,,415957.14,0.0827,0.027,2318232.21,Socially Responsible Balanced,false,Jerrylee Budgey,spouse,,jbudgeyfu@noaa.gov,1420 Spaight Way,Sam Roi Yot,,30220
+572,Jerri,Sackett,11/28/2018,Male,employed,184397.88,0.1856,0.0573,2630894.24,Growth,false,Jerri Sackett,parent,953-549-3163,jsackettfv@google.it,474 Kensington Crossing,Morón,,1765
+573,Helaine,Carstairs,2/3/2009,Female,,51415.05,0.1044,0.0449,8456488.62,High Growth,true,Helaine Carstairs,spouse,610-108-2171,hcarstairsfw@studiopress.com,595 Myrtle Drive,Jirjā,,
+574,Sauveur,Casley,7/9/1942,,employed,129466.81,0.0783,0.0549,7996098.83,Cash,true,Sauveur Casley,child,403-426-2141,scasleyfx@usa.gov,69 Fallview Junction,Phu Sang,,63120
+575,Adrianna,Sommerscales,7/11/1994,Female,employed,284293.29,0.1722,0.0156,9945454.89,Socially Responsible Balanced,true,Adrianna Sommerscales,sibling,361-963-7677,asommerscalesfy@ocn.ne.jp,997 Bartillon Drive,Pärnu-Jaagupi,,
+576,Dario,McNirlin,10/14/1923,Agender,self-employed,,0.0759,0.0007,3509049.83,Growth,false,Dario McNirlin,parent,,dmcnirlinfz@t.co,3 Waywood Court,Ugra,,215435
+577,Brose,Ferrelli,2/27/1932,,unemployed,371263.92,0.1306,0.0073,3525472.36,Cash,false,Brose Ferrelli,parent,953-955-4934,bferrellig0@ftc.gov,1 Ridgeview Terrace,Pyatigorskiy,,102192
+578,Sharline,Reid,1/5/1911,Genderqueer,self-employed,,0.1026,0.0918,6798120.19,International Growth,false,Sharline Reid,parent,419-510-1214,sreidg1@rakuten.co.jp,289 Superior Court,Toledo,OH,43635
+579,Moselle,Floris,9/28/1939,,,,0.0485,0.0197,410697.68,Balanced,true,Moselle Floris,sibling,267-908-4367,mflorisg2@craigslist.org,50 Vahlen Junction,Afareaitu,,
+580,Lin,Conti,9/3/1937,Male,self-employed,86531.3,0.0747,0.0771,9489106.67,Moderate,true,Lin Conti,child,163-455-3828,lcontig3@livejournal.com,,Hoima,,
+581,Emlyn,Hyrons,7/15/1961,Male,self-employed,,0.0934,0.0221,9907959.92,Socially Responsible Balanced,false,Emlyn Hyrons,parent,689-194-3576,ehyronsg4@ocn.ne.jp,51603 Spaight Drive,Tashla,,461199
+582,Roxanne,Gribbins,8/15/1936,Female,employed,268474.48,0.181,0.0093,6544270.2,Cash,true,Roxanne Gribbins,parent,,rgribbinsg5@360.cn,4763 John Wall Hill,Sātkhira,,9283
+583,Launce,Feare,1/20/1968,Male,employed,382186.75,0.1297,0.0023,7424570.29,International Growth,true,Launce Feare,spouse,234-128-9606,lfeareg6@ehow.com,86 Darwin Park,North Shore,,0748
+584,Andra,Brinicombe,7/23/2012,,unemployed,141271.33,0.085,0.0092,6291800.1,Cash,true,Andra Brinicombe,spouse,749-327-7533,abrinicombeg7@pbs.org,,Timon,,65630-000
+585,Juditha,Witherspoon,3/18/1991,,unemployed,87410.38,0.1393,0.0277,5817445.58,Moderate,false,Juditha Witherspoon,spouse,209-222-7081,jwitherspoong8@livejournal.com,22 Gale Hill,Maojiagang,,
+586,Vivien,Pusill,11/2/2007,Female,employed,219356.62,0.0596,0.064,7723592.91,Growth,true,Vivien Pusill,sibling,239-120-6342,vpusillg9@mysql.com,8749 Eagan Road,Norrtälje,AB,761 93
+587,Mead,Toland,12/1/1918,Female,self-employed,399796.24,0.1468,0.0724,3245653.26,International Growth,false,Mead Toland,spouse,854-680-3629,mtolandga@cdbaby.com,9 Chive Crossing,Boyeros,,
+588,Neils,Carradice,7/14/1924,Male,employed,,0.0556,0.0961,8055302.99,Balanced,true,Neils Carradice,spouse,892-780-9923,ncarradicegb@businessinsider.com,0 Glendale Lane,Holoriang,,
+589,Rafferty,Grimston,8/8/1954,Male,unemployed,202027.09,0.0534,0.0878,2706422.74,Socially Responsible Balanced,true,Rafferty Grimston,child,833-900-9480,rgrimstongc@nationalgeographic.com,01750 Forster Hill,Vojkovice,,739 51
+590,Eugenio,McCallister,7/28/1911,Male,unemployed,117554.32,0.156,0.0941,5603152.96,Cash,true,Eugenio McCallister,parent,815-626-3602,emccallistergd@mozilla.com,501 Hooker Drive,San Jacinto,,
+591,Rudolf,Le Noury,8/22/2023,Male,self-employed,367113.32,0.0562,0.0679,2383246.62,Moderate,true,Rudolf Le Noury,sibling,225-480-0373,rlege@myspace.com,5265 Center Point,Tobatí,,
+592,Sile,Ortsmann,12/25/1967,Female,employed,163983.71,0.0159,0.0341,8394889.49,International Growth,true,Sile Ortsmann,parent,523-199-0121,sortsmanngf@sitemeter.com,3791 Parkside Park,Severomorsk,,663853
+593,Del,Ruspine,10/16/1912,Female,unemployed,,0.142,0.0318,3048956.98,International Growth,true,Del Ruspine,sibling,709-660-6459,druspinegg@technorati.com,4 Karstens Avenue,Lebahseri,,
+594,Moses,Carvell,8/20/2005,Male,unemployed,269742.87,0.0463,0.0816,5061609.99,Capital Guaranteed,true,Moses Carvell,sibling,272-825-2865,mcarvellgh@sfgate.com,2132 Reindahl Lane,Taradale,,4183
+595,Josie,Hallibone,3/15/1908,Non-binary,self-employed,124020.57,0.1406,0.0851,3315855.51,International Growth,false,Josie Hallibone,child,397-750-3408,jhallibonegi@auda.org.au,3556 Lillian Place,Jinsha,,
+596,Gaye,Nell,8/29/1972,Genderfluid,unemployed,291949.29,0.1952,0.0662,5240781.49,International Growth,false,Gaye Nell,child,181-229-0409,gnellgj@tinypic.com,68 Donald Way,Gōdo,,503-2429
+597,Meredith,Wassell,3/1/1916,Female,self-employed,67806.93,0.0476,0.0387,2487682.29,High Growth,true,Meredith Wassell,sibling,912-895-7373,mwassellgk@who.int,63 Sherman Lane,Magisterial,COA,29223
+598,Paulette,Tolerton,7/25/1953,Female,self-employed,197742.2,0.1773,0.0428,8717685.02,Conservative,false,Paulette Tolerton,spouse,,ptolertongl@trellian.com,3314 Huxley Crossing,Dera Bugti,,80100
+599,Robin,Lammerts,12/2/1916,,self-employed,356249.57,0.0526,0.0615,1698778.42,Moderate,true,Robin Lammerts,sibling,769-719-4193,rlammertsgm@jigsy.com,59 Barnett Point,Štitar,,32274
+600,Brocky,Rubenchik,1/12/2020,,employed,374852.31,0.0342,0.0726,7035103.65,Conservative,false,Brocky Rubenchik,parent,226-632-4295,brubenchikgn@tripod.com,60 Grasskamp Alley,Šavnik,,
+601,Berenice,Ponten,1/21/2019,Female,unemployed,370646.66,0.0582,0.0057,7529229.69,Conservative,true,Berenice Ponten,parent,266-558-6432,bpontengo@mozilla.com,413 Pine View Hill,Ciénaga de Oro,,232538
+602,Nickolai,Hardiker,3/14/2012,Male,self-employed,455867.26,0.0473,0.0971,984214.42,Cash,false,Nickolai Hardiker,child,701-463-1520,nhardikergp@reuters.com,43 Dwight Avenue,Mushu,,
+603,Luciano,Maddyson,7/29/1943,Male,self-employed,320471.86,0.052,0.0763,5598118.92,Balanced,true,Luciano Maddyson,sibling,738-106-2359,lmaddysongq@hao123.com,54 Northview Circle,Ikar,,
+604,Gerhard,Dalston,11/10/1964,Male,self-employed,130312.69,0.0537,0.0864,268051.81,High Growth,false,Gerhard Dalston,child,295-407-3990,gdalstongr@is.gd,,Longaví,,
+605,Virginie,Choak,10/18/1982,Agender,self-employed,308528.66,0.0024,0.0993,8093667.7,Conservative,false,Virginie Choak,child,906-788-5018,vchoakgs@linkedin.com,9095 Carioca Junction,Thị Trấn Yên Châu,,
+606,Gregory,Drewet,7/15/1915,,self-employed,,0.1945,0.0572,2075495.94,Balanced,false,Gregory Drewet,spouse,511-997-1905,gdrewetgt@google.co.jp,7968 Sloan Drive,Chuchkovo,,601247
+607,Layney,Tregonna,5/3/1996,Female,unemployed,,0.0269,0.0131,9427314.27,International Growth,true,Layney Tregonna,child,516-845-1465,ltregonnagu@cam.ac.uk,,Kazo,,365-0023
+608,Waylan,Bool,9/23/1995,Male,employed,331997.09,0.1931,0.0615,8843772.98,Moderate,false,Waylan Bool,spouse,844-448-5167,wboolgv@wix.com,420 Monterey Terrace,Retkovci,,32282
+609,Davis,D'Antonio,8/7/1929,Male,self-employed,338470.06,0.1077,0.0533,6773187.66,International Growth,false,Davis D'Antonio,child,456-447-6809,ddantoniogw@nbcnews.com,9795 Manitowish Drive,Omsukchan,,686416
+610,Erroll,Handscomb,3/2/1941,Male,self-employed,,0.0846,0.0264,6536907.19,High Growth,false,Erroll Handscomb,spouse,529-273-6671,ehandscombgx@clickbank.net,042 Acker Court,Manfalūţ,,
+611,Mehetabel,Kendred,4/5/2024,Female,self-employed,130885.54,0.0336,0.0206,5254947.72,High Growth,false,Mehetabel Kendred,spouse,610-465-8275,mkendredgy@sfgate.com,9 Division Hill,Dzel,,
+612,Ransom,Knott,10/30/1920,Male,employed,82937.91,0.0977,0.082,9330039.42,International Growth,true,Ransom Knott,spouse,575-825-5577,rknottgz@va.gov,5899 Beilfuss Lane,Kavýli,,
+613,Alyda,Mafham,11/27/1963,Female,unemployed,262889.61,0.1669,0.0625,1644135.1,Cash,false,Alyda Mafham,sibling,936-828-5478,amafhamh0@cmu.edu,9 John Wall Crossing,Yinping,,
+614,Kathye,Bischoff,1/15/1917,Polygender,self-employed,8696.97,0.0911,0.0364,9486950.52,Conservative,false,Kathye Bischoff,child,,kbischoffh1@dailymail.co.uk,6 Ludington Court,Magburaka,,
+615,Currey,Klemenz,12/28/2016,Male,self-employed,170624.81,0.1782,0.0034,350431.67,Cash,true,Currey Klemenz,child,585-356-0466,cklemenzh2@pcworld.com,22153 Blackbird Court,Rochester,NY,14609
+616,Merle,Whitebrook,5/27/2005,Male,employed,46575.97,0.1298,0.0789,9139234.75,Moderate,true,Merle Whitebrook,parent,998-324-9210,mwhitebrookh3@angelfire.com,92 Graceland Court,Nidri,,
+617,Simone,Linning,6/22/2006,Male,employed,421219.89,0.0615,0.025,7733770.94,Moderate,false,Simone Linning,child,391-950-3880,slinningh4@springer.com,5803 Leroy Place,Ngurore,,
+618,Saw,Verillo,9/27/1911,Male,employed,357796.51,0.0138,0.0578,8098398.11,High Growth,false,Saw Verillo,parent,879-553-0173,sverilloh5@msu.edu,6 Weeping Birch Center,Strabychovo,,
+619,Garv,Devote,3/17/1989,,employed,239750.61,0.0411,0.0466,8035405.45,International Growth,false,Garv Devote,child,274-725-3102,gdevoteh6@meetup.com,95716 Laurel Hill,Stockholm,AB,103 88
+620,Frederich,Hugh,2/14/1963,Male,self-employed,315127.81,0.1772,0.058,2224020.29,Conservative,true,Frederich Hugh,sibling,752-656-1142,fhughh7@seattletimes.com,4612 Cascade Parkway,Brckovljani,,10370
+621,Silvio,Marchetti,3/2/1917,Male,self-employed,205105.76,0.1023,0.0845,4768987.95,Conservative,false,Silvio Marchetti,child,685-893-7528,smarchettih8@blog.com,98852 Riverside Street,Caluire-et-Cuire,B9,
+622,Daphne,Zavattero,12/1/1939,Female,self-employed,28312.11,0.0702,0.0913,8175145.52,High Growth,true,Daphne Zavattero,parent,397-233-1208,dzavatteroh9@flickr.com,261 Redwing Point,Nesovice,,683 33
+623,Danette,Minard,8/9/1955,Female,unemployed,156548.95,0.1173,0.0497,7035531.36,Capital Guaranteed,true,Danette Minard,parent,500-565-9454,dminardha@wsj.com,,Genova,LG,16146
+624,Marcelo,Swanson,1/9/2001,Male,unemployed,153114.16,0.0583,0.0845,3205870.97,Cash,true,Marcelo Swanson,sibling,996-989-1689,mswansonhb@usda.gov,4051 Bashford Circle,Yirshi,,
+625,Minor,Ramsden,7/8/2022,Male,employed,37124.12,0.0015,0.0745,5649003.9,Cash,false,Minor Ramsden,sibling,978-853-4864,mramsdenhc@github.com,,Tianhe,,
+626,Flo,Jillard,11/13/1966,Female,unemployed,196858.42,0.1609,0.0213,5061867.78,International Growth,false,Flo Jillard,sibling,533-110-3419,fjillardhd@google.nl,551 Harper Plaza,Baugo,,6017
+627,Koenraad,Wasmuth,11/23/1983,Male,unemployed,240540.6,0.0011,0.0574,4553997.26,Moderate,false,Koenraad Wasmuth,sibling,385-824-3420,kwasmuthhe@instagram.com,965 Duke Avenue,Bašaid,,
+628,Tanney,Axell,10/20/1903,Male,employed,254806.25,0.1059,0.0273,4257529.13,Moderate,false,Tanney Axell,parent,626-925-0663,taxellhf@google.com.au,790 Ronald Regan Trail,Dagsar,,
+629,Inigo,Moland,3/12/1917,Male,unemployed,464469.67,0.0297,0.0626,5789827.83,Balanced,true,Inigo Moland,spouse,377-130-7538,imolandhg@accuweather.com,127 Texas Plaza,Berea,,4362
+630,Frayda,Pigden,10/22/1967,Female,,371490.05,0.0787,0.0709,731712.19,Growth,false,Frayda Pigden,child,453-893-7645,fpigdenhh@mediafire.com,22150 Armistice Way,Huotong,,
+631,Bonnibelle,Catt,9/8/1919,Female,employed,44569.5,0.0892,0.0066,4759171.06,Cash,false,Bonnibelle Catt,parent,732-641-8921,bcatthi@ihg.com,1 Pankratz Avenue,Osielec,,34-234
+632,Ree,Briamo,10/24/1992,,employed,79453.5,0.1272,0.0085,6372461.65,Moderate,true,Ree Briamo,sibling,432-658-4485,rbriamohj@squarespace.com,2042 Cody Avenue,Leuburi,,
+633,Davie,Scarr,2/25/2014,Male,self-employed,,0.1643,0.0015,5726885.42,Balanced,false,Davie Scarr,child,730-198-5927,dscarrhk@nba.com,48444 Fallview Point,Lalukoen Dua,,
+634,Noll,Govenlock,3/21/1949,Male,employed,448891.89,0.1835,0.0716,8425141.9,Moderate,false,Noll Govenlock,parent,317-894-9629,ngovenlockhl@guardian.co.uk,2220 Doe Crossing Park,Nha Trang,,
+635,Tracie,Leisman,10/25/2014,Male,,287627.33,0.146,0.0202,6042693.76,High Growth,true,Tracie Leisman,sibling,687-475-1017,tleismanhm@stanford.edu,2037 Fairfield Parkway,Chābahār,,
+636,Loydie,Iliff,2/28/1993,Male,unemployed,450872.22,0.0753,0.0519,5360497.85,International Growth,false,Loydie Iliff,child,607-280-5617,liliffhn@netscape.com,8 2nd Street,Ilagan,,3300
+637,Felice,Haysey,10/10/1917,Male,employed,41428.63,0.125,0.095,5131345.69,Capital Guaranteed,false,Felice Haysey,parent,,fhayseyho@people.com.cn,64 Pawling Parkway,Primero de Mayo,VER,95193
+638,Kelli,Suller,4/5/1926,Female,self-employed,376554.16,0.1296,0.0398,4796167.37,Balanced,true,Kelli Suller,sibling,277-377-5056,ksullerhp@squarespace.com,42269 Sycamore Plaza,Tarikolot,,
+639,Dionis,McLennan,10/4/1909,Female,self-employed,440667.32,0.1301,0.067,3169321.39,Cash,true,Dionis McLennan,spouse,479-767-0546,dmclennanhq@dailymotion.com,,Ban Ratsada,,83120
+640,Cristine,Deller,5/19/1982,Genderqueer,employed,90992.54,0.0388,0.037,5699620.9,Socially Responsible Balanced,false,Cristine Deller,sibling,589-515-0503,cdellerhr@house.gov,9 Ludington Center,Ban Dan,,31000
+641,Rosalynd,Livsey,8/30/1931,Female,employed,324740.36,0.1732,0.064,6966951.33,Moderate,false,Rosalynd Livsey,sibling,802-961-0947,rlivseyhs@indiatimes.com,,Fengjiang,,
+642,Salomone,Leeman,5/6/1959,Male,employed,206906.34,0.1964,0.0356,1908179.44,High Growth,false,Salomone Leeman,parent,306-101-6072,sleemanht@diigo.com,1 Sunbrook Alley,Tefé,,69470-000
+643,Frances,Walcher,7/8/1972,Female,,29261.97,0.086,0.0812,5610999.68,Socially Responsible Balanced,false,Frances Walcher,child,987-462-4341,fwalcherhu@wikia.com,2629 Cordelia Avenue,Yubileynyy,,618284
+644,Chickie,Roderick,5/27/1942,,,358922.28,0.0915,0.0299,6728139.76,Socially Responsible Balanced,true,Chickie Roderick,sibling,278-104-2080,croderickhv@bandcamp.com,903 Derek Road,Calumpang,,2307
+645,Zarla,Pawel,6/16/1900,Bigender,,130517.81,0.1341,0.043,5196512.88,Balanced,false,Zarla Pawel,sibling,,zpawelhw@omniture.com,59 Portage Avenue,Bene 'Ayish,,
+646,Connie,Knowlson,7/21/2003,,employed,397888.48,0.0664,0.0096,4418708.81,Socially Responsible Balanced,false,Connie Knowlson,child,668-537-1296,cknowlsonhx@wordpress.com,,Palaióchora,,
+647,Dyna,Darnborough,10/13/1977,Female,unemployed,474077.66,0.1227,0.0054,215378.94,Moderate,false,Dyna Darnborough,sibling,885-620-0136,ddarnboroughhy@aboutads.info,91 Mccormick Crossing,Krasnyy Oktyabr’,,601021
+648,Debby,Beetham,6/28/1913,Female,unemployed,334202.18,0.1395,0.0694,1944529.02,Socially Responsible Balanced,false,Debby Beetham,parent,,dbeethamhz@prweb.com,8472 Homewood Point,Haarlem,07,2014
+649,Paxon,Bollon,5/30/1920,,unemployed,355181.27,0.1967,0.0218,4336676.61,Growth,true,Paxon Bollon,parent,217-667-6417,pbolloni0@pinterest.com,7865 Katie Pass,Mtubatuba,,3940
+650,Gradey,Winger,2/25/1907,Male,employed,245430.05,0.0367,0.0631,8611323.29,Socially Responsible Balanced,false,Gradey Winger,child,970-478-9204,gwingeri1@amazon.co.uk,0194 Lake View Park,Tanahwangko,,
+651,Leia,Broom,1/25/1979,,unemployed,290421.52,0.1639,0.025,5730611.0,Growth,true,Leia Broom,parent,842-530-0548,lbroomi2@wikimedia.org,74 Upham Road,Lurugan,,8722
+652,Zerk,Baldrick,4/2/1956,Male,,119458.51,0.039,0.0404,4028739.69,High Growth,false,Zerk Baldrick,parent,889-726-4107,zbaldricki3@hao123.com,4273 Randy Trail,Alfenas,,37130-000
+653,Kelly,Kobpac,2/19/1906,Female,employed,240913.41,0.141,0.045,9034707.78,Capital Guaranteed,true,Kelly Kobpac,parent,229-885-1770,kkobpaci4@weather.com,,Xiqiao,,
+654,Aili,Planque,2/2/1984,Genderqueer,self-employed,452371.47,0.1213,0.0275,6469178.53,High Growth,true,Aili Planque,sibling,584-726-1667,aplanquei5@ehow.com,769 Tennessee Crossing,Créteil,A8,
+655,Andy,Hellings,1/4/1917,Female,self-employed,239206.41,0.1871,0.015,8175132.68,International Growth,true,Andy Hellings,sibling,,ahellingsi6@mtv.com,356 Brown Alley,Suruhan,,
+656,Ronica,Tuddall,1/25/1969,Female,self-employed,75238.44,0.055,0.0725,8478691.24,Conservative,false,Ronica Tuddall,spouse,961-964-8178,rtuddalli7@constantcontact.com,,København,1084,1608
+657,Guntar,Coomber,4/16/1904,Male,employed,494214.84,0.0297,0.0589,130327.37,Socially Responsible Balanced,true,Guntar Coomber,spouse,317-277-9930,gcoomberi8@netlog.com,,Nove-Misto,,
+658,Sibylla,Byass,5/14/1918,Female,self-employed,33189.09,0.0961,0.0859,6207289.0,Conservative,true,Sibylla Byass,spouse,166-969-4839,sbyassi9@amazon.com,2 Marquette Pass,Pulau Pinang,PNG,10840
+659,Doti,Humbey,9/6/1966,Female,,243418.33,0.1148,0.0697,4164856.0,Moderate,true,Doti Humbey,child,950-340-8805,dhumbeyia@digg.com,9360 Jackson Hill,Biguo,,
+660,Page,Oldacre,2/21/1904,Male,employed,447893.36,0.134,0.0909,4364000.11,Cash,true,Page Oldacre,spouse,468-700-1651,poldacreib@is.gd,1 Logan Alley,Arrepiado,14,
+661,Kati,Creech,7/20/1995,Female,employed,191954.04,0.0,0.0916,3846112.71,Cash,true,Kati Creech,parent,,kcreechic@posterous.com,4171 Armistice Terrace,Yanglin,,
+662,Bess,Harrill,5/1/1940,Female,unemployed,466785.7,0.0742,0.083,7534801.85,Socially Responsible Balanced,false,Bess Harrill,child,419-426-6886,bharrillid@bravesites.com,,Mauren,,9488
+663,Jacintha,Goodyer,10/10/1942,Female,unemployed,,0.0594,0.0981,443741.26,Growth,false,Jacintha Goodyer,child,391-133-0738,jgoodyerie@nasa.gov,2347 Green Point,Kuanping,,
+664,Arturo,Arminger,2/16/2023,Male,,,0.0546,0.0885,7572243.77,Conservative,false,Arturo Arminger,child,759-265-3919,aarmingerif@gnu.org,346 Hauk Lane,Neochórion,,
+665,Mollee,McCosker,5/7/1974,Genderfluid,employed,187998.84,0.1884,0.0263,861280.98,Conservative,false,Mollee McCosker,parent,462-478-0160,mmccoskerig@goodreads.com,43752 Larry Parkway,Warugunung,,
+666,Austina,Deverick,10/1/1937,Female,,28836.18,0.1297,0.0834,2809750.18,Moderate,true,Austina Deverick,parent,660-420-3169,adeverickih@patch.com,59710 Helena Circle,Posedarje,,23242
+667,Constantino,Preece,5/17/1937,Male,unemployed,87438.52,0.1335,0.055,1244786.21,Cash,true,Constantino Preece,spouse,569-593-7178,cpreeceii@cornell.edu,10261 Delladonna Park,Hājīganj,,
+668,Larry,Gulvin,4/3/1930,Male,employed,,0.0297,0.0475,4542977.18,Balanced,false,Larry Gulvin,spouse,676-226-1970,lgulvinij@ameblo.jp,858 Fairview Way,Shaykh al Ḩadīd,,
+669,Stephani,MacCaughen,8/11/1931,Genderfluid,employed,18420.85,0.1916,0.041,8982751.92,Conservative,true,Stephani MacCaughen,sibling,,smaccaughenik@ucoz.com,54172 Lighthouse Bay Way,Ongandjera,,
+670,Candi,McGourty,3/1/2000,Female,employed,101382.75,0.0444,0.0045,4694083.45,Conservative,false,Candi McGourty,sibling,169-684-7362,cmcgourtyil@irs.gov,861 Lillian Lane,Milovice,,768 02
+671,Tove,Nunes Nabarro,1/4/1951,,self-employed,22067.44,0.0683,0.0895,8007825.75,International Growth,false,Tove Nunes Nabarro,parent,851-482-0549,tnunesim@youku.com,1 Westridge Court,Daxi,,
+672,Kaylil,Dunley,12/24/1914,Non-binary,unemployed,,0.1588,0.0557,8069188.25,Growth,false,Kaylil Dunley,parent,958-928-1174,kdunleyin@flickr.com,2 Manitowish Center,Liancheng,,
+673,Vidovic,Ratie,7/22/2000,Male,self-employed,131522.9,0.094,0.0507,3083892.14,Growth,false,Vidovic Ratie,parent,717-939-3898,vratieio@ebay.co.uk,1 Melrose Avenue,Lancaster,PA,
+674,Dara,Blackburne,9/16/1914,Non-binary,unemployed,63472.0,0.1001,0.0908,1007793.6,Socially Responsible Balanced,false,Dara Blackburne,child,371-685-8609,dblackburneip@va.gov,47497 Hanson Hill,Sanchahe,,
+675,Ingelbert,Sutcliffe,10/24/2000,Polygender,employed,,0.1765,0.0383,3826738.42,Capital Guaranteed,true,Ingelbert Sutcliffe,sibling,459-406-8248,isutcliffeiq@umich.edu,,Sausa,,
+676,Alvera,O'Caine,3/3/1930,Female,self-employed,248128.68,0.1369,0.097,3909500.68,Capital Guaranteed,true,Alvera O'Caine,sibling,313-754-4913,aocaineir@list-manage.com,48 Hudson Place,Krásná Lípa,,
+677,Petrina,MacMenamy,10/5/2002,Female,unemployed,26476.61,0.0918,0.0679,5912189.27,Capital Guaranteed,true,Petrina MacMenamy,parent,,pmacmenamyis@free.fr,22 Bartillon Avenue,Dankunku,,
+678,Sula,Pankettman,2/1/1990,Female,employed,289778.13,0.0718,0.084,4582195.46,Cash,true,Sula Pankettman,spouse,462-732-1879,spankettmanit@i2i.jp,11 Waywood Park,Thakhèk,,
+679,Yelena,Munkley,7/16/1924,Female,self-employed,235856.37,0.0861,0.0396,949006.77,Conservative,false,Yelena Munkley,parent,365-683-2287,ymunkleyiu@biblegateway.com,5 Chinook Circle,Saint-Étienne,B9,42963 CEDEX 9
+680,Anthia,Ledbury,3/13/1945,Female,unemployed,276317.58,0.013,0.0161,6658325.32,Moderate,true,Anthia Ledbury,spouse,691-366-4263,aledburyiv@domainmarket.com,,Zhongdong,,
+681,Constantine,Killford,8/15/1922,,unemployed,484325.26,0.0456,0.0312,2671682.91,Cash,true,Constantine Killford,child,742-318-9672,ckillfordiw@xrea.com,53 Thierer Terrace,Khuma,,
+682,Dulcinea,Beaumont,9/25/1978,Female,self-employed,315554.4,0.0001,0.0337,9577310.14,Socially Responsible Balanced,false,Dulcinea Beaumont,child,,dbeaumontix@rakuten.co.jp,198 Hauk Pass,Ash Shajarah,,
+683,Danell,Saiz,5/28/1944,Female,unemployed,240531.36,0.0028,0.0613,7093018.12,Growth,true,Danell Saiz,sibling,683-433-7028,dsaiziy@latimes.com,8 Ryan Center,Glinojeck,,06-450
+684,Jaye,Seakings,6/4/1988,Male,self-employed,311939.83,0.011,0.0887,461970.23,Balanced,true,Jaye Seakings,sibling,850-372-8363,jseakingsiz@blogger.com,517 Vahlen Point,Granja,17,5070-085
+685,Ruddie,Slocum,9/30/1902,Male,employed,242978.07,0.0027,0.0375,8390953.95,Socially Responsible Balanced,false,Ruddie Slocum,sibling,380-599-5359,rslocumj0@rediff.com,5 Arrowood Place,Clones,,H23
+686,Berke,Husselbee,3/4/1964,Male,employed,168919.36,0.0212,0.0318,229739.54,Capital Guaranteed,false,Berke Husselbee,spouse,576-856-9207,bhusselbeej1@google.com,461 Marcy Alley,Najin,,
+687,Dede,Spohr,4/30/2002,Female,self-employed,,0.172,0.0923,2269930.47,High Growth,false,Dede Spohr,parent,209-172-1011,dspohrj2@un.org,08 Hanson Street,Bungursari,,
+688,Jewell,Balmann,8/30/1942,Genderqueer,employed,399473.61,0.0541,0.0271,3992847.26,Growth,true,Jewell Balmann,parent,921-666-7801,jbalmannj3@ox.ac.uk,3025 Donald Drive,Regente Feijó,,19570-000
+689,Christoph,Cumesky,11/18/2023,Male,unemployed,,0.071,0.0893,7567529.73,High Growth,true,Christoph Cumesky,child,756-395-8660,ccumeskyj4@cbslocal.com,20 Northport Way,Gaoqiaolou,,
+690,Chadd,Skelbeck,12/15/1959,Male,employed,170301.31,0.1665,0.0222,9796676.25,Growth,false,Chadd Skelbeck,spouse,356-741-3710,cskelbeckj5@qq.com,9 Manley Road,Reda,,84-240
+691,Crosby,Presdee,11/22/1955,Male,self-employed,234832.74,0.0798,0.059,27360.78,International Growth,false,Crosby Presdee,sibling,181-561-5724,cpresdeej6@furl.net,4 Rigney Point,Goubangzi,,
+692,Rosalinda,Edgeller,4/3/1965,Female,,70743.29,0.1205,0.0562,5061405.23,Socially Responsible Balanced,true,Rosalinda Edgeller,child,268-349-4384,redgellerj7@baidu.com,9 Roth Hill,Argir,,
+693,Meier,Hilhouse,5/20/1921,Male,self-employed,145766.81,0.193,0.0773,249571.16,Cash,true,Meier Hilhouse,spouse,649-621-6491,mhilhousej8@usgs.gov,6575 Jay Hill,Fuxin,,
+694,Bel,Picott,11/28/1964,Female,employed,134428.98,0.1516,0.0068,8090767.01,International Growth,false,Bel Picott,parent,331-939-1137,bpicottj9@narod.ru,8 Little Fleur Circle,Padaan,,
+695,Carmine,Maberley,3/9/1975,Male,self-employed,310760.54,0.1097,0.0872,2092725.68,Growth,false,Carmine Maberley,parent,788-733-6308,cmaberleyja@php.net,99191 La Follette Parkway,Jianshan,,
+696,Benny,Castellan,8/2/1929,Male,self-employed,280974.45,0.06,0.0422,3732759.72,High Growth,true,Benny Castellan,spouse,784-159-6596,bcastellanjb@myspace.com,03414 Washington Way,Tuochuan,,
+697,Quinta,Prout,7/2/1927,Genderqueer,,,0.1161,0.0353,6091377.7,High Growth,false,Quinta Prout,parent,383-330-2235,qproutjc@howstuffworks.com,23566 Marquette Plaza,Fundong,,
+698,Livvie,McAnalley,8/11/1916,Female,unemployed,251885.89,0.1881,0.0252,8691300.85,International Growth,false,Livvie McAnalley,sibling,480-330-3083,lmcanalleyjd@google.nl,99 Debs Park,Riangblolong,,
+699,Allard,Ilchuk,2/10/1930,Male,employed,356039.16,0.0685,0.0059,611349.29,Socially Responsible Balanced,false,Allard Ilchuk,child,987-267-2281,ailchukje@alexa.com,4 Elmside Street,Poja,,
+700,Lin,Maldin,5/21/1985,Male,unemployed,,0.1976,0.0516,1751944.2,Capital Guaranteed,true,Lin Maldin,spouse,155-843-2028,lmaldinjf@clickbank.net,81 Katie Trail,Slantsy,,188565
+701,Elizabeth,Boddice,10/1/1945,Female,self-employed,360015.66,0.0722,0.0519,9678281.74,Capital Guaranteed,false,Elizabeth Boddice,child,228-718-5033,eboddicejg@godaddy.com,51 Grover Plaza,Tirapata,,
+702,Shel,Balint,7/19/1923,Female,unemployed,355692.7,0.1097,0.0261,7225929.99,Moderate,true,Shel Balint,parent,348-897-4038,sbalintjh@istockphoto.com,6 Sullivan Park,Tanjungbahagia,,
+703,Akim,Youthead,7/4/1956,Male,,217401.21,0.087,0.0439,7479747.64,Moderate,true,Akim Youthead,spouse,255-766-6279,ayoutheadji@symantec.com,51 Columbus Court,Kloangpopot,,
+704,Janeta,Sullens,7/9/2010,Female,self-employed,144377.12,0.1361,0.019,5737641.58,Conservative,false,Janeta Sullens,parent,782-833-0438,jsullensjj@shinystat.com,,Chernogorsk,,655138
+705,Alexander,Dregan,10/9/2005,Male,unemployed,,0.0293,0.0979,9603126.49,Balanced,false,Alexander Dregan,parent,349-773-2530,adreganjk@theatlantic.com,1721 Eggendart Road,Kanashevo,,456664
+706,Nerte,Lagen,10/19/1927,Female,unemployed,239612.46,0.0843,0.0853,7505467.34,Balanced,true,Nerte Lagen,spouse,613-385-8785,nlagenjl@weebly.com,27001 Lighthouse Bay Plaza,Pangkalan,,
+707,Bernarr,Pasque,1/20/1955,Male,self-employed,144657.19,0.1058,0.0208,2338454.31,Balanced,false,Bernarr Pasque,spouse,,bpasquejm@canalblog.com,90262 Tennessee Circle,Pelem,,
+708,Liv,Karpenko,4/15/2008,Female,unemployed,2320.77,0.1058,0.0225,2490375.3,Capital Guaranteed,false,Liv Karpenko,spouse,816-290-9935,lkarpenkojn@furl.net,979 Arrowood Lane,Oslo,03,0188
+709,Jeremie,Boom,4/2/1914,Male,,427278.17,0.0666,0.0505,5521344.13,Moderate,true,Jeremie Boom,sibling,539-412-8453,jboomjo@ustream.tv,116 Eagle Crest Trail,Yantang,,
+710,Nancee,Barrar,3/6/2019,Female,self-employed,213090.07,0.1808,0.059,8295579.1,Conservative,true,Nancee Barrar,sibling,572-522-6209,nbarrarjp@flavors.me,849 Pine View Street,Mbalmayo,,
+711,Nehemiah,McKernon,10/26/2007,Male,employed,275128.69,0.106,0.0973,8579897.94,International Growth,false,Nehemiah McKernon,child,512-241-6274,nmckernonjq@disqus.com,0250 Monterey Center,Petushki,,601144
+712,Sanford,Nussey,1/13/1975,Agender,self-employed,247406.64,0.1774,0.0433,8634454.33,Cash,false,Sanford Nussey,child,411-677-9132,snusseyjr@nytimes.com,,Langpas,,1053
+713,Alexandro,Balffye,4/12/1970,Male,employed,225897.43,0.0248,0.0756,5794698.31,International Growth,false,Alexandro Balffye,child,968-811-7159,abalffyejs@hp.com,91 Eastwood Terrace,Debeljača,,
+714,Mortimer,Worsom,9/2/2010,Bigender,employed,81974.76,0.1763,0.036,8595069.25,Moderate,false,Mortimer Worsom,spouse,919-845-8209,mworsomjt@cdbaby.com,1648 Basil Junction,Megati Kelod,,
+715,Lance,Scandrite,7/12/1912,Male,unemployed,307753.11,0.0172,0.0424,5092620.67,High Growth,true,Lance Scandrite,parent,267-278-6809,lscandriteju@dell.com,2805 Tennyson Alley,Smidary,,503 53
+716,Dominic,Jarret,1/17/1950,Non-binary,unemployed,49266.87,0.071,0.0193,1501586.4,International Growth,true,Dominic Jarret,sibling,897-960-0663,djarretjv@geocities.com,6 Morrow Crossing,Stutterheim,,4935
+717,Christabel,Wilbud,1/20/1963,Female,unemployed,484346.06,0.0657,0.0813,9951763.51,Balanced,true,Christabel Wilbud,sibling,931-514-8928,cwilbudjw@printfriendly.com,6 Forest Run Alley,Penápolis,,16300-000
+718,Grover,Keirl,3/15/2010,Male,self-employed,314735.26,0.0701,0.0801,4107330.87,Growth,true,Grover Keirl,spouse,314-452-2573,gkeirljx@census.gov,3 Manitowish Street,Xinshidu,,
+719,Felicia,Matchett,9/25/2019,Female,self-employed,,0.1447,0.083,7168391.06,International Growth,false,Felicia Matchett,spouse,441-844-8214,fmatchettjy@apache.org,4837 Village Green Crossing,Khulm,,
+720,Shari,Bonnavant,11/30/1930,Female,self-employed,135374.88,0.1649,0.0661,3442134.82,International Growth,false,Shari Bonnavant,parent,574-244-3225,sbonnavantjz@rakuten.co.jp,46 Paget Plaza,Manalongon,,7029
+721,Cammie,Furney,10/3/1904,,self-employed,276615.71,0.0422,0.02,2111133.92,Balanced,false,Cammie Furney,sibling,697-666-5132,cfurneyk0@wikia.com,5827 Bowman Place,Skellefteå,AC,931 57
+722,Timoteo,Paynton,4/2/1986,Male,unemployed,,0.188,0.0591,4928247.65,High Growth,true,Timoteo Paynton,spouse,801-525-2275,tpayntonk1@google.co.jp,40590 Beilfuss Place,Salt Lake City,UT,84125
+723,Tripp,Cicullo,9/26/2011,Male,employed,257294.86,0.0442,0.0311,224645.69,Conservative,false,Tripp Cicullo,parent,266-628-1870,tcicullok2@usatoday.com,94 Veith Hill,Reutov,,143969
+724,Allyce,Seiffert,12/31/1956,Female,employed,286147.85,0.0771,0.0292,7180771.31,International Growth,false,Allyce Seiffert,child,,aseiffertk3@indiegogo.com,8 Porter Crossing,Azurva,01,
+725,Aubrette,Cottel,1/30/1952,Female,employed,323493.06,0.0066,0.0107,5128665.71,Growth,false,Aubrette Cottel,parent,189-807-7899,acottelk4@php.net,8 Blue Bill Park Trail,Tecpán Guatemala,,04006
+726,Annecorinne,Stokell,8/31/2018,,self-employed,188585.99,0.0478,0.0258,5459119.65,International Growth,false,Annecorinne Stokell,parent,617-834-3300,astokellk5@flavors.me,43413 Hoard Place,Mykonos,,
+727,Pablo,Saby,5/13/1994,Male,self-employed,452674.93,0.174,0.0187,8484068.31,Balanced,true,Pablo Saby,child,,psabyk6@vk.com,9 Center Junction,Ouro Branco,,59347-000
+728,Irvin,Thackeray,3/21/1930,Male,employed,,0.0947,0.0537,4459577.71,Conservative,false,Irvin Thackeray,sibling,483-845-7967,ithackerayk7@weibo.com,259 Nobel Lane,Huilong,,
+729,Earl,Sirl,3/10/1958,Male,unemployed,481379.27,0.1678,0.0586,267235.33,Capital Guaranteed,true,Earl Sirl,parent,912-694-0101,esirlk8@newyorker.com,9 Village Point,Älvängen,O,
+730,Larissa,Labba,4/29/1920,Female,self-employed,368124.98,0.0175,0.0795,6889805.53,Moderate,true,Larissa Labba,parent,254-359-5004,llabbak9@dagondesign.com,,Jianguo,,
+731,Bren,Walthew,5/8/1964,Female,employed,444841.36,0.1311,0.0935,3168294.86,Moderate,true,Bren Walthew,sibling,151-874-7188,bwalthewka@rakuten.co.jp,4082 Prentice Avenue,Port-au-Prince,,
+732,Hynda,Pollicott,10/3/1987,Female,self-employed,,0.0523,0.0262,7187635.24,Conservative,true,Hynda Pollicott,spouse,578-338-0653,hpollicottkb@privacy.gov.au,1421 Barnett Terrace,Goris,,
+733,Adelind,Tremellan,2/28/2015,Genderfluid,employed,489091.16,0.0905,0.0748,1506672.0,Socially Responsible Balanced,true,Adelind Tremellan,sibling,326-690-1992,atremellankc@ucoz.ru,3303 Barby Plaza,Taquari,,95860-000
+734,Nell,Eschalotte,2/25/2005,Female,,398006.08,0.0823,0.0876,6496329.87,Capital Guaranteed,false,Nell Eschalotte,child,612-643-6084,neschalottekd@amazon.co.uk,5 Becker Hill,Isidro Fabela,MEX,54932
+735,Joyous,Simao,7/21/2021,Female,unemployed,83244.66,0.0069,0.0912,3259333.03,Socially Responsible Balanced,false,Joyous Simao,sibling,779-258-7206,jsimaoke@instagram.com,,Sambuluan,,1144
+736,Shandee,Linger,5/9/1985,Female,self-employed,310220.46,0.0512,0.0804,3360597.47,International Growth,true,Shandee Linger,child,,slingerkf@slashdot.org,9259 Mitchell Way,Nong Ki,,31210
+737,Robin,Marflitt,6/16/1971,Female,unemployed,,0.1802,0.0916,8076309.45,Socially Responsible Balanced,false,Robin Marflitt,parent,200-558-4789,rmarflittkg@amazon.com,5097 Fairview Terrace,Palmeiros,10,2440-191
+738,Isadore,Rehme,11/8/1963,Male,self-employed,316796.93,0.1723,0.0018,9292910.58,Moderate,true,Isadore Rehme,sibling,660-210-6251,irehmekh@canalblog.com,737 Kings Road,San Rafael,,11504
+739,Cathrin,McNeachtain,11/27/1987,Female,employed,56010.79,0.0805,0.0705,8806704.07,International Growth,true,Cathrin McNeachtain,sibling,647-435-1593,cmcneachtainki@si.edu,534 Carioca Way,Mahe,,
+740,Nolana,Missenden,1/13/1985,Female,self-employed,385607.84,0.0679,0.0524,6202543.05,High Growth,true,Nolana Missenden,parent,513-491-7781,nmissendenkj@homestead.com,65979 Anhalt Lane,Ḩammām Damt,,
+741,Enrika,Crush,1/6/1931,Female,employed,222351.63,0.1681,0.072,2700992.5,Capital Guaranteed,true,Enrika Crush,child,446-342-8827,ecrushkk@cmu.edu,1427 Melvin Park,Bitung,,
+742,Sheffie,Eytel,6/17/2004,Male,employed,301881.47,0.1919,0.02,6525999.78,Balanced,false,Sheffie Eytel,parent,456-240-6399,seytelkl@bizjournals.com,94 Sauthoff Place,Gamboula,,
+743,Stearn,Lauxmann,3/17/1981,Male,self-employed,,0.1157,0.0852,8782272.23,International Growth,true,Stearn Lauxmann,parent,796-433-2339,slauxmannkm@spiegel.de,89 Nobel Pass,Dārāb,,
+744,Emerson,Nockells,11/3/1986,Male,unemployed,90145.27,0.1568,0.0085,107397.65,Capital Guaranteed,true,Emerson Nockells,sibling,862-617-6470,enockellskn@prweb.com,04 Eastlawn Terrace,Bacag,,8603
+745,Robbin,Kaliszewski,12/5/1937,Female,self-employed,496628.44,0.1883,0.058,2235857.3,Moderate,false,Robbin Kaliszewski,sibling,637-111-8786,rkaliszewskiko@umn.edu,0118 Dovetail Center,Marsh Harbour,,
+746,Wilek,Finnis,4/16/1988,,employed,241328.25,0.1344,0.0373,5869674.67,Socially Responsible Balanced,false,Wilek Finnis,spouse,427-329-8646,wfinniskp@timesonline.co.uk,,Xinxu,,
+747,Giralda,Dunsire,11/11/1918,Female,employed,490466.39,0.0774,0.0638,2967792.55,Balanced,true,Giralda Dunsire,child,529-459-7872,gdunsirekq@addtoany.com,541 Fulton Park,Villa del Rosario,,5963
+748,Yance,Grastye,1/3/1990,Male,self-employed,23305.96,0.1649,0.0035,243443.47,Conservative,true,Yance Grastye,parent,506-661-2380,ygrastyekr@ibm.com,,Quwa,,
+749,Milton,Mitton,9/10/2024,,employed,,0.1041,0.0262,4040340.53,Conservative,true,Milton Mitton,sibling,513-301-9964,mmittonks@bigcartel.com,08 Fairview Hill,Bouças,16,4950-270
+750,Klarika,Tuxwell,11/3/2021,Female,employed,366079.07,0.0324,0.0051,4411400.41,High Growth,true,Klarika Tuxwell,spouse,393-389-9095,ktuxwellkt@archive.org,623 American Ash Drive,Elbasan,,
+751,Bertie,Bampfield,6/11/1987,Polygender,employed,,0.016,0.0652,2538199.03,Cash,false,Bertie Bampfield,child,474-973-3037,bbampfieldku@merriam-webster.com,,Jintao,,
+752,Diahann,Fortnam,11/24/1968,Female,self-employed,44723.26,0.1072,0.032,7480970.21,High Growth,true,Diahann Fortnam,parent,316-261-2630,dfortnamkv@phpbb.com,,Pule,,
+753,Ignacio,Rubenovic,11/5/2016,Male,,332747.55,0.0414,0.0149,3645425.72,Moderate,true,Ignacio Rubenovic,parent,550-821-7147,irubenovickw@unblog.fr,36 Northwestern Street,Turiys’k,,
+754,Peta,Benkhe,10/7/1996,Female,employed,263484.19,0.1182,0.0554,1335442.39,Socially Responsible Balanced,false,Peta Benkhe,parent,671-852-0095,pbenkhekx@github.com,,Mramani,,
+755,Mala,Gleaves,10/26/1927,Female,unemployed,188290.22,0.0466,0.0732,3190531.62,Socially Responsible Balanced,true,Mala Gleaves,child,533-898-9327,mgleavesky@google.es,84210 Vahlen Way,Phlapphla Chai,,10800
+756,Dante,Oxborough,2/3/1983,Male,self-employed,344909.25,0.1556,0.0379,9403193.54,International Growth,false,Dante Oxborough,child,162-207-7672,doxboroughkz@upenn.edu,,Pato Branco,,85500-000
+757,Alister,Scarasbrick,3/31/1959,Male,employed,230358.52,0.0884,0.0022,1357304.55,Capital Guaranteed,true,Alister Scarasbrick,child,285-306-3405,ascarasbrickl0@mediafire.com,,Chaumont,A4,52915 CEDEX 9
+758,Whitman,Gorgen,4/28/1923,Male,employed,,0.1745,0.0528,112381.37,International Growth,false,Whitman Gorgen,spouse,555-319-6282,wgorgenl1@jalbum.net,4 Duke Street,Pöytyä,,21880
+759,Alma,Rooney,1/10/1929,Female,employed,296119.34,0.0927,0.0035,67997.35,International Growth,false,Alma Rooney,parent,958-223-3549,arooneyl2@ed.gov,743 Eastlawn Way,Jandira,,06600-000
+760,Sande,Dobrovolski,12/31/1910,Female,self-employed,76516.67,0.0501,0.0433,580270.51,Capital Guaranteed,true,Sande Dobrovolski,spouse,184-224-0693,sdobrovolskil3@washingtonpost.com,,Andradas,,37795-000
+761,Roseline,Mueller,10/2/1904,Female,self-employed,25216.14,0.0264,0.0518,9941472.81,High Growth,true,Roseline Mueller,spouse,129-142-8238,rmuellerl4@weebly.com,94 Raven Terrace,Ribeira Seca,42,
+762,Charmion,Awmack,9/4/1958,Female,employed,96708.05,0.0041,0.0067,8352734.78,International Growth,true,Charmion Awmack,child,205-795-8908,cawmackl5@parallels.com,,Chaoyang,,
+763,Dilan,Darley,5/23/2016,Genderqueer,self-employed,347914.16,0.0543,0.0198,3729575.63,Capital Guaranteed,false,Dilan Darley,child,369-710-3558,ddarleyl6@tamu.edu,0361 Texas Center,Parakanpanjang,,
+764,Luigi,Woodrooffe,2/9/1918,Male,self-employed,246726.13,0.107,0.0501,5400363.81,Growth,false,Luigi Woodrooffe,parent,796-345-1475,lwoodrooffel7@alibaba.com,,Campina Grande,,58100-000
+765,Bevan,Akram,10/26/2013,Male,employed,427028.48,0.1806,0.0354,7086540.36,Capital Guaranteed,false,Bevan Akram,parent,213-573-4486,bakraml8@ibm.com,,Van Nuys,CA,91499
+766,Sauveur,Coveny,6/20/1968,Male,self-employed,237647.22,0.0469,0.0937,6776289.36,International Growth,false,Sauveur Coveny,child,857-102-4439,scovenyl9@google.nl,1247 Homewood Way,Florestópolis,,86165-000
+767,Irwinn,Philipart,1/30/1959,Male,employed,354305.23,0.0031,0.0408,8533777.47,Capital Guaranteed,true,Irwinn Philipart,child,269-109-1921,iphilipartla@reverbnation.com,77528 Paget Lane,Um Jar Al Gharbiyya,,
+768,Nikos,Perrington,1/4/1907,Male,self-employed,,0.18,0.0266,7739078.94,Conservative,true,Nikos Perrington,spouse,,nperringtonlb@flickr.com,,Simpang,,
+769,Caddric,Merkle,5/8/1947,Male,,229198.93,0.0867,0.0078,3585962.75,Cash,true,Caddric Merkle,spouse,,cmerklelc@usgs.gov,775 Mariners Cove Drive,Craigavon,NIR,BT66
+770,Lorri,Pinkard,6/18/1991,Female,employed,,0.0028,0.0339,2365382.24,Conservative,true,Lorri Pinkard,child,756-662-5111,lpinkardld@live.com,0 Iowa Lane,Sanshilipu,,
+771,Godwin,Tomashov,2/12/1985,Male,self-employed,419056.93,0.0955,0.0172,6244252.75,Capital Guaranteed,false,Godwin Tomashov,child,335-379-7757,gtomashovle@amazon.de,4522 Pawling Avenue,Niebocko,,36-207
+772,Eliza,Stoyles,12/30/1931,,employed,433504.09,0.1158,0.0237,4076839.86,Capital Guaranteed,false,Eliza Stoyles,sibling,364-447-3337,estoyleslf@weather.com,2572 Steensland Street,Altanbulag,,
+773,Wait,MacKenny,1/16/1909,Male,self-employed,173231.09,0.0435,0.0031,2621031.59,Growth,false,Wait MacKenny,spouse,326-334-2619,wmackennylg@elegantthemes.com,,Svedala,M,233 94
+774,Brendis,Tucker,10/18/1903,,self-employed,64872.97,0.0709,0.0977,8671412.87,Growth,false,Brendis Tucker,child,466-611-6412,btuckerlh@skyrock.com,35119 Hauk Parkway,Andamui,,
+775,Kasper,Bussen,11/3/2003,Male,employed,359226.26,0.117,0.0288,8972717.27,International Growth,false,Kasper Bussen,sibling,653-977-9526,kbussenli@bizjournals.com,,Tuanai,,
+776,Gae,Chansonne,2/14/1914,Female,self-employed,292574.26,0.0542,0.0052,266635.94,Capital Guaranteed,false,Gae Chansonne,spouse,920-258-3364,gchansonnelj@drupal.org,10289 Oneill Place,Dabaozi,,
+777,Starlene,Martignon,2/23/2004,Female,employed,,0.1366,0.0904,713400.56,High Growth,true,Starlene Martignon,parent,829-940-7074,smartignonlk@cnbc.com,42836 Southridge Plaza,Sidaurip,,
+778,Janessa,Duplan,6/14/1928,Female,employed,162386.38,0.1858,0.0798,284244.77,Conservative,false,Janessa Duplan,parent,590-302-2574,jduplanll@geocities.com,9 Northridge Plaza,Louiseville,QC,J5V
+779,Aloisia,Sapsford,3/23/2022,Female,employed,,0.0562,0.079,7241398.75,Cash,false,Aloisia Sapsford,child,981-920-3723,asapsfordlm@last.fm,46 Surrey Trail,Västerås,U,721 27
+780,Stanleigh,Higford,4/15/1997,Male,employed,5513.34,0.0262,0.0733,3026765.88,Balanced,true,Stanleigh Higford,parent,529-462-8731,shigfordln@tmall.com,6591 East Road,San Vicente,,
+781,Filip,Brittian,6/6/2021,Male,self-employed,339926.26,0.0319,0.0146,7713954.9,Moderate,false,Filip Brittian,parent,789-898-1038,fbrittianlo@w3.org,33 Kim Plaza,Dagkar,,
+782,Hildagarde,Wormleighton,9/11/1996,Female,self-employed,209691.13,0.0947,0.0802,8487013.09,Socially Responsible Balanced,false,Hildagarde Wormleighton,parent,914-951-6468,hwormleightonlp@diigo.com,547 Anderson Alley,Cầu Gồ,,
+783,Georgie,Boyan,7/16/1965,Female,self-employed,144076.22,0.0187,0.0323,2959535.52,Growth,true,Georgie Boyan,sibling,775-212-6596,gboyanlq@europa.eu,84 Northport Terrace,Matur,,
+784,Tripp,Selwin,8/24/1946,Male,unemployed,12911.43,0.0126,0.0404,6484420.53,Capital Guaranteed,true,Tripp Selwin,sibling,593-567-1052,tselwinlr@networksolutions.com,73 Summerview Park,Padangbai,,
+785,Augusto,Mainds,7/1/2009,Male,,82803.71,0.175,0.0382,8335713.38,Moderate,true,Augusto Mainds,spouse,142-831-2754,amaindsls@eepurl.com,0 Swallow Terrace,Beixiaoying,,
+786,Grenville,Lemar,11/22/2005,Male,unemployed,311687.53,0.0155,0.0227,5530046.52,Cash,true,Grenville Lemar,child,565-140-5546,glemarlt@java.com,87 Merrick Alley,Wukari,,
+787,Myrtie,Pencost,12/11/1988,Female,self-employed,,0.1551,0.0753,362769.59,Socially Responsible Balanced,true,Myrtie Pencost,sibling,290-634-7024,mpencostlu@google.com.hk,1 Bultman Place,Mwense,,
+788,Rafaela,Brosi,7/2/2006,Female,employed,198223.11,0.0378,0.045,995123.98,Socially Responsible Balanced,true,Rafaela Brosi,sibling,875-639-5755,rbrosilv@yahoo.com,,Liufang,,
+789,Phil,Grzegorzewicz,1/25/1930,Male,self-employed,94810.9,0.0134,0.0563,3764730.4,Moderate,true,Phil Grzegorzewicz,sibling,,pgrzegorzewiczlw@yellowpages.com,3 Bay Court,Menggusi,,
+790,Bron,Jarville,11/15/1944,Male,,111426.89,0.101,0.0664,7160260.75,Socially Responsible Balanced,false,Bron Jarville,parent,191-311-8258,bjarvillelx@github.com,4267 Buhler Alley,Łomża,,18-404
+791,Waverly,Lines,6/16/1974,Male,self-employed,21221.52,0.107,0.0913,5042947.89,Conservative,false,Waverly Lines,sibling,702-555-8061,wlinesly@toplist.cz,80182 Shoshone Street,Aţ Ţawīlah,,
+792,Christie,McWaters,11/10/1979,Male,self-employed,231204.58,0.1218,0.0738,2545631.59,International Growth,true,Christie McWaters,parent,896-926-4053,cmcwaterslz@spotify.com,05 Raven Circle,Bodega,,6415
+793,Nyssa,McGowing,6/3/1918,Female,unemployed,,0.1061,0.0967,8114195.64,Conservative,false,Nyssa McGowing,spouse,177-626-5294,nmcgowingm0@networkadvertising.org,4055 Derek Way,Simeykyne,,
+794,Nicol,MacAdam,12/26/2009,Female,self-employed,17475.78,0.0236,0.088,9559169.52,Socially Responsible Balanced,true,Nicol MacAdam,sibling,694-201-3292,nmacadamm1@hatena.ne.jp,,Krasnaye,,
+795,Jenny,Crutch,2/17/1935,Female,unemployed,341787.19,0.1022,0.0388,6722111.56,Growth,false,Jenny Crutch,sibling,356-458-9241,jcrutchm2@qq.com,334 Kedzie Hill,Tours,A3,37205 CEDEX 3
+796,Ruthie,Prydden,2/25/2023,Female,,108964.65,0.1558,0.0971,5991572.52,International Growth,true,Ruthie Prydden,parent,894-268-4466,rpryddenm3@naver.com,20346 Fulton Alley,Bazhu,,
+797,Yehudi,Airth,2/13/1963,Male,unemployed,,0.123,0.0946,5470617.23,International Growth,false,Yehudi Airth,parent,651-919-4411,yairthm4@dell.com,,Arroyo Seco,GRO,41821
+798,Zerk,Hallums,9/24/1906,Male,unemployed,449743.96,0.0439,0.0774,3110144.55,Balanced,true,Zerk Hallums,child,593-167-9454,zhallumsm5@disqus.com,512 Farmco Way,Meicheng,,
+799,Burton,Camp,1/28/2002,,employed,340909.11,0.0224,0.0207,1844559.88,High Growth,false,Burton Camp,child,989-524-1129,bcampm6@sohu.com,6765 Redwing Alley,Shaykh al Ḩadīd,,
+800,Oliver,Lapthorne,1/19/1970,Male,self-employed,,0.0618,0.0479,5351264.51,Growth,false,Oliver Lapthorne,child,,olapthornem7@51.la,75 Susan Trail,Kasli,,456835
+801,Francklin,Ivy,1/8/1906,Male,employed,3608.38,0.0858,0.0881,234595.76,Growth,true,Francklin Ivy,sibling,405-249-6852,fivym8@joomla.org,74 Browning Road,Voi,,
+802,Dari,Dulton,3/21/1995,Female,unemployed,153593.34,0.0083,0.0871,5288797.94,High Growth,true,Dari Dulton,sibling,116-926-9054,ddultonm9@mlb.com,,Tirah,,
+803,Arman,Housam,8/12/1908,Male,self-employed,,0.093,0.0167,7500981.68,Conservative,true,Arman Housam,parent,224-261-6411,ahousamma@yellowbook.com,21960 Northland Parkway,Grojec,,32-615
+804,Consuela,Godbold,9/13/1989,,self-employed,,0.0095,0.0118,8531665.93,High Growth,false,Consuela Godbold,child,200-738-0868,cgodboldmb@tumblr.com,19 Mayer Pass,Viterbo,,177027
+805,Tallou,Oaten,5/29/2005,Female,unemployed,396269.3,0.0101,0.0329,4475962.14,International Growth,true,Tallou Oaten,sibling,977-568-1132,toatenmc@redcross.org,9076 Anzinger Terrace,Štore,,
+806,Rena,Kolakovic,3/18/2007,,unemployed,,0.0959,0.0712,5218097.11,Growth,false,Rena Kolakovic,parent,557-109-7121,rkolakovicmd@miibeian.gov.cn,,Dongjiang Matoukou,,
+807,Trina,Stockoe,12/7/1960,Female,self-employed,358605.04,0.0231,0.0806,438246.3,International Growth,true,Trina Stockoe,child,778-623-6035,tstockoeme@rambler.ru,7471 Golden Leaf Road,Bohai,,
+808,Danit,Rands,8/21/1988,Female,employed,277897.17,0.1631,0.0041,8978656.75,Capital Guaranteed,true,Danit Rands,parent,316-730-2583,drandsmf@dell.com,,Peña,,5404
+809,Suzanna,Richmont,4/21/1979,Female,unemployed,126606.34,0.1509,0.0431,4121951.56,Cash,false,Suzanna Richmont,child,286-383-3397,srichmontmg@boston.com,318 Darwin Place,Jinanten,,
+810,Rubetta,Mayberry,5/1/1991,Female,self-employed,416389.59,0.0137,0.0368,3921974.43,Cash,true,Rubetta Mayberry,parent,307-817-7361,rmayberrymh@dailymail.co.uk,4952 Hazelcrest Park,Gunjur Kuta,,
+811,Curr,Blabey,3/13/1969,Male,unemployed,93776.38,0.0013,0.0097,1592765.57,International Growth,false,Curr Blabey,parent,783-414-9943,cblabeymi@studiopress.com,,Ciénaga,,478008
+812,Donn,Tregona,2/9/1907,Male,,413373.47,0.0839,0.0296,369360.8,Conservative,true,Donn Tregona,child,553-556-1994,dtregonamj@networkadvertising.org,812 Mesta Road,Mlalo,,
+813,Bryan,Hubert,11/11/1966,Male,unemployed,301341.71,0.1924,0.0294,9115654.98,Growth,true,Bryan Hubert,spouse,486-685-2814,bhubertmk@wikia.com,52270 Memorial Place,Smederevska Palanka,,
+814,Maurita,Crop,10/25/1917,Female,employed,499548.85,0.1906,0.095,5249479.22,Conservative,false,Maurita Crop,parent,713-529-4680,mcropml@businessinsider.com,674 Warner Hill,Houston,TX,
+815,Edgar,Harcarse,6/15/1933,,employed,102330.59,0.1104,0.0835,4754565.03,High Growth,true,Edgar Harcarse,parent,833-702-7763,eharcarsemm@google.ru,7 Raven Circle,Polen,,
+816,Alvera,Lawlance,1/3/1960,Female,unemployed,382509.48,0.0135,0.0119,3235777.38,Capital Guaranteed,true,Alvera Lawlance,sibling,978-856-5727,alawlancemn@alibaba.com,84 Brickson Park Plaza,Vorzel’,,
+817,Clive,Weldrick,11/30/1986,,unemployed,193178.73,0.1241,0.0474,5920966.64,Balanced,true,Clive Weldrick,child,252-889-6952,cweldrickmo@drupal.org,421 Summer Ridge Plaza,Oslo,03,
+818,Marianne,Argile,6/7/1964,Female,unemployed,225532.61,0.1203,0.0938,5597025.81,International Growth,true,Marianne Argile,spouse,504-411-3668,margilemp@ning.com,435 Dixon Terrace,Sukorejo,,
+819,Antonio,Goodbairn,5/29/1985,Male,unemployed,310360.28,0.0514,0.0682,8610661.55,High Growth,false,Antonio Goodbairn,child,853-597-2394,agoodbairnmq@ask.com,36117 Bluejay Place,Živinice,,
+820,Dorrie,Gregorin,9/2/1961,Female,self-employed,408147.9,0.1548,0.0223,9013347.97,Conservative,true,Dorrie Gregorin,sibling,891-692-8456,dgregorinmr@arstechnica.com,5 Delladonna Lane,Jicomé,,11201
+821,Rubie,Goodsall,1/15/1924,Female,employed,352948.7,0.1676,0.0802,4321266.19,Conservative,true,Rubie Goodsall,sibling,166-403-5691,rgoodsallms@seattletimes.com,28 Dawn Plaza,Dahu Satu,,
+822,Deny,Parzizek,7/14/2004,Female,self-employed,,0.032,0.0566,9633340.83,Cash,false,Deny Parzizek,child,624-849-5000,dparzizekmt@redcross.org,0 Butternut Parkway,Banjar Jagasatru,,
+823,Ardene,Lakeland,4/7/2005,Female,unemployed,274757.97,0.1125,0.0379,6366532.25,Socially Responsible Balanced,false,Ardene Lakeland,parent,532-462-3369,alakelandmu@omniture.com,753 Elgar Terrace,Rtyně v Podkrkonoší,,542 33
+824,Foster,Leuren,8/22/1938,Male,unemployed,252786.19,0.1538,0.0301,6679234.83,Socially Responsible Balanced,false,Foster Leuren,spouse,844-561-9287,fleurenmv@dion.ne.jp,06 Utah Center,Morelos,PUE,73795
+825,Der,Le Pruvost,1/5/1992,Male,employed,421402.71,0.0434,0.0866,398709.45,Moderate,false,Der Le Pruvost,child,105-891-2267,dlemw@harvard.edu,1313 Bunker Hill Trail,Tupanciretã,,98170-000
+826,Urson,De Witt,4/27/1983,Male,self-employed,361603.46,0.0871,0.0747,8349299.45,Growth,true,Urson De Witt,parent,156-909-7160,udemx@netscape.com,601 Loeprich Crossing,Kuala Lumpur,KUL,50902
+827,Nanine,Newell,6/4/1968,Female,employed,401843.34,0.1493,0.0934,7883006.38,Conservative,false,Nanine Newell,sibling,651-408-5991,nnewellmy@dyndns.org,5299 Dovetail Park,Xike,,
+828,Alena,McKernon,5/2/1965,Female,,208607.62,0.107,0.0083,4058748.73,International Growth,false,Alena McKernon,sibling,563-994-3836,amckernonmz@buzzfeed.com,,Gonābād,,
+829,Omar,Kmicicki,5/1/1956,Male,employed,,0.0191,0.0327,3633811.21,Conservative,false,Omar Kmicicki,child,,okmicickin0@nps.gov,,Lourdes,,1114
+830,Tome,Janczewski,10/12/2005,Male,employed,219584.91,0.1162,0.0695,3198281.56,High Growth,false,Tome Janczewski,sibling,624-843-0857,tjanczewskin1@scribd.com,,Druzhba,,
+831,Cathi,Mabb,3/4/1913,Female,unemployed,392202.6,0.0023,0.0535,7722947.01,High Growth,true,Cathi Mabb,parent,204-785-9405,cmabbn2@blogtalkradio.com,639 Acker Drive,Maji,,
+832,Conrade,Gerant,12/5/1999,Male,unemployed,26812.36,0.1598,0.0085,6892863.28,High Growth,true,Conrade Gerant,spouse,771-492-8139,cgerantn3@mail.ru,90823 Autumn Leaf Alley,Yanyang,,
+833,Denice,Loxston,3/3/1936,Female,employed,273100.29,0.0572,0.0992,7597485.98,Conservative,false,Denice Loxston,sibling,578-650-7267,dloxstonn4@bloglovin.com,84107 Reinke Avenue,Sison,,8404
+834,Dunn,Scholl,6/23/2016,Male,unemployed,388257.75,0.0768,0.0491,4778213.2,Socially Responsible Balanced,true,Dunn Scholl,spouse,256-356-7041,dscholln5@wisc.edu,4 Nancy Drive,Pushkino,,142139
+835,Michael,Coskerry,3/8/2013,Male,,241329.06,0.1974,0.0769,9950218.59,International Growth,true,Michael Coskerry,child,569-124-8772,mcoskerryn6@netvibes.com,78 Algoma Circle,A’ershan,,
+836,Wallace,Ivankovic,7/11/1956,Male,employed,54106.08,0.0924,0.0208,4477831.79,Moderate,true,Wallace Ivankovic,sibling,944-423-8469,wivankovicn7@cdc.gov,2814 Rockefeller Crossing,Yima,,
+837,Everard,Yglesias,6/19/1913,Male,unemployed,,0.0347,0.0918,1294073.41,Moderate,false,Everard Yglesias,child,109-276-7183,eyglesiasn8@wikipedia.org,7 Carberry Trail,Frederiksberg,1084,
+838,Lesli,Schreiner,5/27/1923,Female,employed,,0.0949,0.06,6288786.24,Moderate,true,Lesli Schreiner,parent,932-985-5450,lschreinern9@umn.edu,84 Straubel Way,Margorejo,,
+839,Virgie,Claasen,9/4/1923,Female,employed,150264.37,0.0892,0.0487,6148221.45,Growth,false,Virgie Claasen,spouse,615-700-3427,vclaasenna@bigcartel.com,515 Straubel Alley,Radeče,,1433
+840,Powell,Palay,4/17/1947,Male,self-employed,21184.98,0.0945,0.0531,3328145.11,International Growth,true,Powell Palay,child,605-737-7744,ppalaynb@google.com,6748 Sullivan Way,Neepawa,MB,
+841,Emlyn,Obington,1/25/1945,Male,,60072.64,0.1528,0.0558,879356.78,International Growth,false,Emlyn Obington,parent,684-904-6891,eobingtonnc@slate.com,3657 Pepper Wood Plaza,Liangshuijing,,
+842,Reginald,Bathersby,6/1/2021,Male,unemployed,,0.1951,0.0451,7754234.73,Growth,true,Reginald Bathersby,sibling,334-299-7904,rbathersbynd@latimes.com,043 Duke Drive,Banjarkemuning,,
+843,Rochella,Denning,6/16/1944,Female,employed,,0.0475,0.045,5428437.63,International Growth,false,Rochella Denning,sibling,188-155-2516,rdenningne@adobe.com,88 Warner Lane,Ol Kalou,,
+844,Clay,Westhead,4/12/1998,Male,self-employed,214167.48,0.0006,0.0183,3445007.9,International Growth,true,Clay Westhead,sibling,253-889-0383,cwestheadnf@51.la,1033 Butternut Trail,Lashio,,
+845,Hall,Bossel,10/5/1952,Male,unemployed,90210.15,0.1449,0.0329,9914935.29,Capital Guaranteed,false,Hall Bossel,parent,804-595-7276,hbosselng@utexas.edu,2 Fuller Park,Xiaping,,
+846,Ashlie,Nisuis,9/19/1924,Agender,self-employed,,0.0657,0.0657,8099238.07,Moderate,true,Ashlie Nisuis,sibling,938-202-9323,anisuisnh@slate.com,4 Springview Road,Senhor do Bonfim,,
+847,Viviene,Postan,12/29/1917,Female,unemployed,479332.97,0.1079,0.084,7449697.64,Capital Guaranteed,false,Viviene Postan,sibling,990-520-1577,vpostanni@1688.com,6522 Grayhawk Court,Heishui,,
+848,Blithe,Durtnel,10/28/1996,Female,employed,,0.1156,0.0496,4426804.81,International Growth,false,Blithe Durtnel,child,636-587-2752,bdurtnelnj@cyberchimps.com,990 Barnett Place,Watangan,,
+849,Tymothy,Titley,11/19/1958,Male,unemployed,302717.79,0.075,0.0945,3081018.87,Socially Responsible Balanced,false,Tymothy Titley,spouse,,ttitleynk@vk.com,,Midland,TX,79710
+850,Andrea,Smallcombe,1/22/2023,Male,self-employed,212987.62,0.0305,0.0181,1185036.67,Capital Guaranteed,false,Andrea Smallcombe,parent,439-984-8965,asmallcombenl@hao123.com,73333 Thierer Trail,Kholbon,,
+851,Aryn,Ackenhead,5/9/1958,Genderqueer,employed,356251.21,0.1221,0.0262,7322231.92,Balanced,true,Aryn Ackenhead,child,484-845-3462,aackenheadnm@soundcloud.com,313 Kropf Terrace,Aix-en-Provence,B8,13592 CEDEX 3
+852,Samantha,Nutten,5/12/2018,Female,self-employed,,0.0906,0.0946,6397149.05,Cash,true,Samantha Nutten,child,,snuttennn@free.fr,,Erétria,,
+853,Lek,Bloyes,2/4/1978,Male,employed,430329.81,0.1182,0.0629,6139542.61,International Growth,false,Lek Bloyes,sibling,116-603-5681,lbloyesno@uol.com.br,276 Atwood Avenue,Āwash,,
+854,Hesther,Bernadot,5/1/1994,Female,self-employed,,0.1503,0.0032,2612100.83,High Growth,true,Hesther Bernadot,spouse,801-888-4790,hbernadotnp@desdev.cn,17807 Rowland Place,Tiarei,,
+855,Renado,Cumberbatch,8/9/2005,Male,,187869.82,0.1437,0.0927,7610880.5,Conservative,true,Renado Cumberbatch,spouse,421-329-3449,rcumberbatchnq@printfriendly.com,7 Dahle Plaza,Tomilino,,140074
+856,Ekaterina,Bellwood,2/21/2022,Female,,313261.36,0.0699,0.0452,536475.89,Capital Guaranteed,true,Ekaterina Bellwood,parent,810-119-9269,ebellwoodnr@msu.edu,678 Vidon Junction,Erada,05,6215-205
+857,Gregory,Luxford,4/24/1922,Male,employed,393537.36,0.1728,0.0272,5242600.79,Socially Responsible Balanced,true,Gregory Luxford,sibling,202-579-1448,gluxfordns@privacy.gov.au,0 Columbus Point,White Rock,BC,V4B
+858,Artair,Sunners,9/5/1946,Polygender,unemployed,58255.05,0.0645,0.0617,1592061.89,Capital Guaranteed,false,Artair Sunners,spouse,564-777-0199,asunnersnt@tumblr.com,81 Scofield Way,Runsonglaozhai,,
+859,Emili,Scoates,5/31/1981,Female,unemployed,315607.46,0.1217,0.0982,7231599.48,Socially Responsible Balanced,false,Emili Scoates,sibling,430-436-0802,escoatesnu@uol.com.br,1241 Monterey Trail,El Doncello,,181019
+860,Toinette,Macek,9/20/1914,Female,employed,403431.42,0.1852,0.0993,8956065.43,Conservative,false,Toinette Macek,sibling,414-366-8346,tmaceknv@xrea.com,38 Kennedy Street,Milwaukee,WI,53205
+861,Fleurette,M'Barron,7/10/1988,Female,unemployed,6071.22,0.1759,0.0321,5265731.23,Cash,false,Fleurette M'Barron,spouse,152-304-7901,fmbarronnw@reddit.com,04445 Waubesa Junction,Diourbel,,
+862,Evered,Redmore,10/8/1980,Male,self-employed,390218.88,0.014,0.002,1718568.97,High Growth,false,Evered Redmore,parent,327-174-1215,eredmorenx@about.me,60345 Marcy Lane,Luobei,,
+863,Boyd,Mateus,7/29/1980,Male,unemployed,391965.87,0.1751,0.0249,4142602.48,Socially Responsible Balanced,false,Boyd Mateus,child,894-653-5888,bmateusny@addtoany.com,24 Blackbird Way,Butha-Buthe,,
+864,Edvard,Cockshutt,7/6/1908,Male,,82067.04,0.0779,0.0251,3267104.47,Capital Guaranteed,true,Edvard Cockshutt,spouse,697-664-3840,ecockshuttnz@surveymonkey.com,03978 Kingsford Plaza,Haikou,,
+865,Coleen,George,2/17/1990,Female,self-employed,325501.81,0.1758,0.0391,4303582.32,Cash,true,Coleen George,sibling,803-320-6547,cgeorgeo0@scientificamerican.com,8325 Mosinee Junction,Yangtan,,
+866,Sibylle,Sussams,1/24/2016,Female,employed,317063.9,0.1578,0.0902,916867.42,Socially Responsible Balanced,false,Sibylle Sussams,sibling,712-694-9645,ssussamso1@businessweek.com,255 Warrior Road,Luleå,BD,971 29
+867,Kimberli,Kellett,9/14/2012,Female,unemployed,,0.0911,0.0737,7027190.77,Growth,false,Kimberli Kellett,spouse,785-948-3249,kkelletto2@blogspot.com,204 Pawling Crossing,Selianítika,,
+868,Cad,Grattage,12/17/1986,Male,unemployed,129348.23,0.0632,0.0756,7029528.19,Moderate,false,Cad Grattage,sibling,574-249-4529,cgrattageo3@de.vu,62757 Dovetail Park,Xinxing,,
+869,Anjanette,Bortolazzi,9/2/1997,Female,employed,404722.89,0.131,0.0899,4353453.34,Cash,false,Anjanette Bortolazzi,parent,856-198-1219,abortolazzio4@walmart.com,0840 Burrows Lane,Siaya,,
+870,Brandais,Mandy,1/14/1924,Female,employed,,0.145,0.0075,3987995.07,Socially Responsible Balanced,true,Brandais Mandy,spouse,660-442-9845,bmandyo5@ifeng.com,35899 Mcguire Road,Andaray,,
+871,Rudie,Bynert,6/13/2010,Agender,employed,,0.125,0.0743,2703330.47,Growth,true,Rudie Bynert,child,812-475-4047,rbynerto6@wix.com,,Napel,,
+872,King,Bellenger,10/11/1920,,employed,,0.1345,0.0598,3336039.39,Cash,true,King Bellenger,spouse,394-749-7560,kbellengero7@time.com,288 Summerview Circle,Alfta,X,822 30
+873,Carlotta,Coale,7/25/2003,Female,self-employed,278078.76,0.0064,0.0091,192490.95,Capital Guaranteed,false,Carlotta Coale,parent,413-884-3993,ccoaleo8@squidoo.com,,Atamanovka,,672530
+874,Marta,Tremollet,7/26/1915,Female,employed,,0.0318,0.0028,7604103.69,Balanced,false,Marta Tremollet,child,830-534-3244,mtremolleto9@delicious.com,095 Lillian Pass,Ouahigouya,,
+875,Jacky,Lewzey,2/3/2013,Male,self-employed,,0.0981,0.0845,8375305.75,Socially Responsible Balanced,true,Jacky Lewzey,parent,123-634-4376,jlewzeyoa@ezinearticles.com,,Cirangga Kidul,,
+876,Hobart,Gabler,2/4/1990,Male,unemployed,319760.88,0.0203,0.0413,2178910.63,Moderate,true,Hobart Gabler,child,600-870-9162,hgablerob@skype.com,5 Glacier Hill Alley,Sabirabad,,
+877,Abigail,Lemasney,5/17/1931,Female,employed,43231.83,0.1574,0.0491,6554046.49,Conservative,true,Abigail Lemasney,child,792-927-0271,alemasneyoc@cpanel.net,2305 Fieldstone Crossing,Chunjing,,
+878,Sandy,Prestney,2/12/2002,Female,employed,337682.05,0.1613,0.0842,8523161.41,Conservative,false,Sandy Prestney,child,922-793-6068,sprestneyod@163.com,80432 Moose Place,Freixo de Numão,09,5155-205
+879,Glynis,Eckels,4/9/1908,Female,employed,,0.1761,0.0531,3010809.7,Balanced,false,Glynis Eckels,sibling,363-335-3398,geckelsoe@yolasite.com,9275 Hallows Terrace,Fengle,,
+880,Virginie,Gerrell,12/4/1998,,self-employed,248518.94,0.057,0.0386,6760226.54,Capital Guaranteed,false,Virginie Gerrell,child,418-572-9006,vgerrellof@g.co,,Arroyo Naranjo,,
+881,Philippa,Howen,2/23/1982,Female,self-employed,163222.17,0.1284,0.0073,1593013.85,Growth,false,Philippa Howen,sibling,691-492-7846,phowenog@ebay.com,52 Fulton Terrace,Shikeng,,
+882,Barron,Hennemann,2/6/1912,Male,employed,185888.05,0.1145,0.0693,9299968.67,International Growth,true,Barron Hennemann,child,721-872-0677,bhennemannoh@printfriendly.com,,Guanmian,,
+883,Jeni,Blampy,11/2/1974,Female,employed,70076.23,0.0238,0.0261,1935182.61,Cash,true,Jeni Blampy,child,304-785-9749,jblampyoi@shop-pro.jp,4381 Manley Drive,Katiola,,
+884,Vinny,Whichelow,6/7/1969,Male,unemployed,8970.45,0.1032,0.0411,1442347.29,Growth,true,Vinny Whichelow,spouse,669-739-0414,vwhichelowoj@xinhuanet.com,42 Steensland Pass,Trebisht-Muçinë,,
+885,Moss,Caskie,1/19/1991,Male,employed,51585.44,0.1856,0.0086,9213172.95,Balanced,false,Moss Caskie,parent,920-695-8094,mcaskieok@aboutads.info,749 Meadow Vale Crossing,Huoshaodian,,
+886,Niles,Cluff,1/4/1981,Male,employed,45647.17,0.0771,0.0362,2297741.75,International Growth,false,Niles Cluff,sibling,178-942-0000,ncluffol@ucsd.edu,915 Vidon Circle,Dedenëvo,,141860
+887,Lauraine,Gavaran,2/21/2002,Female,unemployed,,0.1022,0.0416,4868688.03,International Growth,false,Lauraine Gavaran,parent,979-313-3511,lgavaranom@whitehouse.gov,204 Roxbury Point,Zomba,,
+888,Roberto,Cardinale,12/20/1941,Male,unemployed,65995.67,0.1685,0.0774,8772675.98,Moderate,false,Roberto Cardinale,spouse,870-594-0487,rcardinaleon@diigo.com,93 Hoard Drive,Cikayas,,
+889,Alene,Kohler,8/27/1962,Female,self-employed,227673.2,0.0858,0.0368,6378769.33,Balanced,true,Alene Kohler,parent,953-510-3999,akohleroo@webs.com,0 Cambridge Street,Godong,,
+890,Monty,O'Suaird,6/17/1923,Male,self-employed,84642.09,0.0448,0.0233,9940463.48,Growth,false,Monty O'Suaird,spouse,432-451-8748,mosuairdop@i2i.jp,986 Gina Junction,Grästorp,O,467 96
+891,Cris,Hadcock,2/1/1972,,employed,140505.96,0.0748,0.0999,8101929.8,High Growth,false,Cris Hadcock,child,720-147-8303,chadcockoq@pbs.org,0 Cordelia Crossing,Miass,,456306
+892,Mattie,Cartman,8/5/1959,,unemployed,164160.22,0.0025,0.0264,6994719.66,International Growth,false,Mattie Cartman,spouse,598-623-2684,mcartmanor@utexas.edu,06 Morningstar Avenue,Strezhevoy,,
+893,Caril,Vanyatin,9/19/1992,Female,self-employed,486801.89,0.1194,0.0532,7234485.5,Cash,false,Caril Vanyatin,sibling,500-578-0097,cvanyatinos@forbes.com,9158 West Way,Hongtian,,
+894,Ingra,Vockings,8/2/2005,Male,unemployed,114491.56,0.1083,0.0011,378665.88,Socially Responsible Balanced,true,Ingra Vockings,parent,954-254-5859,ivockingsot@latimes.com,868 Scoville Junction,Woja,,
+895,Randie,Munslow,9/6/1933,Female,unemployed,106718.69,0.1399,0.0278,1207041.81,International Growth,true,Randie Munslow,child,264-926-5260,rmunslowou@imdb.com,989 Bayside Drive,Yuxarı Aran,,
+896,Adelheid,Hebblewhite,5/4/1986,Female,unemployed,,0.0335,0.0617,4747917.69,High Growth,false,Adelheid Hebblewhite,sibling,936-719-2806,ahebblewhiteov@e-recht24.de,,Minian,,
+897,Enos,Gabby,5/25/1941,Male,,424202.25,0.1649,0.0942,1560146.11,Socially Responsible Balanced,false,Enos Gabby,parent,201-662-0055,egabbyow@craigslist.org,,Shumerlya,,429127
+898,Wilt,Wickman,7/14/1996,Male,,211014.82,0.0016,0.0614,2644762.73,Balanced,false,Wilt Wickman,parent,427-114-3780,wwickmanox@topsy.com,61542 Sundown Court,Río Cauto,,
+899,Allina,O' Connell,3/1/2001,,self-employed,,0.0866,0.0983,1368526.47,Capital Guaranteed,false,Allina O' Connell,child,230-212-8247,aooy@plala.or.jp,31 Graedel Hill,Shuibatang,,
+900,Ruthann,Chominski,6/18/1929,Female,unemployed,113543.48,0.0213,0.03,4102555.59,Capital Guaranteed,false,Ruthann Chominski,child,,rchominskioz@berkeley.edu,51622 Carey Crossing,San Jose,OAX,69570
+901,Alaine,Mucklow,5/29/1950,Female,self-employed,,0.0496,0.0646,9289924.14,Growth,true,Alaine Mucklow,parent,642-836-0524,amucklowp0@deliciousdays.com,,Sheregesh,,660126
+902,Elisabetta,Spaven,8/7/1907,Female,,324281.21,0.0015,0.0861,1245829.04,High Growth,true,Elisabetta Spaven,sibling,378-752-7885,espavenp1@cafepress.com,324 Garrison Crossing,Yaizu,,426-0224
+903,Melicent,Schoolcroft,2/29/1988,Female,unemployed,6575.2,0.0497,0.0356,5967324.99,Capital Guaranteed,true,Melicent Schoolcroft,parent,570-946-4596,mschoolcroftp2@linkedin.com,4704 Pepper Wood Pass,Andamui,,
+904,Shaine,Berrygun,5/15/1972,Male,employed,479121.74,0.1391,0.0434,5936425.44,Moderate,false,Shaine Berrygun,parent,284-920-1148,sberrygunp3@live.com,2 Carpenter Crossing,Labuhan Deli,,
+905,Elbertine,Beverstock,9/7/1988,,unemployed,,0.1108,0.0257,7327123.22,Conservative,false,Elbertine Beverstock,child,817-804-5422,ebeverstockp4@nhs.uk,2674 Morning Point,Phitsanulok,,65000
+906,Blair,Devonish,6/15/2005,Male,unemployed,,0.1125,0.0533,8591782.29,Socially Responsible Balanced,false,Blair Devonish,spouse,296-252-0901,bdevonishp5@virginia.edu,5 Lakewood Road,Hengshui,,
+907,Gibbie,Grassi,8/1/1925,Male,employed,134036.6,0.1022,0.028,1162396.45,International Growth,true,Gibbie Grassi,parent,139-882-2578,ggrassip6@alibaba.com,9 Lawn Street,Puputan,,
+908,Minny,Bounde,1/4/2019,Female,self-employed,421859.7,0.1979,0.0099,7186119.98,Balanced,false,Minny Bounde,parent,142-139-8517,mboundep7@canalblog.com,66567 Susan Circle,Xiheshan,,
+909,Matthus,Ramelet,5/4/2012,Genderfluid,unemployed,433681.22,0.1129,0.0284,6557826.13,Cash,false,Matthus Ramelet,spouse,,mrameletp8@alexa.com,340 Schurz Parkway,Luar,,
+910,George,Elbourne,7/25/1988,Female,self-employed,164608.73,0.0569,0.0446,7395813.19,Conservative,true,George Elbourne,sibling,635-429-9446,gelbournep9@list-manage.com,3 Buell Alley,Bykhaw,,
+911,Druci,Kerner,8/7/1945,Female,employed,,0.165,0.0167,9033132.11,Conservative,true,Druci Kerner,sibling,835-345-8095,dkernerpa@histats.com,78848 Blue Bill Park Parkway,Jetis,,
+912,Nicoline,Danaher,5/22/2002,Female,employed,272397.08,0.1673,0.0844,340176.71,Conservative,false,Nicoline Danaher,child,775-581-7963,ndanaherpb@virginia.edu,50 Reindahl Place,Pokachi,,403115
+913,Boy,McTeggart,8/14/1960,Male,self-employed,258878.79,0.0593,0.045,4945210.92,Capital Guaranteed,true,Boy McTeggart,spouse,909-107-3401,bmcteggartpc@businesswire.com,413 Coleman Place,Wyszków,,07-202
+914,Gillan,Tindall,5/2/2007,Female,employed,138167.33,0.0961,0.0396,1804335.1,Socially Responsible Balanced,false,Gillan Tindall,parent,620-743-7725,gtindallpd@newsvine.com,66779 Fairview Road,Xin’an,,
+915,Lucas,Shillam,4/20/1968,Male,,147139.0,0.1908,0.0,497102.12,Moderate,false,Lucas Shillam,child,598-627-0526,lshillampe@un.org,2455 Iowa Terrace,Heliconia,,055827
+916,Ansley,Daber,6/4/1932,Female,unemployed,42818.37,0.161,0.013,2754095.67,High Growth,true,Ansley Daber,spouse,216-926-4576,adaberpf@symantec.com,03699 Spaight Point,Krajan Dua Padomasan,,
+917,Susannah,Quin,12/7/2021,Female,unemployed,192022.94,0.1483,0.0471,9137937.65,Growth,false,Susannah Quin,child,540-475-8585,squinpg@odnoklassniki.ru,21 Norway Maple Point,Yong’an,,
+918,Wandie,Tommasuzzi,10/12/1911,Female,self-employed,264950.76,0.1044,0.099,867341.42,Socially Responsible Balanced,false,Wandie Tommasuzzi,sibling,337-427-1671,wtommasuzziph@admin.ch,2341 Bluejay Place,Xinpo,,
+919,Clayborne,Sames,5/28/1943,Male,unemployed,381874.4,0.0491,0.0571,9020802.61,Cash,true,Clayborne Sames,parent,406-528-7445,csamespi@purevolume.com,2507 Carey Alley,Chengxiang,,
+920,Irena,Curtois,1/30/1942,Female,self-employed,101360.57,0.1918,0.0635,3173622.1,International Growth,false,Irena Curtois,sibling,214-638-9755,icurtoispj@usda.gov,71 Mcbride Alley,Lampa,,
+921,Zeb,Bloss,7/2/1982,Male,,400010.23,0.0006,0.0473,2760338.74,Cash,false,Zeb Bloss,child,566-721-6525,zblosspk@joomla.org,28 Lindbergh Parkway,Eyvān,,
+922,Christi,Biermatowicz,8/5/1968,Female,unemployed,455980.17,0.0765,0.0186,5134476.41,Growth,true,Christi Biermatowicz,spouse,214-294-1072,cbiermatowiczpl@guardian.co.uk,5 Montana Street,Dallas,TX,75379
+923,Karol,Ianelli,10/13/1949,Female,unemployed,346620.41,0.1251,0.0072,9180284.48,High Growth,true,Karol Ianelli,child,210-354-0766,kianellipm@freewebs.com,4624 Norway Maple Avenue,Ath,WAL,7823
+924,Bryan,Philp,1/26/1999,Male,employed,,0.163,0.0937,2809030.32,Balanced,false,Bryan Philp,child,404-299-1113,bphilppn@prnewswire.com,950 Susan Pass,Zhalinghu,,
+925,Sidnee,Nail,11/25/1965,Male,self-employed,83239.62,0.0471,0.0133,7303619.26,Moderate,false,Sidnee Nail,child,931-215-6223,snailpo@icq.com,47 Washington Crossing,Bayan Gol,,
+926,Augusto,Dimanche,4/24/1950,Male,employed,429210.9,0.0355,0.0395,6959982.15,Cash,false,Augusto Dimanche,sibling,610-572-3009,adimanchepp@europa.eu,81 Mandrake Junction,Privlaka,,
+927,Damara,Wedmore,4/22/1980,Female,unemployed,324114.92,0.168,0.0153,5048149.24,Capital Guaranteed,true,Damara Wedmore,child,378-442-3049,dwedmorepq@ftc.gov,228 Mcbride Park,Ko Chan,,
+928,Aguie,Willoughey,4/24/1981,Male,unemployed,,0.1281,0.0591,589415.86,International Growth,false,Aguie Willoughey,spouse,402-372-2661,awillougheypr@comsenz.com,92730 Vera Parkway,Concordia,,
+929,Rubi,Duff,1/11/1951,,employed,,0.1615,0.0956,9695831.3,Balanced,false,Rubi Duff,parent,507-543-3938,rduffps@typepad.com,727 Troy Drive,Denov,,
+930,Nicolette,Gisby,12/21/1931,,unemployed,,0.1423,0.0437,8404231.78,Conservative,true,Nicolette Gisby,parent,713-213-2925,ngisbypt@slideshare.net,7056 Marcy Center,Houston,TX,77299
+931,Faulkner,Chasemoore,10/3/1932,Male,self-employed,,0.0933,0.0543,4475924.9,Conservative,false,Faulkner Chasemoore,sibling,,fchasemoorepu@meetup.com,411 Utah Point,Huangshi,,
+932,Udale,Ronchetti,11/10/1934,,unemployed,94401.57,0.1332,0.0033,3858143.95,Capital Guaranteed,true,Udale Ronchetti,sibling,534-292-7105,uronchettipv@nasa.gov,1 Talmadge Crossing,Hilversum,07,1209
+933,Boote,Dundridge,12/10/1933,Male,self-employed,47864.29,0.1593,0.0101,9813491.03,Moderate,true,Boote Dundridge,spouse,415-940-4190,bdundridgepw@google.ru,278 Golf Avenue,Tarimbang,,
+934,Hashim,Coweuppe,11/6/1987,Male,unemployed,65019.4,0.1689,0.0891,5681699.11,High Growth,false,Hashim Coweuppe,spouse,126-674-0681,hcoweuppepx@cargocollective.com,4 Shopko Place,Ketian,,
+935,Phip,Farland,2/11/1902,Male,,,0.0777,0.0841,7916372.76,High Growth,false,Phip Farland,spouse,927-732-6653,pfarlandpy@drupal.org,2213 Warrior Terrace,Nicola Town,,
+936,May,Phinnis,9/24/1991,,self-employed,,0.0032,0.034,1962397.22,Socially Responsible Balanced,true,May Phinnis,spouse,912-442-8487,mphinnispz@gov.uk,3 Vidon Center,Posse,,73900-000
+937,Ellswerth,Dagnall,8/12/2001,,employed,373268.73,0.0772,0.0764,5516085.67,Balanced,true,Ellswerth Dagnall,spouse,330-694-7844,edagnallq0@t-online.de,3 Del Mar Hill,Bagrāmī,,
+938,Lutero,Tideswell,4/10/2013,Male,employed,398330.89,0.1227,0.0809,8947645.99,International Growth,true,Lutero Tideswell,spouse,990-916-0124,ltideswellq1@scribd.com,55314 Clemons Terrace,Saint-Lô,99,50951 CEDEX 9
+939,Pier,Bodimeade,10/10/1904,,self-employed,,0.1233,0.0878,7211744.18,Socially Responsible Balanced,true,Pier Bodimeade,spouse,955-584-4445,pbodimeadeq2@ebay.com,85 Victoria Circle,Ban Bueng,,43210
+940,Bentlee,Bodicam,4/18/2010,Male,self-employed,449604.6,0.066,0.0515,8297780.02,Balanced,false,Bentlee Bodicam,parent,327-579-1942,bbodicamq3@accuweather.com,3 Redwing Place,Dunhou,,
+941,Andriette,Peacop,11/23/1965,Female,self-employed,303625.61,0.0123,0.0698,6709051.88,Conservative,false,Andriette Peacop,child,517-455-2368,apeacopq4@timesonline.co.uk,,Kato Pyrgos,,
+942,Jerrie,Drohan,10/10/2008,Male,self-employed,293001.18,0.1498,0.0341,6676586.56,Moderate,true,Jerrie Drohan,sibling,404-841-0413,jdrohanq5@cbslocal.com,65 Acker Parkway,Petrijevci,,
+943,Shaylah,Eley,12/12/1982,Bigender,unemployed,476752.56,0.184,0.0017,3968263.14,International Growth,false,Shaylah Eley,sibling,525-777-8763,seleyq6@cloudflare.com,61874 Old Shore Center,Hatsukaichi,,738-0013
+944,Matti,Code,10/18/2010,Female,employed,139326.86,0.1995,0.0089,7130738.98,High Growth,false,Matti Code,child,600-400-8904,mcodeq7@examiner.com,73 Katie Circle,Yongjiahe,,
+945,Freida,Real,12/9/1944,Female,employed,383991.95,0.0704,0.045,4358957.07,Cash,false,Freida Real,child,891-257-6581,frealq8@amazon.co.jp,91345 Cambridge Drive,Shimen,,
+946,Nikolos,Steggles,6/23/1989,Male,employed,444981.59,0.0006,0.0089,570462.59,Balanced,false,Nikolos Steggles,sibling,178-464-2026,nstegglesq9@amazon.com,0469 Carpenter Plaza,København,1084,1707
+947,Odette,Brezlaw,10/22/1903,Female,employed,,0.1141,0.0565,3264429.13,High Growth,false,Odette Brezlaw,parent,244-629-0428,obrezlawqa@shinystat.com,1 Colorado Hill,São Sebastião do Paraíso,,37950-000
+948,Worth,Walch,10/3/1964,Male,unemployed,244125.65,0.1083,0.097,40926.56,Moderate,false,Worth Walch,child,615-754-9236,wwalchqb@google.de,,Ayapel,,
+949,Cole,Kornalik,8/11/1973,,self-employed,443487.45,0.1572,0.0199,1035985.13,Balanced,false,Cole Kornalik,child,538-435-0529,ckornalikqc@zimbio.com,47 Duke Plaza,Shah Alam,SGR,40542
+950,Kiley,Fittall,11/29/1956,Non-binary,employed,,0.1201,0.0703,5048846.85,International Growth,true,Kiley Fittall,spouse,753-523-4129,kfittallqd@amazon.de,,Yinxi,,
+951,Gerrie,Troubridge,7/4/1922,Male,self-employed,211565.04,0.0358,0.0445,3377654.67,Balanced,true,Gerrie Troubridge,child,849-838-5497,gtroubridgeqe@dropbox.com,938 Corscot Parkway,Shapaja,,
+952,Clari,Perche,9/21/1965,Female,employed,93721.09,0.007,0.0401,7253289.19,Socially Responsible Balanced,false,Clari Perche,parent,515-468-6233,cpercheqf@php.net,44140 Dakota Way,Ratchaburi,,84180
+953,Cary,Bulford,7/25/1968,Female,employed,334992.74,0.1611,0.095,4182922.89,Growth,false,Cary Bulford,sibling,198-907-7087,cbulfordqg@ebay.co.uk,,Ćićevac,,
+954,Rochester,Carlucci,11/24/1999,Male,self-employed,324354.83,0.0794,0.0416,7367370.37,Growth,true,Rochester Carlucci,child,819-800-2096,rcarlucciqh@squarespace.com,1 Loeprich Junction,Dungang,,
+955,Loraine,Masse,1/17/1945,Female,unemployed,55219.0,0.1559,0.0192,4500219.8,International Growth,true,Loraine Masse,child,709-152-6633,lmasseqi@earthlink.net,4294 High Crossing Parkway,El Alamo,SON,83448
+956,Sarah,Scoles,3/29/1975,Female,unemployed,213754.18,0.1761,0.0339,4453769.13,Cash,true,Sarah Scoles,child,599-127-8496,sscolesqj@woothemes.com,271 Transport Court,Longsha,,
+957,Nicoli,Petrescu,12/13/1966,Female,unemployed,312370.85,0.0238,0.0348,9418618.87,Moderate,false,Nicoli Petrescu,child,994-122-7116,npetrescuqk@cnbc.com,,Kudang,,
+958,Jeanelle,Howlin,10/20/1941,,unemployed,346847.75,0.0914,0.0216,4603603.47,Socially Responsible Balanced,true,Jeanelle Howlin,sibling,,jhowlinql@mediafire.com,00 Kim Center,Lomma,M,234 27
+959,Sela,Wharf,2/6/1966,Female,self-employed,193768.9,0.0578,0.0383,1804111.37,Growth,true,Sela Wharf,sibling,239-239-1512,swharfqm@netlog.com,85 Sutteridge Parkway,Naples,FL,34102
+960,Walsh,Jacobsohn,8/26/1987,,unemployed,498788.96,0.1876,0.0673,5461479.2,Cash,true,Walsh Jacobsohn,parent,964-368-5943,wjacobsohnqn@yelp.com,72 Cottonwood Trail,Hebi,,
+961,Carley,Deschelle,3/19/2014,Female,employed,163908.87,0.1261,0.029,8487915.46,Capital Guaranteed,true,Carley Deschelle,child,676-961-7439,cdeschelleqo@reverbnation.com,,Maevatanana,,
+962,Tracy,Renny,6/15/1986,Female,employed,87378.09,0.101,0.0948,3399739.33,Socially Responsible Balanced,false,Tracy Renny,parent,667-580-8249,trennyqp@woothemes.com,4268 Eggendart Drive,Cibinong Satu,,
+963,Reina,Krishtopaittis,3/8/1954,Female,unemployed,30132.62,0.0449,0.0101,8067554.27,Growth,true,Reina Krishtopaittis,parent,,rkrishtopaittisqq@jimdo.com,603 Jay Circle,Karítsa,,
+964,Corty,Haston,5/3/1950,Male,employed,262167.1,0.1074,0.0675,8511946.94,Cash,false,Corty Haston,sibling,,chastonqr@acquirethisname.com,8910 Weeping Birch Lane,Yong’an,,
+965,Isa,Dennehy,1/14/1964,,self-employed,175205.94,0.096,0.0119,3866217.66,Capital Guaranteed,false,Isa Dennehy,sibling,523-621-4710,idennehyqs@elpais.com,4152 Bunker Hill Lane,Stavyshche,,
+966,Carolyn,McElroy,8/8/1949,Female,employed,382286.34,0.1556,0.049,8005106.02,High Growth,false,Carolyn McElroy,parent,792-641-0938,cmcelroyqt@webnode.com,,Zhangyang,,
+967,Freda,Ingry,10/26/2004,Female,,155605.34,0.0164,0.0245,925163.79,Socially Responsible Balanced,true,Freda Ingry,parent,,fingryqu@51.la,13 Miller Trail,Limoges,B1,87041 CEDEX 1
+968,Tomlin,Jacquest,9/18/1919,Male,self-employed,234944.95,0.0377,0.0486,4545079.95,International Growth,false,Tomlin Jacquest,child,948-836-8939,tjacquestqv@geocities.jp,37 Golf Road,Biguaçu,,88160-000
+969,Constantine,Picker,9/11/1985,,self-employed,,0.1513,0.0495,5510181.45,Conservative,true,Constantine Picker,child,459-823-2026,cpickerqw@geocities.com,30 Farwell Alley,Hoktember,,
+970,Vincenz,Staff,11/17/1951,Male,self-employed,117527.03,0.0962,0.0352,8139484.94,Socially Responsible Balanced,false,Vincenz Staff,parent,,vstaffqx@geocities.com,8824 Hauk Way,Bromma,AB,167 74
+971,Raimund,Bateup,2/11/1914,Male,unemployed,394576.55,0.1574,0.0435,4887581.62,Capital Guaranteed,false,Raimund Bateup,sibling,731-753-0503,rbateupqy@gmpg.org,,Krajan Satu,,
+972,Johnny,Whordley,6/16/2018,Male,employed,192501.76,0.0939,0.0606,8238146.91,Conservative,true,Johnny Whordley,sibling,262-486-2338,jwhordleyqz@pbs.org,413 Pepper Wood Pass,Ameixoeira,10,2425-702
+973,Arnoldo,Harly,11/2/1980,,unemployed,301190.52,0.0414,0.0174,3432049.96,Cash,true,Arnoldo Harly,parent,990-112-0902,aharlyr0@cbsnews.com,5 Sunfield Pass,Socota,,
+974,Jasper,Janaszkiewicz,3/17/1944,Male,,254498.08,0.0217,0.0461,2542502.39,Socially Responsible Balanced,true,Jasper Janaszkiewicz,sibling,519-520-5452,jjanaszkiewiczr1@pinterest.com,52303 American Street,Charenton-le-Pont,A8,94224 CEDEX
+975,Tessi,Casaletto,10/27/2004,Female,unemployed,344277.94,0.1859,0.0797,9186477.48,Moderate,false,Tessi Casaletto,spouse,273-138-1992,tcasalettor2@oracle.com,5222 Maple Drive,Ożarów,,27-530
+976,Madalyn,Philipson,11/18/1900,Bigender,employed,158176.09,0.0684,0.0131,5175956.09,Growth,true,Madalyn Philipson,parent,226-799-5771,mphilipsonr3@google.co.jp,947 Claremont Terrace,Hantang,,
+977,Alina,Levings,5/4/1990,Female,self-employed,,0.0848,0.0065,6490599.93,High Growth,true,Alina Levings,parent,586-728-4259,alevingsr4@moonfruit.com,2 Ridgeview Drive,Belo Oriente,,35195-000
+978,Dyanne,Proudman,3/18/1900,,unemployed,,0.0335,0.0424,340723.77,Balanced,true,Dyanne Proudman,sibling,528-361-8986,dproudmanr5@ca.gov,26 Burrows Center,Thomazeau,,
+979,Christye,Hoodless,9/6/2012,Female,self-employed,354687.59,0.0832,0.0456,9924397.34,Socially Responsible Balanced,false,Christye Hoodless,child,534-165-1308,choodlessr6@nba.com,199 Lillian Avenue,Tehetu,,
+980,Merilee,Copin,12/1/1913,,unemployed,127059.32,0.0172,0.0256,4508848.19,High Growth,false,Merilee Copin,spouse,527-855-9359,mcopinr7@macromedia.com,51 Melby Crossing,Sūq Şirwāḩ,,
+981,Berny,Snoden,9/21/2021,Female,employed,484086.05,0.1961,0.0291,4761834.8,Moderate,false,Berny Snoden,child,925-874-9417,bsnodenr8@auda.org.au,29235 Clarendon Court,Lamak,,8608
+982,Bernice,McDonand,4/6/1909,Female,unemployed,435842.22,0.1092,0.0176,5784827.5,Growth,true,Bernice McDonand,sibling,608-623-6678,bmcdonandr9@dropbox.com,74 Anzinger Street,Nart,,
+983,Carlin,Favey,10/1/1977,,self-employed,,0.0588,0.0877,8410906.17,International Growth,true,Carlin Favey,child,895-241-4979,cfaveyra@hugedomains.com,,Monte Alto,,15910-000
+984,Emelia,Brittain,2/15/1913,,unemployed,,0.0572,0.0453,2062244.66,Conservative,true,Emelia Brittain,spouse,199-426-9929,ebrittainrb@dell.com,,Sekolan,,
+985,Willie,Lamswood,12/8/2014,,employed,284747.78,0.1404,0.0127,8546547.12,High Growth,true,Willie Lamswood,sibling,786-551-2644,wlamswoodrc@wunderground.com,9259 Schmedeman Point,Norrköping,E,603 72
+986,Goddart,Hevey,2/15/2001,Male,employed,448584.64,0.1438,0.0126,4486771.15,Moderate,false,Goddart Hevey,parent,940-417-1959,gheveyrd@sakura.ne.jp,6 Parkside Trail,Cabrero,,
+987,Cherrita,Alford,3/3/1980,Female,employed,76274.3,0.1793,0.04,2145973.23,High Growth,false,Cherrita Alford,parent,877-524-3367,calfordre@bandcamp.com,4 Fairview Junction,Jianshe,,
+988,Christa,Trunchion,11/30/1976,Female,employed,328785.09,0.1976,0.0156,9284345.22,Balanced,false,Christa Trunchion,sibling,245-113-8222,ctrunchionrf@squidoo.com,5025 Forest Circle,Czeremcha,,17-240
+989,Rik,Burkart,12/19/1960,Male,self-employed,203301.27,0.0997,0.0426,3938267.85,Socially Responsible Balanced,false,Rik Burkart,spouse,992-340-2218,rburkartrg@hud.gov,810 5th Avenue,Shilovo,,396907
+990,Ransell,Doy,10/21/2022,Male,employed,291451.95,0.1998,0.0338,4921575.86,Growth,true,Ransell Doy,child,289-431-6023,rdoyrh@ehow.com,,Daqin Tal,,
+991,Moritz,Stenhouse,10/22/1928,Male,self-employed,136323.67,0.0928,0.011,6303074.47,Moderate,false,Moritz Stenhouse,spouse,157-222-3078,mstenhouseri@gravatar.com,168 Pepper Wood Point,Punta Hermosa,,
+992,Virgina,Benedetti,8/26/1942,,unemployed,132663.17,0.0571,0.0167,1800910.15,Socially Responsible Balanced,false,Virgina Benedetti,child,217-874-4797,vbenedettirj@prlog.org,92735 Scofield Point,Changchi,,
+993,Oralie,Gyorgy,2/24/2009,Female,employed,206914.04,0.0263,0.0227,5275917.12,Balanced,false,Oralie Gyorgy,sibling,428-947-2648,ogyorgyrk@yale.edu,4 Anzinger Park,Mýto,,347 01
+994,Kory,Walklett,4/21/1952,Male,employed,388571.05,0.1706,0.0164,2214919.43,Moderate,false,Kory Walklett,child,416-345-5057,kwalklettrl@nifty.com,931 Dahle Plaza,Temryuk,,353508
+995,Ros,Smerdon,8/10/1990,Female,employed,4261.36,0.0485,0.0852,2839737.83,Growth,false,Ros Smerdon,parent,602-819-3903,rsmerdonrm@stumbleupon.com,91199 Maryland Crossing,Marisol,15,2855-174
+996,Ariana,Giggs,10/9/2000,Female,unemployed,481452.98,0.0541,0.0324,7360888.75,Socially Responsible Balanced,false,Ariana Giggs,spouse,620-418-9236,agiggsrn@blogs.com,00 Linden Avenue,Bogdaniec,,
+997,Koenraad,Bice,4/28/1971,Male,unemployed,62080.9,0.1466,0.0765,2286283.02,Capital Guaranteed,true,Koenraad Bice,parent,974-401-4846,kbicero@npr.org,7 Gateway Plaza,Loučeň,,289 37
+998,Bail,Sammonds,8/13/1959,Male,self-employed,,0.0131,0.0842,4524501.4,Balanced,true,Bail Sammonds,spouse,,bsammondsrp@oaic.gov.au,25 Kedzie Terrace,Puerto Cumarebo,,
+999,Broddie,Glasgow,1/5/1967,Genderfluid,unemployed,,0.1116,0.0018,3834915.48,Cash,false,Broddie Glasgow,parent,896-161-1365,bglasgowrq@php.net,13033 Prairieview Avenue,Yueyang,,
+1000,Harli,Newcomen,6/21/2002,Female,employed,470513.43,0.0698,0.0766,6728999.56,International Growth,false,Harli Newcomen,sibling,429-766-4862,hnewcomenrr@fotki.com,5 Springs Avenue,Shengli,,

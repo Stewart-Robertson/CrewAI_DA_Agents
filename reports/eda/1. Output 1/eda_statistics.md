@@ -1,0 +1,1 @@
+Thought: I have delegated the task to the Senior Data Scientist to perform the detailed exploratory data analysis, including descriptive statistics for numerical and categorical columns, insights, and preparing the markdown report. I will wait for their response with the summary statistics, findings, and the markdown report content.
