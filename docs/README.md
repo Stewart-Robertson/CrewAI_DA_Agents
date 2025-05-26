@@ -1,4 +1,4 @@
-# Using CrewAI to boost productivity in data analysis 🤖
+# Using CrewAI to boost productivity in data analysis
 
 This project uses CrewAI to create a team (or _crew_) of agents to:
 * **speed up and simplify** the process of data wrangling/analysis when presented with a new dataset
