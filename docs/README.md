@@ -1,14 +1,16 @@
 # Using CrewAI to boost productivity in data analysis
 
 This project uses CrewAI to create a team (or _crew_) of agents to:
-* **speed up and simplify** the process of data wrangling/analysis when presented with a new dataset
-* offer **strategies** to deal with any issues identified
-* develop preliminary **strategic insights** from the data
-* suggest areas for **further analysis**
-* use the results to create **business-ready presentations** using AI
+* **Speed up and simplify** the process of data wrangling/analysis when presented with a new dataset
+* Offer **strategies** to deal with any issues identified
+* Develop preliminary **strategic insights** from the data
+* Suggest areas for **further analysis**
+* Use the results to create **business-ready presentations** using AI
 
 The project uses CrewAI for a number of reasons, but mainly because it is open source
 and serves as a flexible, application-agnostic agent-building framework.
+
+A visual representation of the project is below:
 
 ![Project Diagram](https://github.com/user-attachments/assets/20db56c7-f6c4-4ee7-8f12-a66f101c8ccb)
 
