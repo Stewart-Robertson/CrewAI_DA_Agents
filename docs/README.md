@@ -12,7 +12,7 @@ and serves as a flexible, application-agnostic agent-building framework.
 
 A visual representation of the project is below:
 
-![Project Diagram](https://github.com/user-attachments/assets/b3edfc38-c619-4722-aaf8-b4ff3356b509)
+![Project Diagram](https://github.com/user-attachments/assets/0000c096-7624-4388-b30e-4c164f8d24ef)
 
 
 ## Project Structure
