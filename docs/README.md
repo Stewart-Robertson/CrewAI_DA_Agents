@@ -5,7 +5,7 @@ This project uses CrewAI to create a team (or _crew_) of agents to:
 * Offer **strategies** to deal with any issues identified
 * Develop preliminary **strategic insights** from the data
 * Suggest areas for **further analysis**
-* Use the results to create **business-ready presentations** using AI. Note that nothing has been changed by me in the presentations, so there are some oddities in the AI images. But the outcome is still impressive.
+* Use the results to create **business-ready presentations** using AI. Note that nothing has been changed by me in the presentations, so there are some oddities in the AI images (although I think they are very impressive for being made in seconds).
 
 The project uses CrewAI for a number of reasons, but mainly because it is open source
 and serves as a flexible, application-agnostic agent-building framework.
