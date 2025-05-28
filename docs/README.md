@@ -1,5 +1,7 @@
 # Using CrewAI to boost productivity in data analysis
 
+Powerful libraries exist for data profiling (e.g. Ydata) – this project served as practice in using CrewAI to implement similar features to these data profiling libraries, with the aim of familiarising myself with how CrewAI works and how to implement AI agents in python.
+
 This project uses CrewAI to create a team (or _crew_) of agents to:
 * **Speed up and simplify** the process of data wrangling/analysis when presented with a new dataset
 * Offer **strategies** to deal with any issues identified
